@@ -42,10 +42,9 @@ export function generateTermString(termIdx: number, flowStartYear: string): stri
   if (termIdx === -1) {
     termString = 'Credit Bin';
   } else {
-    // Summer [startingYearString] will be tIndex 0, and increment from there
     const startingYear = parseInt(flowStartYear);
 
-    switch (termIdx % 4) {
+    switch (termIdx % 3) {
       case 0: {
         termString += 'Summer';
         break;
@@ -55,16 +54,11 @@ export function generateTermString(termIdx: number, flowStartYear: string): stri
         break;
       }
       case 2: {
-        termString += 'Winter';
-        break;
-      }
-      case 3: {
         termString += 'Spring';
         break;
       }
     }
 
-    // first two terms are an anomaly
     switch (termIdx) {
       case 0: {
         termString += ' ' + startingYear.toString();
@@ -75,7 +69,7 @@ export function generateTermString(termIdx: number, flowStartYear: string): stri
         break;
       }
       default: {
-        termString += ' ' + (startingYear + Math.floor((termIdx - 2) / 4) + 1).toString();
+        termString += ' ' + (startingYear + Math.floor((termIdx - 1) / 3) + 1).toString();
         break;
       }
     }

@@ -37,4 +37,4 @@ function validateCatalogCourseRequisites(catalog: string) {
   console.log('finished validation', validationErrorCount, 'errors');
 }
 
-validateCatalogCourseRequisites('2022-2026');
+validateCatalogCourseRequisites('2026-2028');
