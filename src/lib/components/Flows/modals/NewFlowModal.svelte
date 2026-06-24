@@ -27,6 +27,7 @@
 
   // customization
   let removeGECourses = false;
+  let includeSummerTerms = false;
 
   // UI state
   let loading = false;
@@ -42,7 +43,8 @@
       name: flowName,
       startYear: flowStartYear,
       programIds: programIds.join(','),
-      removeGECourses: String(removeGECourses)
+      removeGECourses: String(removeGECourses),
+      includeSummerTerms: String(includeSummerTerms),
     };
     const searchParams = new URLSearchParams(payload);
 
@@ -121,7 +123,7 @@
     flowName = '';
     flowStartYear = '';
     removeGECourses = false;
-
+    includeSummerTerms = false;
     // need to empty arr and tick so that all elements in programselector are destroyed
     // before setting it to the default value
     programIdInputs = [];
@@ -160,6 +162,10 @@
       <div class="label">
         <span class="label-text">Remove GE Courses in Template</span>
         <Toggle name={'Remove GE Courses'} bind:checked={removeGECourses} />
+      </div>
+      <div class="label">
+        <span class="label-text">Include Summer Terms</span>
+        <Toggle name={'Include Summer Terms'} bind:checked={includeSummerTerms} />
       </div>
     </div>
 
