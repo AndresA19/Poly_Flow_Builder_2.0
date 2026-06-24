@@ -31,6 +31,7 @@ export const GET: RequestHandler = async ({ locals, url }) => {
       ownerId: locals.session.id,
       programIds: data.programIds?.split(','),
       removeGECourses: data.removeGECourses ? data.removeGECourses === 'true' : undefined,
+      includeSummerTerms: data.includeSummerTerms ? data.includeSummerTerms === 'true' : undefined,
       generateCourseCache: data.generateCourseCache
         ? data.generateCourseCache === 'true'
         : undefined

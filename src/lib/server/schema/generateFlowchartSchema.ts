@@ -32,6 +32,7 @@ export const generateFlowchartSchema = z.object({
       'Cannot have duplicate program ids in flowchart.'
     ),
   removeGECourses: z.boolean().default(false),
+  includeSummerTerms: z.boolean().default(false),
   generateCourseCache: z.boolean().default(true)
 });
 

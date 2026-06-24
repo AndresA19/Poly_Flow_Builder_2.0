@@ -178,6 +178,12 @@ export async function generateFlowchart(
     });
   }
 
+  if (!data.includeSummerTerms) {
+    generatedFlowchart.termData = generatedFlowchart.termData.filter(
+      (term) => term.tIndex % 3 !== 0
+    );
+  }
+
   // compute total units
   generatedFlowchart.unitTotal = computeTotalUnits(
     generatedFlowchart.termData,

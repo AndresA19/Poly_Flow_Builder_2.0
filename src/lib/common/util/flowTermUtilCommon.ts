@@ -69,7 +69,7 @@ export function generateTermString(termIdx: number, flowStartYear: string): stri
         break;
       }
       default: {
-        termString += ' ' + (startingYear + Math.floor((termIdx - 1) / 3) + 1).toString();
+        termString += ' ' + (startingYear + Math.floor((termIdx - 1) / 3)).toString();
         break;
       }
     }
