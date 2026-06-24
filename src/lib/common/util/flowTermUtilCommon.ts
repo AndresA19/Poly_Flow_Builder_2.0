@@ -42,34 +42,21 @@ export function generateTermString(termIdx: number, flowStartYear: string): stri
   if (termIdx === -1) {
     termString = 'Credit Bin';
   } else {
+    const yearOffset = Math.floor((termIdx - 1) / 3);
     const startingYear = parseInt(flowStartYear);
+    const year = startingYear + yearOffset;
 
     switch (termIdx % 3) {
       case 0: {
-        termString += 'Summer';
+        termString += 'Summer ' + (year + 1).toString();
         break;
       }
       case 1: {
-        termString += 'Fall';
+        termString += 'Fall ' + year.toString();
         break;
       }
       case 2: {
-        termString += 'Spring';
-        break;
-      }
-    }
-
-    switch (termIdx) {
-      case 0: {
-        termString += ' ' + startingYear.toString();
-        break;
-      }
-      case 1: {
-        termString += ' ' + startingYear.toString();
-        break;
-      }
-      default: {
-        termString += ' ' + (startingYear + Math.floor((termIdx - 1) / 3)).toString();
+        termString += 'Spring ' + (year + 1).toString();
         break;
       }
     }
