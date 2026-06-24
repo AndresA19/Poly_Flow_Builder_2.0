@@ -180,7 +180,7 @@ export async function generateFlowchart(
 
   if (!data.includeSummerTerms) {
     generatedFlowchart.termData = generatedFlowchart.termData.filter(
-      (term) => term.tIndex % 3 !== 0
+      (term) => term.tIndex === -1 || term.tIndex % 3 !== 0
     );
   }
 
