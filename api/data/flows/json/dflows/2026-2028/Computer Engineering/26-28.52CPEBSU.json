@@ -2,7 +2,7 @@
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
   "name": "26-28.52CPEBSU",
-  "programId": ["219d0c83-1fdb-4972-a6d7-1e66524f501a"],
+  "programId": ["b3f614f7-c1f6-4aad-8eb6-bb8da4bee0f9"],
   "startYear": "2026",
   "unitTotal": "124-128",
   "notes": "",
@@ -84,7 +84,7 @@
     },
     {
       "tIndex": 5,
-      "tUnits": "16",
+      "tUnits": "16-17",
       "courses": [
         {
           "id": "CPE233",
@@ -166,7 +166,7 @@
     },
     {
       "tIndex": 10,
-      "tUnits": "16",
+      "tUnits": "15",
       "courses": [
         {
           "id": null,
@@ -198,7 +198,7 @@
     },
     {
       "tIndex": 11,
-      "tUnits": "15",
+      "tUnits": "13-14",
       "courses": [
         {
           "id": null,
