@@ -5,10 +5,13 @@
       "$lib/*": ["../../src/lib/*"]
     },
     "baseUrl": "./",
+    "ignoreDeprecations": "6.0",
     "esModuleInterop": true,
     "verbatimModuleSyntax": true,
     "isolatedModules": true,
     "strictNullChecks": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
     "lib": ["esnext", "DOM", "DOM.Iterable"],
     "moduleResolution": "node",
     "module": "esnext",
