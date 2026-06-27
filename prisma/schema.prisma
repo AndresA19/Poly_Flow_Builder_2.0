@@ -186,19 +186,19 @@ enum TokenType {
 }
 
 enum GECategoryEnum {
-  1A
-  1B
-  1C
-  5A
-  5B
-  5C
-  2
+  GE_1A
+  GE_1B
+  GE_1C
+  GE_5A
+  GE_5B
+  GE_5C
+  GE_2
   UPPER_DIVISION_2_5
-  3A
-  3B
+  GE_3A
+  GE_3B
   UPPER_DIVISION_3
-  4A
-  4B
+  GE_4A
+  GE_4B
   UPPER_DIVISION_4
-  6
+  GE_6
 }
