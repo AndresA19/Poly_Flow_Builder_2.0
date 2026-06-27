@@ -173,7 +173,6 @@ model TermTypicallyOffered {
   catalog               String
   termSummer            Boolean
   termFall              Boolean
-  termWinter            Boolean
   termSpring            Boolean
 
   course                APICourse             @relation(fields: [id, catalog], references: [id, catalog], onDelete: Restrict)
@@ -187,20 +186,19 @@ enum TokenType {
 }
 
 enum GECategoryEnum {
-  A1
-  A2
-  A3
-  B1
-  B2
-  B3
-  B4
-  UPPER_DIVISION_B
-  C1
-  C2
-  UPPER_DIVISION_C
-  D1
-  D2
-  UPPER_DIVISION_D
-  E
-  F
+  1A
+  1B
+  1C
+  5A
+  5B
+  5C
+  2
+  UPPER_DIVISION_2/5
+  3A
+  3B
+  UPPER_DIVISION_3
+  4A
+  4B
+  UPPER_DIVISION_4
+  6
 }
