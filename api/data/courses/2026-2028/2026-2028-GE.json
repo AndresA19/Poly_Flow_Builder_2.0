@@ -1,2357 +1,2442 @@
 [
   {
     "catalog": "2026-2028",
-    "id": "AERO 3300",
+    "id": "AERO3300",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "AERO 3310",
+    "id": "AERO3310",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "AG/PLSC 3315",
+    "id": "AG/PLSC3315",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "AG 3350",
+    "id": "AG3350",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "AG/ASCI 3360",
+    "id": "AG/ASCI3360",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "ANT 2202",
+    "id": "ANT2202",
     "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "ANT 2250",
+    "id": "ANT2250",
     "category": "GE_5B"
   },
   {
     "catalog": "2026-2028",
-    "id": "ANT 3330",
+    "id": "ANT3330",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "ANT 3345",
+    "id": "ANT3345",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "ANT 3360",
+    "id": "ANT3360",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "ARCE 2280",
+    "id": "ARCE2280",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ARCE 3381",
+    "id": "ARCE3381",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "ARCH 1121",
+    "id": "ARCH1121",
     "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "ARCH 2000",
+    "id": "ARCH2000",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ARCH 2221",
+    "id": "ARCH2221",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ARCH 2222",
+    "id": "ARCH2222",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ARCH 3325",
+    "id": "ARCH3325",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 1101",
+    "id": "ART1101",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 1111",
+    "id": "ART1111",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 1112",
+    "id": "ART1112",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 1130",
+    "id": "ART1130",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 1160",
+    "id": "ART1160",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 1184",
+    "id": "ART1184",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 1187",
+    "id": "ART1187",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 2201",
+    "id": "ART2201",
     "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3310",
+    "id": "ART3310",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3311",
+    "id": "ART3311",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3314",
+    "id": "ART3314",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3317",
+    "id": "ART3317",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3320",
+    "id": "ART3320",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3321",
+    "id": "ART3321",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3322",
+    "id": "ART3322",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3323",
+    "id": "ART3323",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART 3324",
+    "id": "ART3324",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ART/WGQS 3327",
+    "id": "ART/WGQS3327",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "ASCI 1112",
+    "id": "ASCI1112",
     "category": "GE_5B"
   },
   {
     "catalog": "2026-2028",
-    "id": "ASCI 2215",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ASCI 3319",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ASCI/AG 3360",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ASTR 1101",
-    "category": "GE_5A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ASTR 1102",
-    "category": "GE_5A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ASTR 3324",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BIO 1111",
+    "id": "ASCI2215",
     "category": "GE_5B"
   },
   {
     "catalog": "2026-2028",
-    "id": "BIO 1112",
+    "id": "ASCI2215",
     "category": "GE_5C"
   },
   {
     "catalog": "2026-2028",
-    "id": "BIO 1113",
-    "category": "GE_5B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BIO 1114",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BIO 1150",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BIO 1151",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BIO 2213",
-    "category": "GE_5B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BIO 2215",
-    "category": "GE_5B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BIO 2217",
-    "category": "GE_5B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BIO 3312",
+    "id": "ASCI3319",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "BIO 3315",
+    "id": "ASCI/AG3360",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "BIO/CHEM 3318",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BOT 1121",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BOT 3311",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BRAE 2220",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BRAE 3340",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BRAE 3348",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BRAE 3349",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BUS 1204",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BUS 2201",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "BUS 3311",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "CHEM 1110",
-    "category": "GE_5AGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "CHEM 1112",
+    "id": "ASTR1101",
     "category": "GE_5A"
   },
   {
     "catalog": "2026-2028",
-    "id": "CHEM 1120",
-    "category": "GE_5AGE_5C"
+    "id": "ASTR1102",
+    "category": "GE_5A"
   },
   {
     "catalog": "2026-2028",
-    "id": "CHEM 1122",
-    "category": "GE_5AGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "CHEM/BIO 3318",
+    "id": "ASTR3324",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "CHEM 3350",
+    "id": "BIO1111",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO1112",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO1113",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO1114",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO1114",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO1150",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO1150",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO1151",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO1151",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO2213",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO2215",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO2217",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BIO3312",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "CHEM 3352",
+    "id": "BIO3315",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "CHEM 3374",
+    "id": "BIO/CHEM3318",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "CHIN 1141",
-    "category": "GE_3B"
+    "id": "BOT1121",
+    "category": "GE_5B"
   },
   {
     "catalog": "2026-2028",
-    "id": "CHIN 1142",
-    "category": "GE_3B"
+    "id": "BOT1121",
+    "category": "GE_5C"
   },
   {
     "catalog": "2026-2028",
-    "id": "CHIN 2201",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "CHIN 2202",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "CHIN 2241",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "CHIN 2242",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "CM 3317",
+    "id": "BOT3311",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "CM 3318",
+    "id": "BRAE2220",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BRAE2220",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BRAE3340",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BRAE3348",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BRAE3349",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 1101",
+    "id": "BUS1204",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BUS2201",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "BUS3311",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM1110",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM1110",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM1112",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM1120",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM1120",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM1122",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM1122",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM/BIO3318",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM3350",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM3352",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHEM3374",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHIN1141",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHIN1142",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHIN2201",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHIN2202",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHIN2241",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CHIN2242",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CM3317",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "CM3318",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "COMS1101",
     "category": "GE_1C"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 1102",
+    "id": "COMS1102",
     "category": "GE_1C"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 1126",
+    "id": "COMS1126",
     "category": "GE_1B"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 1145",
+    "id": "COMS1145",
     "category": "GE_1B"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 2208",
+    "id": "COMS2208",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 2211",
+    "id": "COMS2211",
     "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 2217",
+    "id": "COMS2217",
     "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 3305",
+    "id": "COMS3305",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 3308",
+    "id": "COMS3308",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 3316",
+    "id": "COMS3316",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 3320",
+    "id": "COMS3320",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 3384",
+    "id": "COMS3384",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "COMS 3386",
+    "id": "COMS3386",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "CRP 1222",
+    "id": "CRP1222",
     "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "CRP 3303",
+    "id": "CRP3303",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "CRP 3334",
+    "id": "CRP3334",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "CSC 3200",
+    "id": "CSC3200",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "DANC 2221",
+    "id": "DANC2221",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "DANC 3321",
+    "id": "DANC3321",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "DSCI 2229",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "DSCI 3388",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ECON 2001",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ECON 2040",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ECON 3071",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ECON 3081",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "EDES 1123",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "EDES 3350",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "EIM 2201",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "EIM/NR 3328",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 1132",
-    "category": "GE_1A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 1133",
-    "category": "GE_1A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 1134",
-    "category": "GE_1A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 1145",
-    "category": "GE_1B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 1146",
-    "category": "GE_1B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 1147",
-    "category": "GE_1B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 1148",
-    "category": "GE_1B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2230",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2231",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2241",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2242",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2251",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2252",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2253",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL/LS 2255",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2259",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2272",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 2274",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3310",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3311",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3313",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3315",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3317",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3330",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3331",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3332",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3333",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3334",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3335",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3339",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3340",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3341",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3342",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3343",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3345",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3346",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3347",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3348",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3349",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3350",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3351",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3352",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3354",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3371",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3372",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3373",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3374",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3375",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3380",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3381",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3386",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3387",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3388",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3611",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3618",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3621",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3624",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3625",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3626",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGL 3627",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENGR 3350",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ENVE 3324",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ERSC 3335",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 1112",
-    "category": "GE_4A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 1134",
-    "category": "GE_1A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 1145",
-    "category": "GE_1B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2220",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2221",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2222",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2223",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2252",
-    "category": "GE_6"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2253",
-    "category": "GE_6"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2254",
-    "category": "GE_6"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2255",
-    "category": "GE_6"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 2256",
-    "category": "GE_6"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3300",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3301",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3302",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3303",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3304",
-    "category": "GE_6"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3310",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3311",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3312",
-    "category": "GE_6"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3324",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3325",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3330",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3335",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3340",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES/WGQS 3345",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES/WGQS 3350",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES/WGQS 3351",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3360",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3380",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3381",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ES 3382",
-    "category": "GE_6"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "FR 2201",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "FR 2202",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "FR 2233",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "FR 3305",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "FR 3350",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "FSN 3305",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "FSN 3316",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "FSN 3319",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GEOG 1150",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GEOG 3308",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GEOG 3350",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GEOG 3370",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GEOG 3380",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GEOL 2203",
-    "category": "GE_5A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GER 2201",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GER 2233",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GER 3304",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GER 3305",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GER 3350",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GRC 1100",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "GRC 3200",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2201",
-    "category": "GE_4A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2202",
-    "category": "GE_4A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2206",
-    "category": "GE_4A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2210",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2211",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2212",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2213",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2216",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2222",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2223",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 2225",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3306",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3307",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3308",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3309",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3310",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3311",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3313",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3316",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3317",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3318",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3319",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3320",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3321",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3322",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3326",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3333",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3334",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3335",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3336",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3337",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3338",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3350",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3351",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HIST 3355",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HLTH 1155",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HLTH 1160",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HLTH 2261",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HLTH 3305",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HLTH 3322",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HLTH 3344",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HLTH 3348",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "HNRS 1164",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "IME 3320",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ISLA 2240",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ISLA 3303",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ISLA 3305",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ISLA 3320",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ISLA/WGQS 3335",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ISLA 3345",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ISLA 3350",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ISLA/WGQS 3360",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ITAL 2201",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ITAL 2202",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ITAL 2241",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ITAL 2242",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ITP 3330",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ITP 3341",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "JOUR 2228",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "JPNS 2201",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "JPNS 2202",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "KINE 3323",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "KINE 3324",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "KINE 3325",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "KINE 3382",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "LA 1104",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "LA 2203",
+    "id": "DSCI2229",
     "category": "GE_5B"
   },
   {
     "catalog": "2026-2028",
-    "id": "LA/NR 3317",
+    "id": "DSCI2229",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "DSCI3388",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "LS/ENGL 2255",
-    "category": "GE_3B"
+    "id": "ECON2001",
+    "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "LS 2370",
-    "category": "GE_3A"
+    "id": "ECON2040",
+    "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "LS 3350",
+    "id": "ECON3071",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "MATE 3232",
+    "id": "ECON3081",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "MATE 3359",
+    "id": "EDES1123",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "EDES3350",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "MATH 1001",
-    "category": "GE_2"
+    "id": "EIM2201",
+    "category": "GE_4B"
   },
   {
     "catalog": "2026-2028",
-    "id": "MATH 1004",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 1005",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 1006",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 1007",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 1261",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 1262",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 1264",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 1267",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 3051",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 3111",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 3301",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MATH 3351",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MCRO 2221",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MCRO 3321",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "ME 3234",
+    "id": "EIM/NR3328",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "ME 3236",
-    "category": "UPPER_DIVISION_2_5"
+    "id": "ENGL1132",
+    "category": "GE_1A"
   },
   {
     "catalog": "2026-2028",
-    "id": "MSCI 1111",
-    "category": "GE_5B"
+    "id": "ENGL1133",
+    "category": "GE_1A"
   },
   {
     "catalog": "2026-2028",
-    "id": "MU 1101",
-    "category": "GE_3A"
+    "id": "ENGL1134",
+    "category": "GE_1A"
   },
   {
     "catalog": "2026-2028",
-    "id": "MU 1120",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MU 2221",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MU 2227",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "MU 3324",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR 3304",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR 3308",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR 3310",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR 3312",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR/LA 3317",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR 3321",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR 3323",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR 3324",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR/EIM 3328",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "NR 3335",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 1126",
+    "id": "ENGL1145",
     "category": "GE_1B"
   },
   {
     "catalog": "2026-2028",
-    "id": "PHIL 2230",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 2231",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3301",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3309",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3310",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3312",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3313",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3314",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3315",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3317",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3318",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3319",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3321",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3322",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3323",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3327",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3328",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3331",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3332",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3333",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3334",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3335",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL/WGQS 3336",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3337",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3339",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3340",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3341",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3342",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3343",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3350",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3351",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3361",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3362",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHIL 3369",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHYS 1104",
-    "category": "GE_5A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHYS 1111",
-    "category": "GE_5A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHYS 1121",
-    "category": "GE_5AGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHYS 1141",
-    "category": "GE_5AGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHYS 1143",
-    "category": "GE_5AGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PHYS 3305",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PLSC 1110",
-    "category": "GE_5BGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PLSC/AG 3315",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PLSC 3329",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PLSC/SS 3444",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "POLS 1112",
-    "category": "GE_4A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "POLS 3325",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "POLS 3332",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "POLS 3337",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "POLS 3338",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "POLS 3348",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "POLS 3349",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSC 1101",
-    "category": "GE_5AGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSC 2201",
-    "category": "GE_5A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSC 3320",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSC/UNIV 3392",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSY 2201",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSY 2240",
-    "category": "GE_5B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSY 3304",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSY 3311",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSY 3318",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSY 3344",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "PSY 3352",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 2201",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3301",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3302",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3304",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3306",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3307",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3310",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3311",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3344",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS/WGQS 3370",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3372",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3374",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3378",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "RELS 3390",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SCM 3350",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SOC 1110",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SOC 2218",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SOC 3315",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SOC 3321",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SOC 3326",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SOC 3343",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 1141",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 1142",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 2201",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 2202",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 2206",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 2233",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 2241",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 2242",
-    "category": "GE_3B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 3305",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 3307",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 3340",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 3350",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 3351",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SPAN 3380",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SS 1120",
-    "category": "GE_5AGE_5C"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SS 1130",
-    "category": "GE_5A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "SS/PLSC 3444",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "STAT 1000",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "STAT 1110",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "STAT 1210",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "STAT 1220",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "STAT 1510",
-    "category": "GE_2"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "STAT 3210",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "STAT 3310",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "TH 2210",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "TH 2227",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "TH 2228",
-    "category": "GE_3A"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "TH 3305",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "TH 3390",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "UNIV 3330",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "UNIV 3350",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "UNIV/PSC 3392",
-    "category": "UPPER_DIVISION_2_5"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WGQS 1101",
-    "category": "GE_4B"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WGQS 1145",
+    "id": "ENGL1146",
     "category": "GE_1B"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS 2201",
-    "category": "GE_4A"
+    "id": "ENGL1147",
+    "category": "GE_1B"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS 2301",
+    "id": "ENGL1148",
+    "category": "GE_1B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2230",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2231",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2241",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2242",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2251",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2252",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2253",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL/LS2255",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2259",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL2272",
     "category": "GE_3A"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS 2401",
-    "category": "GE_4B"
+    "id": "ENGL2274",
+    "category": "GE_3B"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS 3301",
+    "id": "ENGL3310",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS 3302",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WGQS 3325",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WGQS/ART 3327",
+    "id": "ENGL3311",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS 3330",
-    "category": "UPPER_DIVISION_4"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WGQS/ISLA 3335",
+    "id": "ENGL3313",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS/PHIL 3336",
+    "id": "ENGL3315",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS/ES 3345",
-    "category": "UPPER_DIVISION_4"
+    "id": "ENGL3317",
+    "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS/ES 3350",
+    "id": "ENGL3330",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3331",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3332",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3333",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3334",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3335",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3339",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3340",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3341",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3342",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3343",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3345",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3346",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3347",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3348",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3349",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3350",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3351",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3352",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3354",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3371",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3372",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3373",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3374",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3375",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3380",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3381",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3386",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3387",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3388",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3611",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3618",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3621",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3624",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3625",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3626",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGL3627",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ENGR3350",
     "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS/ES 3351",
+    "id": "ENVE3324",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ERSC3335",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES1112",
+    "category": "GE_4A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES1134",
+    "category": "GE_1A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES1145",
+    "category": "GE_1B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2220",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2221",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2222",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2223",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2252",
+    "category": "GE_6"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2253",
+    "category": "GE_6"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2254",
+    "category": "GE_6"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2255",
+    "category": "GE_6"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES2256",
+    "category": "GE_6"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3300",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3301",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3302",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3303",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3304",
+    "category": "GE_6"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3310",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "WGQS/ISLA 3360",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WGQS/RELS 3370",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WGQS 3385",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WLC 3307",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WLC 3310",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WLC 3312",
-    "category": "UPPER_DIVISION_3"
-  },
-  {
-    "catalog": "2026-2028",
-    "id": "WLC 3315",
+    "id": "ES3311",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "WLC 3350",
+    "id": "ES3312",
+    "category": "GE_6"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3324",
     "category": "UPPER_DIVISION_3"
   },
   {
     "catalog": "2026-2028",
-    "id": "WLC 3370",
+    "id": "ES3325",
     "category": "UPPER_DIVISION_4"
   },
   {
     "catalog": "2026-2028",
-    "id": "WVIT 3300",
+    "id": "ES3330",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3335",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3340",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES/WGQS3345",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES/WGQS3350",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES/WGQS3351",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3360",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3380",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3381",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ES3382",
+    "category": "GE_6"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "FR2201",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "FR2202",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "FR2233",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "FR3305",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "FR3350",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "FSN3305",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "FSN3316",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "FSN3319",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GEOG1150",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GEOG3308",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GEOG3350",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GEOG3370",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GEOG3380",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GEOL2203",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GER2201",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GER2233",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GER3304",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GER3305",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GER3350",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GRC1100",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "GRC3200",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2201",
+    "category": "GE_4A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2202",
+    "category": "GE_4A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2206",
+    "category": "GE_4A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2210",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2211",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2212",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2213",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2216",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2222",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2223",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST2225",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3306",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3307",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3308",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3309",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3310",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3311",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3313",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3316",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3317",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3318",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3319",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3320",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3321",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3322",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3326",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3333",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3334",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3335",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3336",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3337",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3338",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3350",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3351",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HIST3355",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HLTH1155",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HLTH1160",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HLTH2261",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HLTH3305",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HLTH3322",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HLTH3344",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HLTH3348",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "HNRS1164",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "IME3320",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ISLA2240",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ISLA3303",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ISLA3305",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ISLA3320",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ISLA/WGQS3335",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ISLA3345",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ISLA3350",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ISLA/WGQS3360",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ITAL2201",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ITAL2202",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ITAL2241",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ITAL2242",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ITP3330",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ITP3341",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "JOUR2228",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "JPNS2201",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "JPNS2202",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "KINE3323",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "KINE3324",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "KINE3325",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "KINE3382",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "LA1104",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "LA2203",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "LA/NR3317",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "LS/ENGL2255",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "LS2370",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "LS3350",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATE3232",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATE3359",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1001",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1004",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1005",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1006",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1007",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1261",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1262",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1264",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH1267",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH3051",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH3111",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH3301",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MATH3351",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MCRO2221",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MCRO2221",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MCRO3321",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ME3234",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "ME3236",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MSCI1111",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MU1101",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MU1120",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MU2221",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MU2227",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "MU3324",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR3304",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR3308",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR3310",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR3312",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR/LA3317",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR3321",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR3323",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR3324",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR/EIM3328",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "NR3335",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL1126",
+    "category": "GE_1B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL2230",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL2231",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3301",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3309",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3310",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3312",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3313",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3314",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3315",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3317",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3318",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3319",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3321",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3322",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3323",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3327",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3328",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3331",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3332",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3333",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3334",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3335",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL/WGQS3336",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3337",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3339",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3340",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3341",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3342",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3343",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3350",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3351",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3361",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3362",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHIL3369",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS1104",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS1111",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS1121",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS1121",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS1141",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS1141",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS1143",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS1143",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PHYS3305",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PLSC1110",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PLSC1110",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PLSC/AG3315",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PLSC3329",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PLSC/SS3444",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "POLS1112",
+    "category": "GE_4A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "POLS3325",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "POLS3332",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "POLS3337",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "POLS3338",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "POLS3348",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "POLS3349",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSC1101",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSC1101",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSC2201",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSC3320",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSC/UNIV3392",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSY2201",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSY2240",
+    "category": "GE_5B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSY3304",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSY3311",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSY3318",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSY3344",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "PSY3352",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS2201",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3301",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3302",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3304",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3306",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3307",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3310",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3311",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3344",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS/WGQS3370",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3372",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3374",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3378",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "RELS3390",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SCM3350",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SOC1110",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SOC2218",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SOC3315",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SOC3321",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SOC3326",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SOC3343",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN1141",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN1142",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN2201",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN2202",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN2206",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN2233",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN2241",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN2242",
+    "category": "GE_3B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN3305",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN3307",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN3340",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN3350",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN3351",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SPAN3380",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SS1120",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SS1120",
+    "category": "GE_5C"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SS1130",
+    "category": "GE_5A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "SS/PLSC3444",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "STAT1000",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "STAT1110",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "STAT1210",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "STAT1220",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "STAT1510",
+    "category": "GE_2"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "STAT3210",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "STAT3310",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "TH2210",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "TH2227",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "TH2228",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "TH3305",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "TH3390",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "UNIV3330",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "UNIV3350",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "UNIV/PSC3392",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS1101",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS1145",
+    "category": "GE_1B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS2201",
+    "category": "GE_4A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS2301",
+    "category": "GE_3A"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS2401",
+    "category": "GE_4B"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS3301",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS3302",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS3325",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS/ART3327",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS3330",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS/ISLA3335",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS/PHIL3336",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS/ES3345",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS/ES3350",
+    "category": "UPPER_DIVISION_2_5"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS/ES3351",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS/ISLA3360",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS/RELS3370",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WGQS3385",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WLC3307",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WLC3310",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WLC3312",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WLC3315",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WLC3350",
+    "category": "UPPER_DIVISION_3"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WLC3370",
+    "category": "UPPER_DIVISION_4"
+  },
+  {
+    "catalog": "2026-2028",
+    "id": "WVIT3300",
     "category": "UPPER_DIVISION_2_5"
   }
 ]

@@ -22,6 +22,7 @@ const prisma = new PrismaClient();
 
 async function clearAPIData() {
   console.log('clearing API data from database ...');
+
   await prisma.$transaction([
     prisma.$executeRawUnsafe('SET FOREIGN_KEY_CHECKS = 0;'),
     prisma.$executeRawUnsafe('TRUNCATE TABLE Flowchart;'),
@@ -43,25 +44,18 @@ async function syncCatalogStartYears() {
   const catalogYears = JSON.parse(
     fs.readFileSync(`${apiRoot}/data/cpslo-catalog-years.json`, 'utf8')
   ) as string[];
+
   const startYears = JSON.parse(
     fs.readFileSync(`${apiRoot}/data/cpslo-start-years.json`, 'utf8')
   ) as string[];
 
   await prisma.catalog.createMany({
-    data: catalogYears.map((catalog) => {
-      return {
-        catalog
-      };
-    }),
+    data: catalogYears.map((catalog) => ({ catalog })),
     skipDuplicates: true
   });
 
   await prisma.startYear.createMany({
-    data: startYears.map((year) => {
-      return {
-        year
-      };
-    }),
+    data: startYears.map((year) => ({ year })),
     skipDuplicates: true
   });
 
@@ -79,9 +73,11 @@ async function syncCourseData() {
     const courseData = JSON.parse(
       fs.readFileSync(`${apiRoot}/data/courses/${curCatalogYear}/${curCatalogYear}.json`, 'utf8')
     ) as APICourse[];
+
     const geCourseData = JSON.parse(
       fs.readFileSync(`${apiRoot}/data/courses/${curCatalogYear}/${curCatalogYear}-GE.json`, 'utf8')
     ) as GECourse[];
+
     const reqCourseData = JSON.parse(
       fs.readFileSync(
         `${apiRoot}/data/courses/${curCatalogYear}/${curCatalogYear}-req.json`,
@@ -90,16 +86,15 @@ async function syncCourseData() {
     ) as CourseRequisite[];
 
     console.log('syncing course data for catalog', curCatalogYear);
+
     await prisma.aPICourse.createMany({
       data: courseData,
       skipDuplicates: true
     });
 
-    // set course overrides
-    if (
-      fs.existsSync(`${apiRoot}/data/courses/${curCatalogYear}/${curCatalogYear}-override.json`)
-    ) {
+    if (fs.existsSync(`${apiRoot}/data/courses/${curCatalogYear}/${curCatalogYear}-override.json`)) {
       console.log('applying course override data for catalog', curCatalogYear);
+
       const courseOverrideData = JSON.parse(
         fs.readFileSync(
           `${apiRoot}/data/courses/${curCatalogYear}/${curCatalogYear}-override.json`,
@@ -109,6 +104,7 @@ async function syncCourseData() {
 
       for (const course of courseOverrideData) {
         console.log('update course', course.id);
+
         await prisma.aPICourse.update({
           data: {
             desc: course.desc,
@@ -124,22 +120,40 @@ async function syncCourseData() {
       }
     }
 
-    await prisma.gECourse.createMany({
-      data: geCourseData
+    const apiCourses = await prisma.aPICourse.findMany({
+      where: { catalog: curCatalogYear },
+      select: { id: true, catalog: true }
     });
+
+    const apiKeys = new Set(apiCourses.map((c) => `${c.id}::${c.catalog}`));
+
+    console.log("First 20 APICourse keys:");
+    console.table([...apiKeys].slice(0, 20));
+
+    console.log("First 20 GE keys:");
+    console.table(
+      geCourseData.slice(0, 20).map((ge) => `${ge.id}::${ge.catalog}`)
+    );
+
+    const missingGECourses = geCourseData.filter(
+      (ge) => !apiKeys.has(`${ge.id}::${ge.catalog}`)
+    );
+
+    await prisma.gECourse.createMany({
+      data: geCourseData.filter((ge) => apiKeys.has(`${ge.id}::${ge.catalog}`)),
+      skipDuplicates: true
+    });
+
     await prisma.courseRequisite.createMany({
-      data: reqCourseData.map((data) => {
-        return {
-          catalog: data.catalog,
-          id: data.id,
-          // see https://github.com/prisma/prisma/issues/9247
-          // will never be null, so overwrite this way (even tho not recommended)
-          prerequisite: data.prerequisite as Prisma.JsonArray,
-          corequisite: data.corequisite as Prisma.JsonArray,
-          recommended: data.recommended as Prisma.JsonArray,
-          concurrent: data.concurrent as Prisma.JsonArray
-        };
-      })
+      data: reqCourseData.map((data) => ({
+        catalog: data.catalog,
+        id: data.id,
+        prerequisite: data.prerequisite as Prisma.JsonArray,
+        corequisite: data.corequisite as Prisma.JsonArray,
+        recommended: data.recommended as Prisma.JsonArray,
+        concurrent: data.concurrent as Prisma.JsonArray
+      })),
+      skipDuplicates: true
     });
   }
 
@@ -152,9 +166,12 @@ async function syncProgramData() {
   ) as TemplateFlowchartMetadata;
 
   console.log('syncing program data with db ...');
+
   await prisma.program.createMany({
-    data: programData.flows
+    data: programData.flows,
+    skipDuplicates: true
   });
+
   console.log('program sync complete');
 }
 
@@ -164,29 +181,31 @@ async function syncTermTypicallyOfferedData() {
   ) as TermTypicallyOffered[];
 
   console.log('syncing term typically offered data with db ...');
+
   await prisma.termTypicallyOffered.createMany({
-    data: termTypicallyOfferedData
+    data: termTypicallyOfferedData,
+    skipDuplicates: true
   });
+
   console.log('term typically offered sync complete');
 }
 
 async function syncTemplateFlowcharts() {
   console.log('starting update of default flows to database ...');
 
-  // load template data
   const flowDataLinks = JSON.parse(
     fs.readFileSync(`${apiRoot}/data/cpslo-template-flow-data.json`, 'utf8')
   ) as TemplateFlowchartMetadata;
 
   const defaultFlows: TemplateFlowchart[] = [];
 
-  // recursively find all JSON files and insert into db
   for await (const f of getFiles(`${apiRoot}/data/flows/json/dflows`)) {
     if (path.extname(f) === '.json') {
       console.log(`validating schema for ${f}`);
 
       try {
         const rawFlowData = JSON.parse(fs.readFileSync(f, 'utf8')) as Record<string, unknown>;
+
         const defaultFlowData = flowchartValidationSchema.parse({
           ...rawFlowData,
           lastUpdatedUTC: new Date(rawFlowData.lastUpdatedUTC as string)
@@ -197,11 +216,10 @@ async function syncTemplateFlowcharts() {
         );
 
         if (!flowProgramData) {
-          console.log('FLOWPROGRAMDATA RETURNED UNDEFINED, SKIPPING (most likely a name mismatch)');
+          console.log('FLOWPROGRAMDATA RETURNED UNDEFINED, SKIPPING');
           continue;
         }
 
-        // create appropriate TemplateFlowchart entry
         defaultFlows.push({
           programId: flowProgramData.id,
           flowUnitTotal: defaultFlowData.unitTotal,
@@ -215,17 +233,14 @@ async function syncTemplateFlowcharts() {
           console.log('error occurred while getting flow-specific notes, skipping', e);
         }
 
-        // force an abort to make sure all flowcharts are valid
         process.exit(-1);
       }
     }
   }
 
-  console.log('setup default flows, uploading ...');
-  // fs.writeFileSync('allDFlowsOut.json', JSON.stringify(defaultFlows, null, 2));
-
   await prisma.templateFlowchart.createMany({
-    data: defaultFlows
+    data: defaultFlows,
+    skipDuplicates: true
   });
 
   console.log('finished updating default flows DB');
@@ -239,8 +254,6 @@ async function syncAllAPIData() {
   await syncTermTypicallyOfferedData();
   await syncTemplateFlowcharts();
 }
-
-// how to run: (in dev dir) "npx tsx api-data-sync.ts"
 
 if (process.env.API_DATA_SYNC_SETTINGS) {
   const options = process.env.API_DATA_SYNC_SETTINGS.split(',');
@@ -259,5 +272,7 @@ if (process.env.API_DATA_SYNC_SETTINGS) {
   }
 } else {
   console.log('no sync settings found, executing full replace');
-  void syncAllAPIData();
+  await syncAllAPIData();
 }
+
+await prisma.$disconnect();

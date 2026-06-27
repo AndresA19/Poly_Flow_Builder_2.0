@@ -56,116 +56,109 @@ function sniffGECourses(inFile: string, outFile: string) {
   const geCourses: GECourse[] = [];
 
   for (const c of courseData) {
-    if (c.addl.includes('GE Area A1\n') || c.addl.includes('GE Area A1;')) {
+    if (c.addl.includes('GE Area 1A\n') || c.addl.includes('GE Area 1A;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'A1'
+        category: 'GE_1A'
       });
     }
-    if (c.addl.includes('GE Area A2\n') || c.addl.includes('GE Area A2;')) {
+    if (c.addl.includes('GE Area 1B\n') || c.addl.includes('GE Area 1B;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'A2'
+        category: 'GE_1B'
       });
     }
-    if (c.addl.includes('GE Area A3\n') || c.addl.includes('GE Area A3;')) {
+    if (c.addl.includes('GE Area 1C\n') || c.addl.includes('GE Area 1C;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'A3'
+        category: 'GE_1C'
       });
     }
-    if (c.addl.includes('GE Area B1\n') || c.addl.includes('GE Area B1;')) {
+    if (c.addl.includes('GE Area 5A\n') || c.addl.includes('GE Area 5A;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'B1'
+        category: 'GE_5A'
       });
     }
-    if (c.addl.includes('GE Area B2\n') || c.addl.includes('GE Area B2;')) {
+    if (c.addl.includes('GE Area 5B\n') || c.addl.includes('GE Area 5B;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'B2'
+        category: 'GE_5B'
       });
     }
-    if (c.addl.includes('GE Area B3\n') || c.addl.includes('GE Area B3;')) {
+    if (c.addl.includes('GE Area 5C\n') || c.addl.includes('GE Area 5C;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'B3'
+        category: 'GE_5C'
       });
     }
-    if (c.addl.includes('GE Area B4\n') || c.addl.includes('GE Area B4;')) {
+    if (c.addl.includes('GE Area 2\n') || c.addl.includes('GE Area 2;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'B4'
+        category: 'GE_2'
       });
     }
-    if (c.addl.includes('Upper-Div GE Area B\n') || c.addl.includes('Upper-Div GE Area B;')) {
+    if (c.addl.includes('Upper-Div GE Area 2/5\n') || c.addl.includes('Upper-Div GE Area 2/5;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'UPPER_DIVISION_B'
+        category: 'UPPER_DIVISION_2_5'
       });
     }
-    if (c.addl.includes('GE Area C1\n') || c.addl.includes('GE Area C1;')) {
+    if (c.addl.includes('GE Area 3A\n') || c.addl.includes('GE Area 3A;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'C1'
+        category: 'GE_3A'
       });
     }
-    if (c.addl.includes('GE Area C2\n') || c.addl.includes('GE Area C2;')) {
+    if (c.addl.includes('GE Area 3B\n') || c.addl.includes('GE Area 3B;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'C2'
+        category: 'GE_3B'
       });
     }
-    if (c.addl.includes('Upper-Div GE Area C\n') || c.addl.includes('Upper-Div GE Area C;')) {
+    if (c.addl.includes('Upper-Div GE Area 3\n') || c.addl.includes('Upper-Div GE Area 3;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'UPPER_DIVISION_C'
+        category: 'UPPER_DIVISION_3'
       });
     }
-    if (c.addl.includes('GE Area D1\n') || c.addl.includes('GE Area D1;')) {
+    if (c.addl.includes('GE Area 4A\n') || c.addl.includes('GE Area 4A;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'D1'
+        category: 'GE_4A'
       });
     }
-    if (c.addl.includes('GE Area D2\n') || c.addl.includes('GE Area D2;')) {
+    if (c.addl.includes('GE Area 4B\n') || c.addl.includes('GE Area 4B;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'D2'
+        category: 'GE_4B'
       });
     }
-    if (c.addl.includes('Upper-Div GE Area D\n') || c.addl.includes('Upper-Div GE Area D;')) {
+    if (c.addl.includes('Upper-Div GE Area 4\n') || c.addl.includes('Upper-Div GE Area 4;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'UPPER_DIVISION_D'
+        category: 'UPPER_DIVISION_4'
       });
     }
-    if (c.addl.includes('GE Area E\n') || c.addl.includes('GE Area E;')) {
+    if (c.addl.includes('GE Area 6\n') || c.addl.includes('GE Area 6;')) {
       geCourses.push({
         catalog: c.catalog,
         id: c.id,
-        category: 'E'
-      });
-    }
-    if (c.addl.includes('GE Area F\n') || c.addl.includes('GE Area F;')) {
-      geCourses.push({
-        catalog: c.catalog,
-        id: c.id,
-        category: 'F'
+        category: 'GE_6'
       });
     }
   }

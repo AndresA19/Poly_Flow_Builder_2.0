@@ -95,7 +95,6 @@ export function init() {
         dynamicTerms: ttoData
           ? {
               termFall: ttoData.termFall,
-              termWinter: ttoData.termWinter,
               termSpring: ttoData.termSpring,
               termSummer: ttoData.termSummer
             }
