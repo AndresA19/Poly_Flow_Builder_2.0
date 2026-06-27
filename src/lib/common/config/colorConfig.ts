@@ -3,6 +3,7 @@ export const COLORS = {
   // ones that are VERY SIMILAR in hue that are in use with default flows
   // HAVE to be in all caps for matching
   major: [
+    '#F8E08E',
     '#FEFD9A',
     '#FEFD98',
     '#FEFB9B',
@@ -27,6 +28,7 @@ export const COLORS = {
     '#FFFB9D'
   ],
   support: [
+    '#CAC7A7',
     '#FCD09E',
     '#FCCB99',
     '#FAD09F',
@@ -40,6 +42,7 @@ export const COLORS = {
     '#FECC98'
   ],
   conc1: [
+    '#A4D65E',
     '#F9A3D2',
     '#F99ACC',
     '#FE98CB',
@@ -56,6 +59,7 @@ export const COLORS = {
   ],
   conc2: ['#FFCCFF', '#FECBFE', '#FBD2FF'],
   ge: [
+    '#789F90',
     '#DCFDD2',
     '#CBFECC',
     '#CAFCC9',
