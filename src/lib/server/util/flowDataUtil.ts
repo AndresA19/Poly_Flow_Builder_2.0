@@ -182,7 +182,7 @@ export async function generateFlowchart(
     const existingIndexes = new Set(generatedFlowchart.termData.map(t => t.tIndex));
     const maxTIndex = Math.max(...generatedFlowchart.termData.map(t => t.tIndex));
     
-    for (let i = 3; i <= maxTIndex + 3; i += 3) {
+    for (let i = 3; i <= maxTIndex + 1; i += 3) {
       if (!existingIndexes.has(i)) {
         generatedFlowchart.termData.push({
           tIndex: i,
