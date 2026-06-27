@@ -1,38 +1,1158 @@
 {
     "flows": [
         {
-        "id": "b3f614f7-c1f6-4aad-8eb6-bb8da4bee0f9",
-        "catalog": "2026-2028",
-        "majorName": "Computer Engineering",
-        "concName": "Not Applicable For This Major",
-        "code": "26-28.52CPEBSU",
-        "dataLink": "http://flowcharts.calpoly.edu/downloads/mymap/26-28.52CPEBSU.pdf"
+            "id": "6bd1f4b7-d870-44b5-8592-a420751c9291",
+            "catalog": "2026-2028",
+            "majorName": "Aerospace Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.aerospace-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/aerospace-engineering/aerospace-engineering-bs/aerospace-engineering-bs_planofstudytext.pdf"
         },
         {
-        "id": "",
-        "catalog": "2026-2028",
-        "majorName": "",
-        "concName": "",
-        "code": "",
-        "dataLink": ""
+            "id": "c39571e7-6c52-4f2e-9fc3-42d8b1db02f7",
+            "catalog": "2026-2028",
+            "majorName": "Agricultural Business",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.agricultural-business-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/agribusiness/agricultural-business-bs/agricultural-business-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "fd39c1ff-e8ce-4293-b2cd-27d0171543da",
+            "catalog": "2026-2028",
+            "majorName": "Agricultural Communication",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.agricultural-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/agricultural-education-communication/agricultural-communication-bs/agricultural-communication-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "00fd6d8e-157e-466e-886f-7139fff0d9f1",
+            "catalog": "2026-2028",
+            "majorName": "Agricultural Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.agricultural-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/agricultural-education-communication/agricultural-science-bs/agricultural-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "0d9b2ed9-f9ea-4b04-8e29-342f341086e2",
+            "catalog": "2026-2028",
+            "majorName": "Agricultural Systems Management",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.agricultural-systems-management-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/bioresource-agricultural-engineering/agricultural-systems-management-bs/agricultural-systems-management-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8db60ee5-241e-43af-9504-024cf0e0a6bc",
+            "catalog": "2026-2028",
+            "majorName": "Animal Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.animal-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/animal-science/animal-science-bs/animal-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "3875fdb1-0717-4ce4-962e-b300b77662f4",
+            "catalog": "2026-2028",
+            "majorName": "Anthropology and Geography",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.anthropology-geography-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/anthropology-geography-bs/anthropology-geography-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "de03a81c-d15f-4a78-8273-11d63af3d221",
+            "catalog": "2026-2028",
+            "majorName": "Architectural Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.architectural-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/architectural-engineering/architectural-engineering-bs/architectural-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "3a9b01cf-59e8-4fa0-83f0-bcae4ab76ee6",
+            "catalog": "2026-2028",
+            "majorName": "Architecture",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.architecture-barch",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/architecture/architecture-barch/architecture-barch_planofstudytext.pdf"
+        },
+        {
+            "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
+            "catalog": "2026-2028",
+            "majorName": "Art and Design",
+            "concName": "Graphic Design, Photo and Video, and Studio Art",
+            "code": "26-28.art-design-bfa",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
+        },
+        {
+            "id": "0656df74-02f8-4fd0-8646-4861467470a5",
+            "catalog": "2026-2028",
+            "majorName": "Biochemistry",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.biochemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/biochemistry-bs/biochemistry-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "Anatomy and Physiology, Biodiversity and Ecology, Cellular and Molecular Biology, and General Biology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "3077892f-c570-41f9-8f5e-224cb573eb01",
+            "catalog": "2026-2028",
+            "majorName": "BioResource and Agricultural Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.bioresource-agricultural-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/bioresource-agricultural-engineering/bioresource-agricultural-engineering-bs/bioresource-agricultural-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Accounting, Consumer Packaging, Entrepreneurship, Financial Management, Information Systems and Analytics, Management and Human Resources, Marketing Management, Real Estate Finance, and Supply Chain Management",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "98fcd58c-d654-475b-a45b-b8036bf9c386",
+            "catalog": "2026-2028",
+            "majorName": "Chemistry",
+            "concName": "Polymers and Coatings and Sustainability",
+            "code": "26-28.chemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/chemistry-bs/chemistry-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "e5d261b3-8829-4024-9efb-1885e04b46ef",
+            "catalog": "2026-2028",
+            "majorName": "Child Development",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.child-development-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/psychology-child-development/child-development-bs/child-development-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8e4d46a2-efde-44f4-88af-8cfcea4661c0",
+            "catalog": "2026-2028",
+            "majorName": "City and Regional Planning",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.city-regional-planning-bs",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/city-regional-planning/city-regional-planning-bs/city-regional-planning-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Environmental Engineering, General Civil Engineering, Geotechnical Engineering, Structural Engineering, Transportation Engineering, and Water Resources Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "d2aa5ca1-ab80-41ae-8490-199f59660f33",
+            "catalog": "2026-2028",
+            "majorName": "Communication Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.communication-studies-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/communication-studies/communication-studies-ba/communication-studies-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "df691839-e0d4-4817-aab2-4f930dfb2ff0",
+            "catalog": "2026-2028",
+            "majorName": "Comparative Ethnic Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.comparative-ethnic-studies-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/ethnic-studies/comparative-ethnic-studies-ba/comparative-ethnic-studies-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "General Curriculum in Computer Engineering, Computer Architecture, Computer Hardware Engineering, Computer Systems, Embedded Systems, Robotics and Autonomous Systems, and Security",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Artificial Intelligence and Machine Learning, Data Engineering, Game Development, General Curriculum in Computer Science, Human-Computer Interaction, and Security",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "c972200a-631c-49b2-b2e8-94a3831a3475",
+            "catalog": "2026-2028",
+            "majorName": "Construction Management",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.construction-management-bs",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/construction-management/construction-management-bs/construction-management-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "9d0cce9e-7e47-4ed9-b395-8336b415cdd7",
+            "catalog": "2026-2028",
+            "majorName": "Dairy Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.dairy-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/animal-science/dairy-science-bs/dairy-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
+            "catalog": "2026-2028",
+            "majorName": "Electrical Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.electrical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8ce74a2e-7a03-4256-8e98-89665042bc05",
+            "catalog": "2026-2028",
+            "majorName": "English",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.english-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/english/english-ba/english-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Environmental Management, Geology, Hydrology, and Soil Science",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "5cc2f873-5bdd-4b41-8cd9-d2d95a5ae256",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.environmental-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/environmental-engineering-bs/environmental-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Management and Protection",
+            "concName": "Environmental Management and Water Resources, Watershed Management, and Wildlife Biology",
+            "code": "26-28.environmental-management-protection-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "658cb6f2-407a-4a85-aca9-77c06f5832c6",
+            "catalog": "2026-2028",
+            "majorName": "Experience and Event Management",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.experience-event-management-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/experience-industry-management/experience-event-management-bs/experience-event-management-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "991469c9-557c-4e7d-bd1a-5efc21d3404e",
+            "catalog": "2026-2028",
+            "majorName": "Facilities Engineering Technology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.facilities-engineering-technology-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/engineering-technology/facilities-engineering-technology-bs/facilities-engineering-technology-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
+            "catalog": "2026-2028",
+            "majorName": "Food Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.food-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "4dfdb722-20f0-48a3-a952-b1fb363ec099",
+            "catalog": "2026-2028",
+            "majorName": "Forest and Fire Sciences",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.forest-fire-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/forest-fire-sciences-bs/forest-fire-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Biomedical Engineering, Engineering Management, Individualized Course of Study, and Manufacturing Engineering",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "General, Design Reproduction Technology, Graphics for Packaging, and User Experience/User Interface",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "aed068fb-f131-47a8-b5bb-00720c976e26",
+            "catalog": "2026-2028",
+            "majorName": "History",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.history-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/history/history-ba/history-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "1e57edf1-ab73-4e85-bd3b-22f44045ea15",
+            "catalog": "2026-2028",
+            "majorName": "Industrial Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.industrial-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/industrial-manufacturing-engineering/industrial-engineering-bs/industrial-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "5cc3e40b-c382-41f9-ac88-223eebd327f3",
+            "catalog": "2026-2028",
+            "majorName": "Industrial Technology and Packaging",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.industrial-technology-packaging-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/industrial-technology-packaging-bs/industrial-technology-packaging-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "606c893e-8ed2-4228-ae27-6e69af63c66c",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.interdisciplinary-studies-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/interdisciplinary-studies-liberal-arts/interdisciplinary-studies-ba/interdisciplinary-studies-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "f98748db-1ed9-4a5b-af94-10a0b36ad746",
+            "catalog": "2026-2028",
+            "majorName": "International Strategy and Security",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.international-strategy-security-ba",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/international-strategy-security-ba/international-strategy-security-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "95ee897d-65ef-4fee-aa4c-e3b7c7070a61",
+            "catalog": "2026-2028",
+            "majorName": "Journalism",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.journalism-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/journalism/journalism-bs/journalism-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
+            "catalog": "2026-2028",
+            "majorName": "Kinesiology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.kinesiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "95d71dfc-e723-4269-8e16-e927b54a1afe",
+            "catalog": "2026-2028",
+            "majorName": "Landscape Architecture",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.landscape-architecture-bla",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/landscape-architecture/landscape-architecture-bla/landscape-architecture-bla_planofstudytext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "c561d1db-09a1-4a16-8621-192ab3edb4cf",
+            "catalog": "2026-2028",
+            "majorName": "Manufacturing Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.manufacturing-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/industrial-manufacturing-engineering/manufacturing-engineering-bs/manufacturing-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "2c672652-2461-47f2-ac53-6c8a0d25f61c",
+            "catalog": "2026-2028",
+            "majorName": "Marine Engineering Technology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.marine-engineering-technology-bs",
+            "dataLink": "https://catalog.calpoly.edu/maritime-academy/marine-engineering-technology-bs/marine-engineering-technology-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "2558c3b9-7095-4d39-9343-e807a2784b18",
+            "catalog": "2026-2028",
+            "majorName": "Marine Sciences",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.marine-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/marine-sciences-bs/marine-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "32679f57-0672-4874-9ef9-918a139f9f47",
+            "catalog": "2026-2028",
+            "majorName": "Marine Transportation",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.marine-transportation-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/marine-transportation/marine-transportation-bs/marine-transportation-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "5cf6696e-e068-45a3-8631-97e98478d4e3",
+            "catalog": "2026-2028",
+            "majorName": "Materials Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.materials-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/materials-engineering/materials-engineering-bs/materials-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62098d82-c498-4b47-91da-ec84ffb3b3b5",
+            "catalog": "2026-2028",
+            "majorName": "Mathematics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.mathematics-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/mathematics/mathematics-bs/mathematics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "General Curriculum, Manufacturing, Mechatronics, Energy Resources, and HVAC and Refrigeration",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "General Curriculum, Manufacturing, Mechatronics, Energy Resources, and HVAC and Refrigeration",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "40cec2c1-b8f6-40b8-98a8-19086e50338c",
+            "catalog": "2026-2028",
+            "majorName": "Microbiology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.microbiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/microbiology-bs/microbiology-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "65c4b89c-e966-4b3b-b56d-e2dcb97232a6",
+            "catalog": "2026-2028",
+            "majorName": "Music",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.music-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/music/music-ba/music-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "71497ca9-d57f-4650-85b7-0b13a60107c4",
+            "catalog": "2026-2028",
+            "majorName": "Nutrition",
+            "concName": "Applied Nutrition and Nutrition Science",
+            "code": "26-28.nutrition-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "4f6890d1-8d9f-433e-853c-0954d40c3798",
+            "catalog": "2026-2028",
+            "majorName": "Oceanography",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.oceanography-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/physics/oceanography-bs/oceanography-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "5123a4b6-9d7f-4257-b781-2280521a2988",
+            "catalog": "2026-2028",
+            "majorName": "Philosophy",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.philosophy-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "3ba8f8f2-4a20-4c92-8a37-e52cde8a8460",
+            "catalog": "2026-2028",
+            "majorName": "Physics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.physics-ba",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/physics/physics-ba/physics-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "82a53e41-6bfb-461c-b2ae-645fd8574e1f",
+            "catalog": "2026-2028",
+            "majorName": "Physics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.physics-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/physics/physics-bs/physics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
+            "catalog": "2026-2028",
+            "majorName": "Plant Sciences",
+            "concName": "Environmental Horticulture Science, Fruit and Crop Science, and Plant Protection Science",
+            "code": "26-28.plant-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "dab5d629-e8bf-4b7a-b6f0-196eca022d4b",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.political-science-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/political-science/political-science-ba/political-science-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "d425ee85-2fb7-44f5-a181-d962df4b215d",
+            "catalog": "2026-2028",
+            "majorName": "Psychology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.psychology-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/psychology-child-development/psychology-bs/psychology-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
+            "catalog": "2026-2028",
+            "majorName": "Public Health",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.public-health-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Criminology, Organizations and Social Services, and Social Justice",
+            "code": "26-28.sociology-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "General Curriculum in Software Engineering, Artificial Intelligence and Machine Learning, Data Engineering, Game Development, Human-Computer Interaction, and Security",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "89e87af1-c681-4259-96d0-abb8328df0ec",
+            "catalog": "2026-2028",
+            "majorName": "Spanish",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.spanish-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/world-languages-cultures/spanish-ba/spanish-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "ec2eadf5-9cc9-4630-8c61-c764c59d0d45",
+            "catalog": "2026-2028",
+            "majorName": "Statistics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.statistics-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/statistics/statistics-bs/statistics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "4f92cd73-c0c9-4c43-928a-44b569b592a8",
+            "catalog": "2026-2028",
+            "majorName": "Theatre Arts",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.theatre-arts-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/theatre-dance/theatre-arts-ba/theatre-arts-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
+            "catalog": "2026-2028",
+            "majorName": "Wine and Viticulture",
+            "concName": "Enology, Viticulture, and Wine Business",
+            "code": "26-28.wine-viticulture-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_planofstudytext.pdf"
         }
     ],
     "cSheets": [
         {
-        "id": "b3f614f7-c1f6-4aad-8eb6-bb8da4bee0f9",
-        "catalog": "2026-2028",
-        "majorName": "Computer Engineering",
-        "concName": "Not Applicable For This Major",
-        "code": "26-28.52CPEBSU",
-        "dataLink": "http://flowcharts.calpoly.edu/downloads/mymap/26-28.52CPEBSU.pdf"
+            "id": "6bd1f4b7-d870-44b5-8592-a420751c9291",
+            "catalog": "2026-2028",
+            "majorName": "Aerospace Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.aerospace-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/aerospace-engineering/aerospace-engineering-bs/aerospace-engineering-bs_requirementstext.pdf"
         },
         {
-        "id": "",
-        "catalog": "2026-2028",
-        "majorName": "",
-        "concName": "",
-        "code": "",
-        "dataLink": ""
+            "id": "c39571e7-6c52-4f2e-9fc3-42d8b1db02f7",
+            "catalog": "2026-2028",
+            "majorName": "Agricultural Business",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.agricultural-business-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/agribusiness/agricultural-business-bs/agricultural-business-bs_requirementstext.pdf"
+        },
+        {
+            "id": "fd39c1ff-e8ce-4293-b2cd-27d0171543da",
+            "catalog": "2026-2028",
+            "majorName": "Agricultural Communication",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.agricultural-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/agricultural-education-communication/agricultural-communication-bs/agricultural-communication-bs_requirementstext.pdf"
+        },
+        {
+            "id": "00fd6d8e-157e-466e-886f-7139fff0d9f1",
+            "catalog": "2026-2028",
+            "majorName": "Agricultural Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.agricultural-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/agricultural-education-communication/agricultural-science-bs/agricultural-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "0d9b2ed9-f9ea-4b04-8e29-342f341086e2",
+            "catalog": "2026-2028",
+            "majorName": "Agricultural Systems Management",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.agricultural-systems-management-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/bioresource-agricultural-engineering/agricultural-systems-management-bs/agricultural-systems-management-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8db60ee5-241e-43af-9504-024cf0e0a6bc",
+            "catalog": "2026-2028",
+            "majorName": "Animal Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.animal-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/animal-science/animal-science-bs/animal-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "3875fdb1-0717-4ce4-962e-b300b77662f4",
+            "catalog": "2026-2028",
+            "majorName": "Anthropology and Geography",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.anthropology-geography-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/anthropology-geography-bs/anthropology-geography-bs_requirementstext.pdf"
+        },
+        {
+            "id": "de03a81c-d15f-4a78-8273-11d63af3d221",
+            "catalog": "2026-2028",
+            "majorName": "Architectural Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.architectural-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/architectural-engineering/architectural-engineering-bs/architectural-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "3a9b01cf-59e8-4fa0-83f0-bcae4ab76ee6",
+            "catalog": "2026-2028",
+            "majorName": "Architecture",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.architecture-barch",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/architecture/architecture-barch/architecture-barch_requirementstext.pdf"
+        },
+        {
+            "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
+            "catalog": "2026-2028",
+            "majorName": "Art and Design",
+            "concName": "Graphic Design, Photo and Video, and Studio Art",
+            "code": "26-28.art-design-bfa",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_requirementstext.pdf"
+        },
+        {
+            "id": "0656df74-02f8-4fd0-8646-4861467470a5",
+            "catalog": "2026-2028",
+            "majorName": "Biochemistry",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.biochemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/biochemistry-bs/biochemistry-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "Anatomy and Physiology, Biodiversity and Ecology, Cellular and Molecular Biology, and General Biology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "3077892f-c570-41f9-8f5e-224cb573eb01",
+            "catalog": "2026-2028",
+            "majorName": "BioResource and Agricultural Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.bioresource-agricultural-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/bioresource-agricultural-engineering/bioresource-agricultural-engineering-bs/bioresource-agricultural-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Accounting, Consumer Packaging, Entrepreneurship, Financial Management, Information Systems and Analytics, Management and Human Resources, Marketing Management, Real Estate Finance, and Supply Chain Management",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "98fcd58c-d654-475b-a45b-b8036bf9c386",
+            "catalog": "2026-2028",
+            "majorName": "Chemistry",
+            "concName": "Polymers and Coatings and Sustainability",
+            "code": "26-28.chemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/chemistry-bs/chemistry-bs_requirementstext.pdf"
+        },
+        {
+            "id": "e5d261b3-8829-4024-9efb-1885e04b46ef",
+            "catalog": "2026-2028",
+            "majorName": "Child Development",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.child-development-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/psychology-child-development/child-development-bs/child-development-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8e4d46a2-efde-44f4-88af-8cfcea4661c0",
+            "catalog": "2026-2028",
+            "majorName": "City and Regional Planning",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.city-regional-planning-bs",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/city-regional-planning/city-regional-planning-bs/city-regional-planning-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Environmental Engineering, General Civil Engineering, Geotechnical Engineering, Structural Engineering, Transportation Engineering, and Water Resources Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "d2aa5ca1-ab80-41ae-8490-199f59660f33",
+            "catalog": "2026-2028",
+            "majorName": "Communication Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.communication-studies-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/communication-studies/communication-studies-ba/communication-studies-ba_requirementstext.pdf"
+        },
+        {
+            "id": "df691839-e0d4-4817-aab2-4f930dfb2ff0",
+            "catalog": "2026-2028",
+            "majorName": "Comparative Ethnic Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.comparative-ethnic-studies-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/ethnic-studies/comparative-ethnic-studies-ba/comparative-ethnic-studies-ba_requirementstext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "General Curriculum in Computer Engineering, Computer Architecture, Computer Hardware Engineering, Computer Systems, Embedded Systems, Robotics and Autonomous Systems, and Security",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Artificial Intelligence and Machine Learning, Data Engineering, Game Development, General Curriculum in Computer Science, Human-Computer Interaction, and Security",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "c972200a-631c-49b2-b2e8-94a3831a3475",
+            "catalog": "2026-2028",
+            "majorName": "Construction Management",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.construction-management-bs",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/construction-management/construction-management-bs/construction-management-bs_requirementstext.pdf"
+        },
+        {
+            "id": "9d0cce9e-7e47-4ed9-b395-8336b415cdd7",
+            "catalog": "2026-2028",
+            "majorName": "Dairy Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.dairy-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/animal-science/dairy-science-bs/dairy-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
+            "catalog": "2026-2028",
+            "majorName": "Electrical Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.electrical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8ce74a2e-7a03-4256-8e98-89665042bc05",
+            "catalog": "2026-2028",
+            "majorName": "English",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.english-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/english/english-ba/english-ba_requirementstext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Environmental Management, Geology, Hydrology, and Soil Science",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "5cc2f873-5bdd-4b41-8cd9-d2d95a5ae256",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.environmental-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/environmental-engineering-bs/environmental-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Management and Protection",
+            "concName": "Environmental Management and Water Resources, Watershed Management, and Wildlife Biology",
+            "code": "26-28.environmental-management-protection-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_requirementstext.pdf"
+        },
+        {
+            "id": "658cb6f2-407a-4a85-aca9-77c06f5832c6",
+            "catalog": "2026-2028",
+            "majorName": "Experience and Event Management",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.experience-event-management-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/experience-industry-management/experience-event-management-bs/experience-event-management-bs_requirementstext.pdf"
+        },
+        {
+            "id": "991469c9-557c-4e7d-bd1a-5efc21d3404e",
+            "catalog": "2026-2028",
+            "majorName": "Facilities Engineering Technology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.facilities-engineering-technology-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/engineering-technology/facilities-engineering-technology-bs/facilities-engineering-technology-bs_requirementstext.pdf"
+        },
+        {
+            "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
+            "catalog": "2026-2028",
+            "majorName": "Food Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.food-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "4dfdb722-20f0-48a3-a952-b1fb363ec099",
+            "catalog": "2026-2028",
+            "majorName": "Forest and Fire Sciences",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.forest-fire-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/forest-fire-sciences-bs/forest-fire-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Biomedical Engineering, Engineering Management, Individualized Course of Study, and Manufacturing Engineering",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "General, Design Reproduction Technology, Graphics for Packaging, and User Experience/User Interface",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_requirementstext.pdf"
+        },
+        {
+            "id": "aed068fb-f131-47a8-b5bb-00720c976e26",
+            "catalog": "2026-2028",
+            "majorName": "History",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.history-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/history/history-ba/history-ba_requirementstext.pdf"
+        },
+        {
+            "id": "1e57edf1-ab73-4e85-bd3b-22f44045ea15",
+            "catalog": "2026-2028",
+            "majorName": "Industrial Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.industrial-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/industrial-manufacturing-engineering/industrial-engineering-bs/industrial-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "5cc3e40b-c382-41f9-ac88-223eebd327f3",
+            "catalog": "2026-2028",
+            "majorName": "Industrial Technology and Packaging",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.industrial-technology-packaging-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/industrial-technology-packaging-bs/industrial-technology-packaging-bs_requirementstext.pdf"
+        },
+        {
+            "id": "606c893e-8ed2-4228-ae27-6e69af63c66c",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.interdisciplinary-studies-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/interdisciplinary-studies-liberal-arts/interdisciplinary-studies-ba/interdisciplinary-studies-ba_requirementstext.pdf"
+        },
+        {
+            "id": "f98748db-1ed9-4a5b-af94-10a0b36ad746",
+            "catalog": "2026-2028",
+            "majorName": "International Strategy and Security",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.international-strategy-security-ba",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/international-strategy-security-ba/international-strategy-security-ba_requirementstext.pdf"
+        },
+        {
+            "id": "95ee897d-65ef-4fee-aa4c-e3b7c7070a61",
+            "catalog": "2026-2028",
+            "majorName": "Journalism",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.journalism-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/journalism/journalism-bs/journalism-bs_requirementstext.pdf"
+        },
+        {
+            "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
+            "catalog": "2026-2028",
+            "majorName": "Kinesiology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.kinesiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_requirementstext.pdf"
+        },
+        {
+            "id": "95d71dfc-e723-4269-8e16-e927b54a1afe",
+            "catalog": "2026-2028",
+            "majorName": "Landscape Architecture",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.landscape-architecture-bla",
+            "dataLink": "https://catalog.calpoly.edu/architecture-environmental-design/landscape-architecture/landscape-architecture-bla/landscape-architecture-bla_requirementstext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "c561d1db-09a1-4a16-8621-192ab3edb4cf",
+            "catalog": "2026-2028",
+            "majorName": "Manufacturing Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.manufacturing-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/industrial-manufacturing-engineering/manufacturing-engineering-bs/manufacturing-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "2c672652-2461-47f2-ac53-6c8a0d25f61c",
+            "catalog": "2026-2028",
+            "majorName": "Marine Engineering Technology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.marine-engineering-technology-bs",
+            "dataLink": "https://catalog.calpoly.edu/maritime-academy/marine-engineering-technology-bs/marine-engineering-technology-bs_requirementstext.pdf"
+        },
+        {
+            "id": "2558c3b9-7095-4d39-9343-e807a2784b18",
+            "catalog": "2026-2028",
+            "majorName": "Marine Sciences",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.marine-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/marine-sciences-bs/marine-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "32679f57-0672-4874-9ef9-918a139f9f47",
+            "catalog": "2026-2028",
+            "majorName": "Marine Transportation",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.marine-transportation-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/marine-transportation/marine-transportation-bs/marine-transportation-bs_requirementstext.pdf"
+        },
+        {
+            "id": "5cf6696e-e068-45a3-8631-97e98478d4e3",
+            "catalog": "2026-2028",
+            "majorName": "Materials Engineering",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.materials-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/materials-engineering/materials-engineering-bs/materials-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "62098d82-c498-4b47-91da-ec84ffb3b3b5",
+            "catalog": "2026-2028",
+            "majorName": "Mathematics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.mathematics-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/mathematics/mathematics-bs/mathematics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "General Curriculum, Manufacturing, Mechatronics, Energy Resources, and HVAC and Refrigeration",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_requirementstext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "General Curriculum, Manufacturing, Mechatronics, Energy Resources, and HVAC and Refrigeration",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_requirementstext.pdf"
+        },
+        {
+            "id": "40cec2c1-b8f6-40b8-98a8-19086e50338c",
+            "catalog": "2026-2028",
+            "majorName": "Microbiology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.microbiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/microbiology-bs/microbiology-bs_requirementstext.pdf"
+        },
+        {
+            "id": "65c4b89c-e966-4b3b-b56d-e2dcb97232a6",
+            "catalog": "2026-2028",
+            "majorName": "Music",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.music-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/music/music-ba/music-ba_requirementstext.pdf"
+        },
+        {
+            "id": "71497ca9-d57f-4650-85b7-0b13a60107c4",
+            "catalog": "2026-2028",
+            "majorName": "Nutrition",
+            "concName": "Applied Nutrition and Nutrition Science",
+            "code": "26-28.nutrition-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_requirementstext.pdf"
+        },
+        {
+            "id": "4f6890d1-8d9f-433e-853c-0954d40c3798",
+            "catalog": "2026-2028",
+            "majorName": "Oceanography",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.oceanography-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/physics/oceanography-bs/oceanography-bs_requirementstext.pdf"
+        },
+        {
+            "id": "5123a4b6-9d7f-4257-b781-2280521a2988",
+            "catalog": "2026-2028",
+            "majorName": "Philosophy",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.philosophy-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/philosophy/philosophy-ba/philosophy-ba_requirementstext.pdf"
+        },
+        {
+            "id": "3ba8f8f2-4a20-4c92-8a37-e52cde8a8460",
+            "catalog": "2026-2028",
+            "majorName": "Physics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.physics-ba",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/physics/physics-ba/physics-ba_requirementstext.pdf"
+        },
+        {
+            "id": "82a53e41-6bfb-461c-b2ae-645fd8574e1f",
+            "catalog": "2026-2028",
+            "majorName": "Physics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.physics-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/physics/physics-bs/physics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
+            "catalog": "2026-2028",
+            "majorName": "Plant Sciences",
+            "concName": "Environmental Horticulture Science, Fruit and Crop Science, and Plant Protection Science",
+            "code": "26-28.plant-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "dab5d629-e8bf-4b7a-b6f0-196eca022d4b",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.political-science-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/political-science/political-science-ba/political-science-ba_requirementstext.pdf"
+        },
+        {
+            "id": "d425ee85-2fb7-44f5-a181-d962df4b215d",
+            "catalog": "2026-2028",
+            "majorName": "Psychology",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.psychology-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/psychology-child-development/psychology-bs/psychology-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
+            "catalog": "2026-2028",
+            "majorName": "Public Health",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.public-health-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_requirementstext.pdf"
+        },
+        {
+            "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Criminology, Organizations and Social Services, and Social Justice",
+            "code": "26-28.sociology-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "General Curriculum in Software Engineering, Artificial Intelligence and Machine Learning, Data Engineering, Game Development, Human-Computer Interaction, and Security",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "89e87af1-c681-4259-96d0-abb8328df0ec",
+            "catalog": "2026-2028",
+            "majorName": "Spanish",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.spanish-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/world-languages-cultures/spanish-ba/spanish-ba_requirementstext.pdf"
+        },
+        {
+            "id": "ec2eadf5-9cc9-4630-8c61-c764c59d0d45",
+            "catalog": "2026-2028",
+            "majorName": "Statistics",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.statistics-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/statistics/statistics-bs/statistics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "4f92cd73-c0c9-4c43-928a-44b569b592a8",
+            "catalog": "2026-2028",
+            "majorName": "Theatre Arts",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.theatre-arts-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/theatre-dance/theatre-arts-ba/theatre-arts-ba_requirementstext.pdf"
+        },
+        {
+            "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
+            "catalog": "2026-2028",
+            "majorName": "Wine and Viticulture",
+            "concName": "Enology, Viticulture, and Wine Business",
+            "code": "26-28.wine-viticulture-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_requirementstext.pdf"
         }
     ]
 }
