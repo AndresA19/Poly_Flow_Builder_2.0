@@ -2,27 +2,27 @@
   {
     "catalog": "2026-2028",
     "id": "AERO 3300",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "AERO 3310",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "AG/PLSC 3315",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "AG 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "AG/ASCI 3360",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -57,7 +57,7 @@
   {
     "catalog": "2026-2028",
     "id": "ARCE 3381",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -187,12 +187,12 @@
   {
     "catalog": "2026-2028",
     "id": "ASCI 3319",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "ASCI/AG 3360",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -207,7 +207,7 @@
   {
     "catalog": "2026-2028",
     "id": "ASTR 3324",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -257,17 +257,17 @@
   {
     "catalog": "2026-2028",
     "id": "BIO 3312",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "BIO 3315",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "BIO/CHEM 3318",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -277,7 +277,7 @@
   {
     "catalog": "2026-2028",
     "id": "BOT 3311",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -287,12 +287,12 @@
   {
     "catalog": "2026-2028",
     "id": "BRAE 3340",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "BRAE 3348",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -337,22 +337,22 @@
   {
     "catalog": "2026-2028",
     "id": "CHEM/BIO 3318",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "CHEM 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "CHEM 3352",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "CHEM 3374",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -387,7 +387,7 @@
   {
     "catalog": "2026-2028",
     "id": "CM 3317",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -477,7 +477,7 @@
   {
     "catalog": "2026-2028",
     "id": "CSC 3200",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -497,7 +497,7 @@
   {
     "catalog": "2026-2028",
     "id": "DSCI 3388",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -527,7 +527,7 @@
   {
     "catalog": "2026-2028",
     "id": "EDES 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -842,17 +842,17 @@
   {
     "catalog": "2026-2028",
     "id": "ENGR 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "ENVE 3324",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "ERSC 3335",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -987,7 +987,7 @@
   {
     "catalog": "2026-2028",
     "id": "ES/WGQS 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1042,17 +1042,17 @@
   {
     "catalog": "2026-2028",
     "id": "FSN 3305",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "FSN 3316",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "FSN 3319",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1067,7 +1067,7 @@
   {
     "catalog": "2026-2028",
     "id": "GEOG 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1117,7 +1117,7 @@
   {
     "catalog": "2026-2028",
     "id": "GRC 3200",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1337,7 +1337,7 @@
   {
     "catalog": "2026-2028",
     "id": "IME 3320",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1352,7 +1352,7 @@
   {
     "catalog": "2026-2028",
     "id": "ISLA 3305",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1372,7 +1372,7 @@
   {
     "catalog": "2026-2028",
     "id": "ISLA 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1402,12 +1402,12 @@
   {
     "catalog": "2026-2028",
     "id": "ITP 3330",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "ITP 3341",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1457,7 +1457,7 @@
   {
     "catalog": "2026-2028",
     "id": "LA/NR 3317",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1482,7 +1482,7 @@
   {
     "catalog": "2026-2028",
     "id": "MATE 3359",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1532,22 +1532,22 @@
   {
     "catalog": "2026-2028",
     "id": "MATH 3051",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "MATH 3111",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "MATH 3301",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "MATH 3351",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1557,7 +1557,7 @@
   {
     "catalog": "2026-2028",
     "id": "MCRO 3321",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1567,7 +1567,7 @@
   {
     "catalog": "2026-2028",
     "id": "ME 3236",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1602,7 +1602,7 @@
   {
     "catalog": "2026-2028",
     "id": "NR 3304",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1612,22 +1612,22 @@
   {
     "catalog": "2026-2028",
     "id": "NR 3310",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "NR 3312",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "NR/LA 3317",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "NR 3321",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1852,7 +1852,7 @@
   {
     "catalog": "2026-2028",
     "id": "PHYS 3305",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1862,17 +1862,17 @@
   {
     "catalog": "2026-2028",
     "id": "PLSC/AG 3315",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "PLSC 3329",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "PLSC/SS 3444",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1922,12 +1922,12 @@
   {
     "catalog": "2026-2028",
     "id": "PSC 3320",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "PSC/UNIV 3392",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -1957,7 +1957,7 @@
   {
     "catalog": "2026-2028",
     "id": "PSY 3344",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -2037,7 +2037,7 @@
   {
     "catalog": "2026-2028",
     "id": "SCM 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -2152,7 +2152,7 @@
   {
     "catalog": "2026-2028",
     "id": "SS/PLSC 3444",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -2182,12 +2182,12 @@
   {
     "catalog": "2026-2028",
     "id": "STAT 3210",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "STAT 3310",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -2217,17 +2217,17 @@
   {
     "catalog": "2026-2028",
     "id": "UNIV 3330",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "UNIV 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
     "id": "UNIV/PSC 3392",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -2297,7 +2297,7 @@
   {
     "catalog": "2026-2028",
     "id": "WGQS/ES 3350",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   },
   {
     "catalog": "2026-2028",
@@ -2352,6 +2352,6 @@
   {
     "catalog": "2026-2028",
     "id": "WVIT 3300",
-    "category": "UPPER_DIVISION_2/5"
+    "category": "UPPER_DIVISION_2_5"
   }
 ]
