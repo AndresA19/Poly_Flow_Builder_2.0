@@ -4,8 +4,24 @@
             "id": "6bd1f4b7-d870-44b5-8592-a420751c9291",
             "catalog": "2026-2028",
             "majorName": "Aerospace Engineering",
-            "concName": "Not Applicable For This Major",
-            "code": "26-28.aerospace-engineering-bs",
+            "concName": "Aeronautics",
+            "code": "26-28.52AEROBSU.ARNAEROU",
+            "dataLink": "https://catalog.calpoly.edu/engineering/aerospace-engineering/aerospace-engineering-bs/aerospace-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "6bd1f4b7-d870-44b5-8592-a420751c9291",
+            "catalog": "2026-2028",
+            "majorName": "Aerospace Engineering",
+            "concName": "Astronautics",
+            "code": "26-28.52AEROBSU.ASTAEROU",
+            "dataLink": "https://catalog.calpoly.edu/engineering/aerospace-engineering/aerospace-engineering-bs/aerospace-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "6bd1f4b7-d870-44b5-8592-a420751c9291",
+            "catalog": "2026-2028",
+            "majorName": "Aerospace Engineering",
+            "concName": "Concentration Not Yet Declared",
+            "code": "26-28.52AEROBSU.EMPH-",
             "dataLink": "https://catalog.calpoly.edu/engineering/aerospace-engineering/aerospace-engineering-bs/aerospace-engineering-bs_planofstudytext.pdf"
         },
         {
@@ -76,7 +92,31 @@
             "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
             "catalog": "2026-2028",
             "majorName": "Art and Design",
-            "concName": "Graphic Design, Photo and Video, and Studio Art",
+            "concName": "Graphic Design",
+            "code": "26-28.art-design-bfa",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
+        },
+        {
+            "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
+            "catalog": "2026-2028",
+            "majorName": "Art and Design",
+            "concName": "Photo and Video",
+            "code": "26-28.art-design-bfa",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
+        },
+        {
+            "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
+            "catalog": "2026-2028",
+            "majorName": "Art and Design",
+            "concName": "Studio Art",
+            "code": "26-28.art-design-bfa",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
+        },
+        {
+            "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
+            "catalog": "2026-2028",
+            "majorName": "Art and Design",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.art-design-bfa",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
         },
@@ -84,7 +124,15 @@
             "id": "0656df74-02f8-4fd0-8646-4861467470a5",
             "catalog": "2026-2028",
             "majorName": "Biochemistry",
-            "concName": "Not Applicable For This Major",
+            "concName": "Polymers and Coatings",
+            "code": "26-28.biochemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/biochemistry-bs/biochemistry-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "0656df74-02f8-4fd0-8646-4861467470a5",
+            "catalog": "2026-2028",
+            "majorName": "Biochemistry",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.biochemistry-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/biochemistry-bs/biochemistry-bs_planofstudytext.pdf"
         },
@@ -92,7 +140,39 @@
             "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
             "catalog": "2026-2028",
             "majorName": "Biological Sciences",
-            "concName": "Anatomy and Physiology, Biodiversity and Ecology, Cellular and Molecular Biology, and General Biology",
+            "concName": "Anatomy and Physiology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "Biodiversity and Ecology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "Cellular and Molecular Biology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "General Biology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.biological-sciences-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
         },
@@ -100,7 +180,39 @@
             "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
             "catalog": "2026-2028",
             "majorName": "Biomedical Engineering",
-            "concName": "Not Applicable For This Major",
+            "concName": "Bioinstrumentation",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Cell Therapy",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Mechanical Design",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.biomedical-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_planofstudytext.pdf"
         },
@@ -116,7 +228,79 @@
             "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
             "catalog": "2026-2028",
             "majorName": "Business Administration",
-            "concName": "Accounting, Consumer Packaging, Entrepreneurship, Financial Management, Information Systems and Analytics, Management and Human Resources, Marketing Management, Real Estate Finance, and Supply Chain Management",
+            "concName": "Accounting",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Consumer Packaging",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Entrepreneurship",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Financial Management",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Information Systems and Analytics",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Management and Human Resources",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Marketing Management",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Real Estate Finance",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Supply Chain Management",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.business-administration-bs",
             "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_planofstudytext.pdf"
         },
@@ -124,7 +308,23 @@
             "id": "98fcd58c-d654-475b-a45b-b8036bf9c386",
             "catalog": "2026-2028",
             "majorName": "Chemistry",
-            "concName": "Polymers and Coatings and Sustainability",
+            "concName": "Polymers and Coatings",
+            "code": "26-28.chemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/chemistry-bs/chemistry-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "98fcd58c-d654-475b-a45b-b8036bf9c386",
+            "catalog": "2026-2028",
+            "majorName": "Chemistry",
+            "concName": "Sustainability",
+            "code": "26-28.chemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/chemistry-bs/chemistry-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "98fcd58c-d654-475b-a45b-b8036bf9c386",
+            "catalog": "2026-2028",
+            "majorName": "Chemistry",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.chemistry-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/chemistry-bs/chemistry-bs_planofstudytext.pdf"
         },
@@ -148,7 +348,55 @@
             "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
             "catalog": "2026-2028",
             "majorName": "Civil Engineering",
-            "concName": "Environmental Engineering, General Civil Engineering, Geotechnical Engineering, Structural Engineering, Transportation Engineering, and Water Resources Engineering",
+            "concName": "Environmental Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "General Civil Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Geotechnical Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Structural Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Transportation Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Water Resources Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.civil-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
         },
@@ -172,7 +420,63 @@
             "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
             "catalog": "2026-2028",
             "majorName": "Computer Engineering",
-            "concName": "General Curriculum in Computer Engineering, Computer Architecture, Computer Hardware Engineering, Computer Systems, Embedded Systems, Robotics and Autonomous Systems, and Security",
+            "concName": "General Curriculum in Computer Engineering",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Computer Architecture",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Computer Hardware Engineering",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Computer Systems",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Embedded Systems",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Robotics and Autonomous Systems",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Security",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.computer-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_planofstudytext.pdf"
         },
@@ -180,7 +484,55 @@
             "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
             "catalog": "2026-2028",
             "majorName": "Computer Science",
-            "concName": "Artificial Intelligence and Machine Learning, Data Engineering, Game Development, General Curriculum in Computer Science, Human-Computer Interaction, and Security",
+            "concName": "Artificial Intelligence and Machine Learning",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Data Engineering",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Game Development",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "General Curriculum in Computer Science",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Human-Computer Interaction",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Security",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.computer-science-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_planofstudytext.pdf"
         },
@@ -204,7 +556,87 @@
             "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
             "catalog": "2026-2028",
             "majorName": "Economics",
-            "concName": "Not Applicable For This Major",
+            "concName": "General Curriculum in Economics",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Accounting",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Consumer Packaging",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Economics for Data Science",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Entrepreneurship",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Financial Management",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Information Systems and Analytics",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Management and Human Resources",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Marketing Management",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Real Estate Finance",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.economics-bs",
             "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_planofstudytext.pdf"
         },
@@ -212,7 +644,31 @@
             "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
             "catalog": "2026-2028",
             "majorName": "Electrical Engineering",
-            "concName": "Not Applicable For This Major",
+            "concName": "General Curriculum in Electrical Engineering",
+            "code": "26-28.electrical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
+            "catalog": "2026-2028",
+            "majorName": "Electrical Engineering",
+            "concName": "Electronics, Controls, and Communications",
+            "code": "26-28.electrical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
+            "catalog": "2026-2028",
+            "majorName": "Electrical Engineering",
+            "concName": "Power",
+            "code": "26-28.electrical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
+            "catalog": "2026-2028",
+            "majorName": "Electrical Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.electrical-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_planofstudytext.pdf"
         },
@@ -228,7 +684,39 @@
             "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
             "catalog": "2026-2028",
             "majorName": "Environmental Earth and Soil Sciences",
-            "concName": "Environmental Management, Geology, Hydrology, and Soil Science",
+            "concName": "Environmental Management",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Geology",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Hydrology",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Soil Science",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.environmental-earth-soil-sciences-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_planofstudytext.pdf"
         },
@@ -244,7 +732,31 @@
             "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
             "catalog": "2026-2028",
             "majorName": "Environmental Management and Protection",
-            "concName": "Environmental Management and Water Resources, Watershed Management, and Wildlife Biology",
+            "concName": "Environmental Management and Water Resources",
+            "code": "26-28.environmental-management-protection-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Management and Protection",
+            "concName": "Watershed Management",
+            "code": "26-28.environmental-management-protection-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Management and Protection",
+            "concName": "Wildlife Biology",
+            "code": "26-28.environmental-management-protection-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Management and Protection",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.environmental-management-protection-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_planofstudytext.pdf"
         },
@@ -268,7 +780,31 @@
             "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
             "catalog": "2026-2028",
             "majorName": "Food Science",
-            "concName": "Not Applicable For This Major",
+            "concName": "Culinology®",
+            "code": "26-28.food-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
+            "catalog": "2026-2028",
+            "majorName": "Food Science",
+            "concName": "Food Safety",
+            "code": "26-28.food-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
+            "catalog": "2026-2028",
+            "majorName": "Food Science",
+            "concName": "Sustainable Food Technology",
+            "code": "26-28.food-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
+            "catalog": "2026-2028",
+            "majorName": "Food Science",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.food-science-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_planofstudytext.pdf"
         },
@@ -284,7 +820,39 @@
             "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
             "catalog": "2026-2028",
             "majorName": "General Engineering",
-            "concName": "Biomedical Engineering, Engineering Management, Individualized Course of Study, and Manufacturing Engineering",
+            "concName": "Biomedical Engineering",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Engineering Management",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Manufacturing Engineering",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.general-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_planofstudytext.pdf"
         },
@@ -292,7 +860,39 @@
             "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
             "catalog": "2026-2028",
             "majorName": "Graphic Communication",
-            "concName": "General, Design Reproduction Technology, Graphics for Packaging, and User Experience/User Interface",
+            "concName": "General",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Design Reproduction Technology",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Graphics for Packaging",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "User Experience/User Interface",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.graphic-communication-bs",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
         },
@@ -348,7 +948,31 @@
             "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
             "catalog": "2026-2028",
             "majorName": "Kinesiology",
-            "concName": "Not Applicable For This Major",
+            "concName": "Exercise Science",
+            "code": "26-28.kinesiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
+            "catalog": "2026-2028",
+            "majorName": "Kinesiology",
+            "concName": "Health Promotion",
+            "code": "26-28.kinesiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
+            "catalog": "2026-2028",
+            "majorName": "Kinesiology",
+            "concName": "Sport Science",
+            "code": "26-28.kinesiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
+            "catalog": "2026-2028",
+            "majorName": "Kinesiology",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.kinesiology-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_planofstudytext.pdf"
         },
@@ -364,7 +988,55 @@
             "id": "7a445904-fedf-44e0-9d06-840575235b0f",
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
-            "concName": "Not Applicable For This Major",
+            "concName": "Computer Science",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Electrical Engineering",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Industrial Engineering",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Liberal Arts Focused Course of Study",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Technical and Professional Communication",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Liberal Arts Individualized Course of Study",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.liberal-arts-engineering-studies-bs",
             "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
@@ -372,7 +1044,47 @@
             "id": "70a461d4-003a-45a3-9335-144536f77910",
             "catalog": "2026-2028",
             "majorName": "Liberal Studies",
-            "concName": "Not Applicable For This Major",
+            "concName": "Environmental Education",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Human Development",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Mathematics",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "English",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Science",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.liberal-studies-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
@@ -428,7 +1140,47 @@
             "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
             "catalog": "2026-2028",
             "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
-            "concName": "General Curriculum, Manufacturing, Mechatronics, Energy Resources, and HVAC and Refrigeration",
+            "concName": "General Curriculum",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "Manufacturing",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "Mechatronics",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "Energy Resources",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "HVAC and Refrigeration",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
             "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
         },
@@ -436,7 +1188,47 @@
             "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
             "catalog": "2026-2028",
             "majorName": "Mechanical Engineering (Solano Campus)",
-            "concName": "General Curriculum, Manufacturing, Mechatronics, Energy Resources, and HVAC and Refrigeration",
+            "concName": "General Curriculum",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "Manufacturing",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "Mechatronics",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "Energy Resources",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "HVAC and Refrigeration",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.mechanical-engineering-bs-solano-campus",
             "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
         },
@@ -460,7 +1252,23 @@
             "id": "71497ca9-d57f-4650-85b7-0b13a60107c4",
             "catalog": "2026-2028",
             "majorName": "Nutrition",
-            "concName": "Applied Nutrition and Nutrition Science",
+            "concName": "Applied Nutrition",
+            "code": "26-28.nutrition-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "71497ca9-d57f-4650-85b7-0b13a60107c4",
+            "catalog": "2026-2028",
+            "majorName": "Nutrition",
+            "concName": "Nutrition Science",
+            "code": "26-28.nutrition-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "71497ca9-d57f-4650-85b7-0b13a60107c4",
+            "catalog": "2026-2028",
+            "majorName": "Nutrition",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.nutrition-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_planofstudytext.pdf"
         },
@@ -500,7 +1308,31 @@
             "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
             "catalog": "2026-2028",
             "majorName": "Plant Sciences",
-            "concName": "Environmental Horticulture Science, Fruit and Crop Science, and Plant Protection Science",
+            "concName": "Environmental Horticulture Science",
+            "code": "26-28.plant-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
+            "catalog": "2026-2028",
+            "majorName": "Plant Sciences",
+            "concName": "Fruit and Crop Science",
+            "code": "26-28.plant-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
+            "catalog": "2026-2028",
+            "majorName": "Plant Sciences",
+            "concName": "Plant Protection Science",
+            "code": "26-28.plant-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
+            "catalog": "2026-2028",
+            "majorName": "Plant Sciences",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.plant-sciences-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_planofstudytext.pdf"
         },
@@ -524,7 +1356,31 @@
             "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
             "catalog": "2026-2028",
             "majorName": "Public Health",
-            "concName": "Not Applicable For This Major",
+            "concName": "Community Health Promotion",
+            "code": "26-28.public-health-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
+            "catalog": "2026-2028",
+            "majorName": "Public Health",
+            "concName": "Health Equity and Global Health",
+            "code": "26-28.public-health-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
+            "catalog": "2026-2028",
+            "majorName": "Public Health",
+            "concName": "Health Management and Administration",
+            "code": "26-28.public-health-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
+            "catalog": "2026-2028",
+            "majorName": "Public Health",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.public-health-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_planofstudytext.pdf"
         },
@@ -532,7 +1388,31 @@
             "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
             "catalog": "2026-2028",
             "majorName": "Sociology",
-            "concName": "Criminology, Organizations and Social Services, and Social Justice",
+            "concName": "Criminology",
+            "code": "26-28.sociology-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Organizations and Social Services",
+            "code": "26-28.sociology-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Social Justice",
+            "code": "26-28.sociology-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.sociology-ba",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
         },
@@ -540,7 +1420,55 @@
             "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
             "catalog": "2026-2028",
             "majorName": "Software Engineering",
-            "concName": "General Curriculum in Software Engineering, Artificial Intelligence and Machine Learning, Data Engineering, Game Development, Human-Computer Interaction, and Security",
+            "concName": "General Curriculum in Software Engineering",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Artificial Intelligence and Machine Learning",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Data Engineering",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Game Development",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Human-Computer Interaction",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Security",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.software-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
         },
@@ -572,7 +1500,31 @@
             "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
             "catalog": "2026-2028",
             "majorName": "Wine and Viticulture",
-            "concName": "Enology, Viticulture, and Wine Business",
+            "concName": "Enology",
+            "code": "26-28.wine-viticulture-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
+            "catalog": "2026-2028",
+            "majorName": "Wine and Viticulture",
+            "concName": "Viticulture",
+            "code": "26-28.wine-viticulture-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
+            "catalog": "2026-2028",
+            "majorName": "Wine and Viticulture",
+            "concName": "Wine Business",
+            "code": "26-28.wine-viticulture-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
+            "catalog": "2026-2028",
+            "majorName": "Wine and Viticulture",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.wine-viticulture-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_planofstudytext.pdf"
         }
@@ -582,7 +1534,23 @@
             "id": "6bd1f4b7-d870-44b5-8592-a420751c9291",
             "catalog": "2026-2028",
             "majorName": "Aerospace Engineering",
-            "concName": "Not Applicable For This Major",
+            "concName": "Aeronautics",
+            "code": "26-28.aerospace-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/aerospace-engineering/aerospace-engineering-bs/aerospace-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "6bd1f4b7-d870-44b5-8592-a420751c9291",
+            "catalog": "2026-2028",
+            "majorName": "Aerospace Engineering",
+            "concName": "Astronautics",
+            "code": "26-28.aerospace-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/aerospace-engineering/aerospace-engineering-bs/aerospace-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "6bd1f4b7-d870-44b5-8592-a420751c9291",
+            "catalog": "2026-2028",
+            "majorName": "Aerospace Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.aerospace-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/aerospace-engineering/aerospace-engineering-bs/aerospace-engineering-bs_requirementstext.pdf"
         },
@@ -654,7 +1622,31 @@
             "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
             "catalog": "2026-2028",
             "majorName": "Art and Design",
-            "concName": "Graphic Design, Photo and Video, and Studio Art",
+            "concName": "Graphic Design",
+            "code": "26-28.art-design-bfa",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_requirementstext.pdf"
+        },
+        {
+            "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
+            "catalog": "2026-2028",
+            "majorName": "Art and Design",
+            "concName": "Photo and Video",
+            "code": "26-28.art-design-bfa",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_requirementstext.pdf"
+        },
+        {
+            "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
+            "catalog": "2026-2028",
+            "majorName": "Art and Design",
+            "concName": "Studio Art",
+            "code": "26-28.art-design-bfa",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_requirementstext.pdf"
+        },
+        {
+            "id": "4cbe3031-a1c0-41ab-be16-50e0aa0921fd",
+            "catalog": "2026-2028",
+            "majorName": "Art and Design",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.art-design-bfa",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/art-design/art-design-bfa/art-design-bfa_requirementstext.pdf"
         },
@@ -662,7 +1654,15 @@
             "id": "0656df74-02f8-4fd0-8646-4861467470a5",
             "catalog": "2026-2028",
             "majorName": "Biochemistry",
-            "concName": "Not Applicable For This Major",
+            "concName": "Polymers and Coatings",
+            "code": "26-28.biochemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/biochemistry-bs/biochemistry-bs_requirementstext.pdf"
+        },
+        {
+            "id": "0656df74-02f8-4fd0-8646-4861467470a5",
+            "catalog": "2026-2028",
+            "majorName": "Biochemistry",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.biochemistry-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/biochemistry-bs/biochemistry-bs_requirementstext.pdf"
         },
@@ -670,7 +1670,39 @@
             "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
             "catalog": "2026-2028",
             "majorName": "Biological Sciences",
-            "concName": "Anatomy and Physiology, Biodiversity and Ecology, Cellular and Molecular Biology, and General Biology",
+            "concName": "Anatomy and Physiology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "Biodiversity and Ecology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "Cellular and Molecular Biology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "General Biology",
+            "code": "26-28.biological-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cebf3bc9-a984-4bd3-9500-13941fafd554",
+            "catalog": "2026-2028",
+            "majorName": "Biological Sciences",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.biological-sciences-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_requirementstext.pdf"
         },
@@ -678,7 +1710,39 @@
             "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
             "catalog": "2026-2028",
             "majorName": "Biomedical Engineering",
-            "concName": "Not Applicable For This Major",
+            "concName": "Bioinstrumentation",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Cell Therapy",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Mechanical Design",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.biomedical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "3f81e258-b353-4a5b-9df6-ec5202da1b1b",
+            "catalog": "2026-2028",
+            "majorName": "Biomedical Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.biomedical-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_requirementstext.pdf"
         },
@@ -694,7 +1758,79 @@
             "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
             "catalog": "2026-2028",
             "majorName": "Business Administration",
-            "concName": "Accounting, Consumer Packaging, Entrepreneurship, Financial Management, Information Systems and Analytics, Management and Human Resources, Marketing Management, Real Estate Finance, and Supply Chain Management",
+            "concName": "Accounting",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Consumer Packaging",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Entrepreneurship",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Financial Management",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Information Systems and Analytics",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Management and Human Resources",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Marketing Management",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Real Estate Finance",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Supply Chain Management",
+            "code": "26-28.business-administration-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
+        },
+        {
+            "id": "b31d9216-e75a-4414-a89f-b9569ee8f69d",
+            "catalog": "2026-2028",
+            "majorName": "Business Administration",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.business-administration-bs",
             "dataLink": "https://catalog.calpoly.edu/business/undergraduate/business-administration-bs/business-administration-bs_requirementstext.pdf"
         },
@@ -702,7 +1838,23 @@
             "id": "98fcd58c-d654-475b-a45b-b8036bf9c386",
             "catalog": "2026-2028",
             "majorName": "Chemistry",
-            "concName": "Polymers and Coatings and Sustainability",
+            "concName": "Polymers and Coatings",
+            "code": "26-28.chemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/chemistry-bs/chemistry-bs_requirementstext.pdf"
+        },
+        {
+            "id": "98fcd58c-d654-475b-a45b-b8036bf9c386",
+            "catalog": "2026-2028",
+            "majorName": "Chemistry",
+            "concName": "Sustainability",
+            "code": "26-28.chemistry-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/chemistry-bs/chemistry-bs_requirementstext.pdf"
+        },
+        {
+            "id": "98fcd58c-d654-475b-a45b-b8036bf9c386",
+            "catalog": "2026-2028",
+            "majorName": "Chemistry",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.chemistry-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/chemistry-biochemistry/chemistry-bs/chemistry-bs_requirementstext.pdf"
         },
@@ -726,7 +1878,55 @@
             "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
             "catalog": "2026-2028",
             "majorName": "Civil Engineering",
-            "concName": "Environmental Engineering, General Civil Engineering, Geotechnical Engineering, Structural Engineering, Transportation Engineering, and Water Resources Engineering",
+            "concName": "Environmental Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "General Civil Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Geotechnical Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Structural Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Transportation Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Water Resources Engineering",
+            "code": "26-28.civil-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "8574df2a-5a00-441e-b8ff-6925c98faeb3",
+            "catalog": "2026-2028",
+            "majorName": "Civil Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.civil-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_requirementstext.pdf"
         },
@@ -750,7 +1950,63 @@
             "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
             "catalog": "2026-2028",
             "majorName": "Computer Engineering",
-            "concName": "General Curriculum in Computer Engineering, Computer Architecture, Computer Hardware Engineering, Computer Systems, Embedded Systems, Robotics and Autonomous Systems, and Security",
+            "concName": "General Curriculum in Computer Engineering",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Computer Architecture",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Computer Hardware Engineering",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Computer Systems",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Embedded Systems",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Robotics and Autonomous Systems",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Security",
+            "code": "26-28.computer-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "62fb6dcd-292d-4010-bc5b-d6a0df4b2897",
+            "catalog": "2026-2028",
+            "majorName": "Computer Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.computer-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/computer-engineering/computer-engineering-bs/computer-engineering-bs_requirementstext.pdf"
         },
@@ -758,7 +2014,55 @@
             "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
             "catalog": "2026-2028",
             "majorName": "Computer Science",
-            "concName": "Artificial Intelligence and Machine Learning, Data Engineering, Game Development, General Curriculum in Computer Science, Human-Computer Interaction, and Security",
+            "concName": "Artificial Intelligence and Machine Learning",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Data Engineering",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Game Development",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "General Curriculum in Computer Science",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Human-Computer Interaction",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Security",
+            "code": "26-28.computer-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "53878a75-942b-4079-bd0d-9b0134067ba6",
+            "catalog": "2026-2028",
+            "majorName": "Computer Science",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.computer-science-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/computer-science-bs/computer-science-bs_requirementstext.pdf"
         },
@@ -782,7 +2086,87 @@
             "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
             "catalog": "2026-2028",
             "majorName": "Economics",
-            "concName": "Not Applicable For This Major",
+            "concName": "General Curriculum in Economics",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Accounting",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Consumer Packaging",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Economics for Data Science",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Entrepreneurship",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Financial Management",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Information Systems and Analytics",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Management and Human Resources",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Marketing Management",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Real Estate Finance",
+            "code": "26-28.economics-bs",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
+        },
+        {
+            "id": "31f67f34-eb7a-45a6-a750-f7a813daa5fe",
+            "catalog": "2026-2028",
+            "majorName": "Economics",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.economics-bs",
             "dataLink": "https://catalog.calpoly.edu/business/undergraduate/economics-bs/economics-bs_requirementstext.pdf"
         },
@@ -790,7 +2174,31 @@
             "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
             "catalog": "2026-2028",
             "majorName": "Electrical Engineering",
-            "concName": "Not Applicable For This Major",
+            "concName": "General Curriculum in Electrical Engineering",
+            "code": "26-28.electrical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
+            "catalog": "2026-2028",
+            "majorName": "Electrical Engineering",
+            "concName": "Electronics, Controls, and Communications",
+            "code": "26-28.electrical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
+            "catalog": "2026-2028",
+            "majorName": "Electrical Engineering",
+            "concName": "Power",
+            "code": "26-28.electrical-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "d5d68a9f-321b-4daf-90dc-fd7c6c59eec8",
+            "catalog": "2026-2028",
+            "majorName": "Electrical Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.electrical-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/electrical-engineering/electrical-engineering-bs/electrical-engineering-bs_requirementstext.pdf"
         },
@@ -806,7 +2214,39 @@
             "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
             "catalog": "2026-2028",
             "majorName": "Environmental Earth and Soil Sciences",
-            "concName": "Environmental Management, Geology, Hydrology, and Soil Science",
+            "concName": "Environmental Management",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Geology",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Hydrology",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Soil Science",
+            "code": "26-28.environmental-earth-soil-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "be150936-55fc-41da-b6fc-95fb4b28c194",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Earth and Soil Sciences",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.environmental-earth-soil-sciences-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-earth-soil-sciences-bs/environmental-earth-soil-sciences-bs_requirementstext.pdf"
         },
@@ -822,7 +2262,31 @@
             "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
             "catalog": "2026-2028",
             "majorName": "Environmental Management and Protection",
-            "concName": "Environmental Management and Water Resources, Watershed Management, and Wildlife Biology",
+            "concName": "Environmental Management and Water Resources",
+            "code": "26-28.environmental-management-protection-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_requirementstext.pdf"
+        },
+        {
+            "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Management and Protection",
+            "concName": "Watershed Management",
+            "code": "26-28.environmental-management-protection-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_requirementstext.pdf"
+        },
+        {
+            "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Management and Protection",
+            "concName": "Wildlife Biology",
+            "code": "26-28.environmental-management-protection-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_requirementstext.pdf"
+        },
+        {
+            "id": "6ae2dfd3-d0f4-4ac6-ae81-3900e0da4f5e",
+            "catalog": "2026-2028",
+            "majorName": "Environmental Management and Protection",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.environmental-management-protection-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/natural-resources-management-environmental-sciences/environmental-management-protection-bs/environmental-management-protection-bs_requirementstext.pdf"
         },
@@ -846,7 +2310,31 @@
             "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
             "catalog": "2026-2028",
             "majorName": "Food Science",
-            "concName": "Not Applicable For This Major",
+            "concName": "Culinology®",
+            "code": "26-28.food-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
+            "catalog": "2026-2028",
+            "majorName": "Food Science",
+            "concName": "Food Safety",
+            "code": "26-28.food-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
+            "catalog": "2026-2028",
+            "majorName": "Food Science",
+            "concName": "Sustainable Food Technology",
+            "code": "26-28.food-science-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_requirementstext.pdf"
+        },
+        {
+            "id": "5902fbc3-9e9e-47f1-b579-edeb8f85ca9d",
+            "catalog": "2026-2028",
+            "majorName": "Food Science",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.food-science-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/food-science-bs/food-science-bs_requirementstext.pdf"
         },
@@ -862,7 +2350,39 @@
             "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
             "catalog": "2026-2028",
             "majorName": "General Engineering",
-            "concName": "Biomedical Engineering, Engineering Management, Individualized Course of Study, and Manufacturing Engineering",
+            "concName": "Biomedical Engineering",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Engineering Management",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Manufacturing Engineering",
+            "code": "26-28.general-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "c78559d1-7710-4ccf-b287-36c49d03c74b",
+            "catalog": "2026-2028",
+            "majorName": "General Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.general-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/general-engineering/general-engineering-bs/general-engineering-bs_requirementstext.pdf"
         },
@@ -870,7 +2390,39 @@
             "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
             "catalog": "2026-2028",
             "majorName": "Graphic Communication",
-            "concName": "General, Design Reproduction Technology, Graphics for Packaging, and User Experience/User Interface",
+            "concName": "General",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Design Reproduction Technology",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Graphics for Packaging",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "User Experience/User Interface",
+            "code": "26-28.graphic-communication-bs",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70ea6466-dc14-4867-a30c-7bf62f7fc017",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.graphic-communication-bs",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_requirementstext.pdf"
         },
@@ -926,7 +2478,31 @@
             "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
             "catalog": "2026-2028",
             "majorName": "Kinesiology",
-            "concName": "Not Applicable For This Major",
+            "concName": "Exercise Science",
+            "code": "26-28.kinesiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_requirementstext.pdf"
+        },
+        {
+            "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
+            "catalog": "2026-2028",
+            "majorName": "Kinesiology",
+            "concName": "Health Promotion",
+            "code": "26-28.kinesiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_requirementstext.pdf"
+        },
+        {
+            "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
+            "catalog": "2026-2028",
+            "majorName": "Kinesiology",
+            "concName": "Sport Science",
+            "code": "26-28.kinesiology-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_requirementstext.pdf"
+        },
+        {
+            "id": "be8d26f8-8046-4ead-a3f9-ed794ef7158a",
+            "catalog": "2026-2028",
+            "majorName": "Kinesiology",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.kinesiology-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/kinesiology-bs/kinesiology-bs_requirementstext.pdf"
         },
@@ -942,7 +2518,55 @@
             "id": "7a445904-fedf-44e0-9d06-840575235b0f",
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
-            "concName": "Not Applicable For This Major",
+            "concName": "Computer Science",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Electrical Engineering",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Industrial Engineering",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Liberal Arts Focused Course of Study",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Technical and Professional Communication",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Liberal Arts Individualized Course of Study",
+            "code": "26-28.liberal-arts-engineering-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "7a445904-fedf-44e0-9d06-840575235b0f",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.liberal-arts-engineering-studies-bs",
             "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
         },
@@ -950,7 +2574,47 @@
             "id": "70a461d4-003a-45a3-9335-144536f77910",
             "catalog": "2026-2028",
             "majorName": "Liberal Studies",
-            "concName": "Not Applicable For This Major",
+            "concName": "Environmental Education",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Human Development",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Mathematics",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "English",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Science",
+            "code": "26-28.liberal-studies-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+        },
+        {
+            "id": "70a461d4-003a-45a3-9335-144536f77910",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.liberal-studies-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
         },
@@ -1006,7 +2670,47 @@
             "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
             "catalog": "2026-2028",
             "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
-            "concName": "General Curriculum, Manufacturing, Mechatronics, Energy Resources, and HVAC and Refrigeration",
+            "concName": "General Curriculum",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_requirementstext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "Manufacturing",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_requirementstext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "Mechatronics",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_requirementstext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "Energy Resources",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_requirementstext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "HVAC and Refrigeration",
+            "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_requirementstext.pdf"
+        },
+        {
+            "id": "13d362ff-54bc-4c18-a203-941cf82b40aa",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.mechanical-engineering-bs-san-luis-obispo-campus",
             "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_requirementstext.pdf"
         },
@@ -1014,7 +2718,47 @@
             "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
             "catalog": "2026-2028",
             "majorName": "Mechanical Engineering (Solano Campus)",
-            "concName": "General Curriculum, Manufacturing, Mechatronics, Energy Resources, and HVAC and Refrigeration",
+            "concName": "General Curriculum",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_requirementstext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "Manufacturing",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_requirementstext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "Mechatronics",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_requirementstext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "Energy Resources",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_requirementstext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "HVAC and Refrigeration",
+            "code": "26-28.mechanical-engineering-bs-solano-campus",
+            "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_requirementstext.pdf"
+        },
+        {
+            "id": "f11a9879-3ef3-4298-b642-6427b5f025d3",
+            "catalog": "2026-2028",
+            "majorName": "Mechanical Engineering (Solano Campus)",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.mechanical-engineering-bs-solano-campus",
             "dataLink": "https://catalog.calpoly.edu/engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_requirementstext.pdf"
         },
@@ -1038,7 +2782,23 @@
             "id": "71497ca9-d57f-4650-85b7-0b13a60107c4",
             "catalog": "2026-2028",
             "majorName": "Nutrition",
-            "concName": "Applied Nutrition and Nutrition Science",
+            "concName": "Applied Nutrition",
+            "code": "26-28.nutrition-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_requirementstext.pdf"
+        },
+        {
+            "id": "71497ca9-d57f-4650-85b7-0b13a60107c4",
+            "catalog": "2026-2028",
+            "majorName": "Nutrition",
+            "concName": "Nutrition Science",
+            "code": "26-28.nutrition-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_requirementstext.pdf"
+        },
+        {
+            "id": "71497ca9-d57f-4650-85b7-0b13a60107c4",
+            "catalog": "2026-2028",
+            "majorName": "Nutrition",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.nutrition-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_requirementstext.pdf"
         },
@@ -1078,7 +2838,31 @@
             "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
             "catalog": "2026-2028",
             "majorName": "Plant Sciences",
-            "concName": "Environmental Horticulture Science, Fruit and Crop Science, and Plant Protection Science",
+            "concName": "Environmental Horticulture Science",
+            "code": "26-28.plant-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
+            "catalog": "2026-2028",
+            "majorName": "Plant Sciences",
+            "concName": "Fruit and Crop Science",
+            "code": "26-28.plant-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
+            "catalog": "2026-2028",
+            "majorName": "Plant Sciences",
+            "concName": "Plant Protection Science",
+            "code": "26-28.plant-sciences-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_requirementstext.pdf"
+        },
+        {
+            "id": "9851d790-8b31-4fd9-8c2b-313bde48fbc6",
+            "catalog": "2026-2028",
+            "majorName": "Plant Sciences",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.plant-sciences-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_requirementstext.pdf"
         },
@@ -1102,7 +2886,31 @@
             "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
             "catalog": "2026-2028",
             "majorName": "Public Health",
-            "concName": "Not Applicable For This Major",
+            "concName": "Community Health Promotion",
+            "code": "26-28.public-health-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
+            "catalog": "2026-2028",
+            "majorName": "Public Health",
+            "concName": "Health Equity and Global Health",
+            "code": "26-28.public-health-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
+            "catalog": "2026-2028",
+            "majorName": "Public Health",
+            "concName": "Health Management and Administration",
+            "code": "26-28.public-health-bs",
+            "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_requirementstext.pdf"
+        },
+        {
+            "id": "cf99f405-8ca2-4201-9789-089bad95bfc4",
+            "catalog": "2026-2028",
+            "majorName": "Public Health",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.public-health-bs",
             "dataLink": "https://catalog.calpoly.edu/science-mathematics/kinesiology-public-health/public-health-bs/public-health-bs_requirementstext.pdf"
         },
@@ -1110,7 +2918,31 @@
             "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
             "catalog": "2026-2028",
             "majorName": "Sociology",
-            "concName": "Criminology, Organizations and Social Services, and Social Justice",
+            "concName": "Criminology",
+            "code": "26-28.sociology-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
+        },
+        {
+            "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Organizations and Social Services",
+            "code": "26-28.sociology-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
+        },
+        {
+            "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Social Justice",
+            "code": "26-28.sociology-ba",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
+        },
+        {
+            "id": "24daf4e3-05e1-4fe9-9be5-a0cc1717bd07",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.sociology-ba",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
         },
@@ -1118,7 +2950,55 @@
             "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
             "catalog": "2026-2028",
             "majorName": "Software Engineering",
-            "concName": "General Curriculum in Software Engineering, Artificial Intelligence and Machine Learning, Data Engineering, Game Development, Human-Computer Interaction, and Security",
+            "concName": "General Curriculum in Software Engineering",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Artificial Intelligence and Machine Learning",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Data Engineering",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Game Development",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Human-Computer Interaction",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Security",
+            "code": "26-28.software-engineering-bs",
+            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
+        },
+        {
+            "id": "2dec5269-5f94-4e9a-bfad-d8377b52d589",
+            "catalog": "2026-2028",
+            "majorName": "Software Engineering",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.software-engineering-bs",
             "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
         },
@@ -1150,7 +3030,31 @@
             "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
             "catalog": "2026-2028",
             "majorName": "Wine and Viticulture",
-            "concName": "Enology, Viticulture, and Wine Business",
+            "concName": "Enology",
+            "code": "26-28.wine-viticulture-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_requirementstext.pdf"
+        },
+        {
+            "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
+            "catalog": "2026-2028",
+            "majorName": "Wine and Viticulture",
+            "concName": "Viticulture",
+            "code": "26-28.wine-viticulture-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_requirementstext.pdf"
+        },
+        {
+            "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
+            "catalog": "2026-2028",
+            "majorName": "Wine and Viticulture",
+            "concName": "Wine Business",
+            "code": "26-28.wine-viticulture-bs",
+            "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_requirementstext.pdf"
+        },
+        {
+            "id": "974ccb1b-f8b7-4573-b715-37324cea08aa",
+            "catalog": "2026-2028",
+            "majorName": "Wine and Viticulture",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.wine-viticulture-bs",
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/wine-viticulture/wine-viticulture-bs/wine-viticulture-bs_requirementstext.pdf"
         }
