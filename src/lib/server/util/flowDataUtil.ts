@@ -178,10 +178,22 @@ export async function generateFlowchart(
     });
   }
 
-  if (!data.includeSummerTerms) {
-    generatedFlowchart.termData = generatedFlowchart.termData.filter(
-      (term) => term.tIndex === -1 || term.tIndex % 3 !== 0
-    );
+  if (data.includeSummerTerms) {
+    const existingIndexes = new Set(generatedFlowchart.termData.map(t => t.tIndex));
+    const maxTIndex = Math.max(...generatedFlowchart.termData.map(t => t.tIndex));
+    
+    for (let i = 3; i <= maxTIndex + 3; i += 3) {
+      if (!existingIndexes.has(i)) {
+        generatedFlowchart.termData.push({
+          tIndex: i,
+          tUnits: '0',
+          courses: []
+        });
+      }
+    }
+
+    // sort by tIndex to keep order correct
+    generatedFlowchart.termData.sort((a, b) => a.tIndex - b.tIndex);
   }
 
   // compute total units
