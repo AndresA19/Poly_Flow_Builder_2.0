@@ -1,6 +1,6 @@
 [
   {
-    "id": "AERO121",
+    "id": "AERO 1121",
     "catalog": "2026-2028",
     "displayName": "Aerospace Fundamentals",
     "units": "2",
@@ -10,32 +10,22 @@
     "uscpCourse": false
   },
   {
-    "id": "AERO200",
+    "id": "AERO 2200",
     "catalog": "2026-2028",
     "displayName": "Special Problems for Undergraduates",
-    "units": "1-4",
+    "units": "1-3",
     "desc": "Individual investigation, research, studies, or surveys of selected problems.  Total credit limited to 4 units.\n",
     "addl": "Term Typically Offered: F, W, SP\nPrerequisite: Consent of department head.\n",
     "gwrCourse": false,
     "uscpCourse": false
   },
   {
-    "id": "AERO215",
+    "id": "AERO 2220",
     "catalog": "2026-2028",
-    "displayName": "Introduction to Aerospace Design",
-    "units": "2",
-    "desc": "Introduction to problem solving techniques and team-centered design projects in aerospace engineering.  Primary emphasis on the solutions of design problems in aerospace engineering using computers.  2 laboratories.\n",
-    "addl": "Term Typically Offered: F, W\nPrerequisite: AERO 121 and MATH 143. Recommended: IME 144.\n",
-    "gwrCourse": false,
-    "uscpCourse": false
-  },
-  {
-    "id": "AERO220",
-    "catalog": "2026-2028",
-    "displayName": "Aerospace Systems Engineering and Integration",
-    "units": "1",
-    "desc": "Project-based study of fundamental systems engineering concepts including sub-system interface requirements, verification and validation, modeling/analysis/design, and implementation of complex aerospace systems.  1 laboratory.\n",
-    "addl": "Term Typically Offered: W, SP\nPrerequisite: AERO 121.\n",
+    "displayName": "Aerospace Engineering Dynamics",
+    "units": "3",
+    "desc": "Fundamentals of kinematics and dynamics of particles and rigid bodies. Kinematics of particle and rigid body motion. Newton's 2nd law. Work-energy and momentum methods. Introduction to three-dimensional kinematics and reference frames. Course may be offered in classroom-based or online format. 3 lectures.\n",
+    "addl": "Term Typically Offered: F, SP\nPrerequisite: CE 204 and ME 211, or ENGR 2211.\n",
     "gwrCourse": false,
     "uscpCourse": false
   },

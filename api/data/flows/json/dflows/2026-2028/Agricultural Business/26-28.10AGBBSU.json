@@ -1,0 +1,295 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.10AGBBSU",
+  "programId": ["5f48b25d-a37b-4347-92e3-8f09182e941f"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "AGB 1101",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "AGB 2202",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "AGB 2212",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 1A",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nGE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "AGB 2214",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "BUS 2207",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1267",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 1C",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 3A",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "AGB 2260",
+          "color": "#FEFD9A"
+        },
+        {
+          "id": "AGB 3301",
+          "color": "#FCD09E"
+        },
+        {
+          "id": "STAT 1210",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area B1 & B3 or B2 & B3",
+          "customUnits": "4",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 3B",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "15-16",
+      "courses": [
+        {
+          "id": "AGB 3308",
+          "color": "#FEFD9A"
+        },
+        {
+          "id": "AGB 3327",
+          "color": "#FEFD9A"
+        },
+        {
+          "id": "ECON 2040",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "Agricultural Elective",
+          "customUnits": "3-4",
+          "customDesc": "Select a course from the list in the catalog. Classes range from 3-4 units."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 4A",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "AGB 3312",
+          "color": "#FEFD9A"
+        },
+        {
+          "id": "AGB 3322",
+          "color": "#FEFD9A"
+        },
+        {
+          "id": null,
+          "color": "#FEFD9A",
+          "customId": "Agribusiness General Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for options. At least 6 units must be from AGB courses. Non-AGB courses used here will not double count as Agricultural Electives."
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CAFES Prefix Elective",
+          "customUnits": "3",
+          "customDesc": "Select 6 units from the following CAFES prefixes: AG, AGC, AGED, ASCI, BRAE, DSCI, ERSC, ESCI, FSN, NR, PLSC, RPTA, SS, or WVIT."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area B1 & B3 or B2 & B3",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "AGB 3328",
+          "color": "#FEFD9A"
+        },
+        {
+          "id": "AGB 3369",
+          "color": "#FEFD9A"
+        },
+        {
+          "id": null,
+          "color": "#FEFD9A",
+          "customId": "Agribusiness General Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for options. At least 6 units must be from AGB courses. Non-AGB courses used here will not double count as Agricultural Electives."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 6",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area UD 2",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "12",
+      "courses": [
+        {
+          "id": null,
+          "color": "#FEFD9A",
+          "customId": "Agribusiness General Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for options. At least 6 units must be from AGB courses. Non-AGB courses used here will not double count as Agricultural Electives."
+        },
+        {
+          "id": null,
+          "color": "#FEFD9A",
+          "customId": "Agribusiness General Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for options. At least 6 units must be from AGB courses. Non-AGB courses used here will not double count as Agricultural Electives."
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CAFES Prefix Elective",
+          "customUnits": "3",
+          "customDesc": "Select 6 units from the following CAFES prefixes: AG, AGC, AGED, ASCI, BRAE, DSCI, ERSC, ESCI, FSN, NR, PLSC, RPTA, SS, or WVIT."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area UD 3",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#DA9593",
+          "customId": "GWR Univ 4401",
+          "customUnits": "0",
+          "customDesc": "Graduation Writing Requirement\r\n\r\nRefer to current catalog for prerequisites."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "16-17",
+      "courses": [
+        {
+          "id": null,
+          "color": "#FEFD9A",
+          "customId": "Agribusiness General Elective",
+          "customUnits": "3",
+          "customDesc": "Select a 3 unit AGB course at the 4000 level."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Senior Project",
+          "customDisplayName": "AGB 4462 or AGB 4463",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: AGB 4462, or AGB 4463."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area UD 4",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Electives",
+          "customUnits": "7-8",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-06-28T00:00:00.000Z"
+}
