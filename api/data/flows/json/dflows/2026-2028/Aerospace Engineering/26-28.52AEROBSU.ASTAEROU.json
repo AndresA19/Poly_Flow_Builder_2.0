@@ -40,6 +40,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         }
@@ -65,6 +66,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 3A",
+          "customDisplayName": "Arts",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         },
@@ -72,6 +74,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         }
@@ -97,6 +100,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         },
@@ -104,6 +108,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 6",
+          "customDisplayName": "Ethnic Studies",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         }
@@ -125,6 +130,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 4A",
+          "customDisplayName": "American Institutions",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         },
@@ -132,6 +138,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 3B",
+          "customDisplayName": "Humanities: Literature, Philosophy, and Languages other than English",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         },
@@ -139,6 +146,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 4B",
+          "customDisplayName": "Social and Behavioral Sciences",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         }
@@ -172,6 +180,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 5B",
+          "customDisplayName": "Life Science",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         }
@@ -254,19 +263,20 @@
           "color": "#A4D65E",
           "customId": "Technical Elective",
           "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
+          "customDesc": "Refer to current catalog for course requirements."
         },
         {
           "id": null,
           "color": "#A4D65E",
           "customId": "Technical Elective",
           "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
+          "customDesc": "Refer to current catalog for course requirements."
         },
         {
           "id": null,
           "color": "#789F90",
           "customId": "GE UD 3",
+          "customDisplayName": "Upper-Division Arts and Humanities",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\nGE Area 2: Mathematics and Quantitative Reasoning\nGE Area 3: Arts and Humanities\nGE Area 4: Social and Behavioral Sciences\nGE Area 5: Physical and Life Sciences\nGE Area 6: Ethnic Studies.\n\nRefer to current catalog for course requirements."
         },
@@ -274,6 +284,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE UD 4",
+          "customDisplayName": "Upper-Division Social and Behavioral Sciences",
           "customUnits": "3",
           "customDesc": "Area 4 courses must come from at least two different prefixes.\r\n\r\nGE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
