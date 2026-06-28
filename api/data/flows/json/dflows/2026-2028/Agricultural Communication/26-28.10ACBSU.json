@@ -103,8 +103,7 @@
         {
           "id": null,
           "color": "#CAC7A7",
-          "customId": "Choose One",
-          "customDisplayName": "FSN 1111 or FSN 2245",
+          "customId": "FSN 1111 or FSN 2245",
           "customUnits": "3",
           "customDesc": "Choose one of the following: FSN 1111 or FSN 2245"
         },
@@ -166,8 +165,7 @@
         {
           "id": null,
           "color": "#CAC7A7",
-          "customId": "Choose One",
-          "customDisplayName": "AGB 3301 or WVIT 3343",
+          "customId": "AGB 3301 or WVIT 3343",
           "customUnits": "3",
           "customDesc": "Choose one of the following: AGB 3301 or WVIT 3343"
         },
