@@ -69,10 +69,9 @@
         {
           "id": null,
           "color": "#CAC7A7",
-          "customId": "GE Area 5A & 5C",
-          "customDisplayName": "Physical Science and Laboratory\r\nChoose CHEM 1110 or CHEM 1120",
+          "customId": "CHEM 1110 or CHEM 1120",
           "customUnits": "4",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+          "customDesc": "Choose one of the following: CHEM 1110 or CHEM 1120"
         },
         {
           "id": "ASCI 1102",
