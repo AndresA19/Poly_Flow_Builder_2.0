@@ -53,7 +53,7 @@
         "catalog": "2026-2028",
         "majorName": "Agricultural Systems Management",
         "concName": "Not Applicable For This Major",
-        "code": "26-28.10AGSM SU",
+        "code": "26-28.10ASMBSU",
         "dataLink": "agriculture-food-environmental-sciences/bioresource-agricultural-engineering/agricultural-systems-management-bs/agricultural-systems-management-bs_planofstudytext.pdf"
         },
         {
@@ -61,17 +61,61 @@
         "catalog": "2026-2028",
         "majorName": "Animal Science",
         "concName": "Not Applicable For This Major",
-        "code": "26-28.animal-science-bs",
+        "code": "26-28.10ASCIBSU",
         "dataLink": "agriculture-food-environmental-sciences/animal-science/animal-science-bs/animal-science-bs_planofstudytext.pdf"
         },
         {
-        "id": "2a298399-fdf1-48f1-ba0e-06cbfebf24b3",
+        "id": "6d8f66fd-59e6-4a6f-a8b4-3ef9f75b9c91",
         "catalog": "2026-2028",
         "majorName": "Anthropology and Geography",
-        "concName": "Not Applicable For This Major",
-        "code": "26-28.anthropology-geography-bs",
+        "concName": "Environmental Studies and Sustainability",
+        "code": "26-28.48ANGBSU.ESSANGU",
         "dataLink": "liberal-arts/social-sciences/anthropology-geography-bs/anthropology-geography-bs_planofstudytext.pdf"
         },
+        {
+        "id": "2b4bfe11-9e2f-4d5a-8d4f-84f1b4c3d32b",
+        "catalog": "2026-2028",
+        "majorName": "Anthropology and Geography",
+        "concName": "Global Studies and International Development",
+        "code": "26-28.48ANGBSU.GSIDANGU",
+        "dataLink": "liberal-arts/social-sciences/anthropology-geography-bs/anthropology-geography-bs_planofstudytext.pdf"
+        },
+        {
+        "id": "93c4b4f6-56db-47df-bd1d-0877d8db3d7d",
+        "catalog": "2026-2028",
+        "majorName": "Anthropology and Geography",
+        "concName": "Human Ecology",
+        "code": "26-28.48ANGBSU.HMEANGU",
+        "dataLink": "liberal-arts/social-sciences/anthropology-geography-bs/anthropology-geography-bs_planofstudytext.pdf"
+        },
+        {
+        "id": "fa5ebfd4-ef67-4a8b-9d7b-4d8d83f01b6c",
+        "catalog": "2026-2028",
+        "majorName": "Anthropology and Geography",
+        "concName": "Individualized Course of Study",
+        "code": "26-28.48ANGBSU.ICSANGU",
+        "dataLink": "liberal-arts/social-sciences/anthropology-geography-bs/anthropology-geography-bs_planofstudytext.pdf"
+        },
+        {
+        "id": "4f5ef4d8-30df-4317-85c5-f6d2d0b1f2a8",
+        "catalog": "2026-2028",
+        "majorName": "Anthropology and Geography",
+        "concName": "Concentration Not Yet Declared",
+        "code": "26-28.48ANGBSU.EMPH-",
+        "dataLink": "liberal-arts/social-sciences/anthropology-geography-bs/anthropology-geography-bs_planofstudytext.pdf"
+        },
+
+
+
+
+
+
+
+
+
+
+
+
         {
         "id": "4115df2a-1609-40f4-b289-ddb48cfe2aba",
         "catalog": "2026-2028",

@@ -1,8 +1,8 @@
 {
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
-  "name": "26-28.48ANGBSU.ESSANGU",
-  "programId": ["d53cb10c-9cd0-4be5-8806-1434fe3ce363"],
+  "name": "26-28.48ANGBSU.ICSANGU",
+  "programId": ["fa5ebfd4-ef67-4a8b-9d7b-4d8d83f01b6c"],
   "startYear": "2026",
   "unitTotal": "180",
   "notes": "",
@@ -189,15 +189,18 @@
           "color": "#FEFD9A"
         },
         {
-          "id": "GEOG350",
-          "color": "#FEFD9A"
-        },
-        {
           "id": null,
           "color": "#FEFD9A",
           "customId": "Methodological Elective",
           "customUnits": "4",
           "customDesc": "Choose one of the following: ANT310, ANT311, ANT393; GEOG328, or GEOG441."
+        },
+        {
+          "id": null,
+          "color": "#F9A3D2",
+          "customId": "ICS",
+          "customUnits": "4",
+          "customDesc": "Any ICS course can go here.\r\n\r\nWhen creating an individual program, it should consist of 28 units, with at least 16 units at the 300-400 level. Courses are selected by the student in consultation with an advising faculty member. The student must also provide a written justification for the courses and the way they constitute a cohesive, integrated course of study. The list of courses is a contract between the student and the Department.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
         {
           "id": null,
@@ -235,9 +238,9 @@
         {
           "id": null,
           "color": "#F9A3D2",
-          "customId": "Select from Problems & Issues Courses",
+          "customId": "ICS",
           "customUnits": "4",
-          "customDesc": "Any Problems & Issues Course can go here.\r\n\r\nSelect 12 units from Problems and Issues Courses: AG315, AG360; ANT312; BIO114, BIO227; BRAE345, BRAE348; CRP/NR404; EDES406; ENVE324; GEOG333, GEOG408; GEOL201; NR306; POLS332; PSC320; SOC308, SOC431; SS120."
+          "customDesc": "Any ICS course can go here.\r\n\r\nWhen creating an individual program, it should consist of 28 units, with at least 16 units at the 300-400 level. Courses are selected by the student in consultation with an advising faculty member. The student must also provide a written justification for the courses and the way they constitute a cohesive, integrated course of study. The list of courses is a contract between the student and the Department.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     },
@@ -264,14 +267,16 @@
         {
           "id": null,
           "color": "#F9A3D2",
-          "customId": "Choose One",
-          "customDisplayName": "GEOG328 or GEOG441",
+          "customId": "ICS",
           "customUnits": "4",
-          "customDesc": "Choose one of the following: GEOG328, or GEOG441."
+          "customDesc": "Any ICS course can go here.\r\n\r\nWhen creating an individual program, it should consist of 28 units, with at least 16 units at the 300-400 level. Courses are selected by the student in consultation with an advising faculty member. The student must also provide a written justification for the courses and the way they constitute a cohesive, integrated course of study. The list of courses is a contract between the student and the Department.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
         {
-          "id": "GEOG325",
-          "color": "#F9A3D2"
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
         {
           "id": null,
@@ -291,28 +296,28 @@
           "color": "#FEFD9A"
         },
         {
-          "id": "GEOG435",
-          "color": "#F9A3D2"
+          "id": "GEOG350",
+          "color": "#FEFD9A"
         },
         {
           "id": null,
           "color": "#F9A3D2",
-          "customId": "Select from Problems & Issues Courses",
+          "customId": "ICS",
           "customUnits": "4",
-          "customDesc": "Any Problems & Issues Course can go here.\r\n\r\nSelect 12 units from Problems and Issues Courses: AG315, AG360; ANT312; BIO114, BIO227; BRAE345, BRAE348; CRP/NR404; EDES406; ENVE324; GEOG333, GEOG408; GEOL201; NR306; POLS332; PSC320; SOC308, SOC431; SS120."
+          "customDesc": "Any ICS course can go here.\r\n\r\nWhen creating an individual program, it should consist of 28 units, with at least 16 units at the 300-400 level. Courses are selected by the student in consultation with an advising faculty member. The student must also provide a written justification for the courses and the way they constitute a cohesive, integrated course of study. The list of courses is a contract between the student and the Department.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
         {
           "id": null,
-          "color": "#F9A3D2",
-          "customId": "Select from Problems & Issues Courses",
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
           "customUnits": "4",
-          "customDesc": "Any Problems & Issues Course can go here.\r\n\r\nSelect 12 units from Problems and Issues Courses: AG315, AG360; ANT312; BIO114, BIO227; BRAE345, BRAE348; CRP/NR404; EDES406; ENVE324; GEOG333, GEOG408; GEOL201; NR306; POLS332; PSC320; SOC308, SOC431; SS120."
+          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     },
     {
       "tIndex": 14,
-      "tUnits": "14",
+      "tUnits": "13",
       "courses": [
         {
           "id": null,
@@ -321,42 +326,6 @@
           "customDisplayName": "ANT461 or GEOG461",
           "customUnits": "2",
           "customDesc": "Choose one of the following: ANT461, or GEOG461."
-        },
-        {
-          "id": null,
-          "color": "#FEFD9A",
-          "customId": "GEOG Elective",
-          "customDisplayName": "300-400 Level",
-          "customUnits": "4",
-          "customDesc": "Any GEOG Elective (300-400 level) course can go here."
-        },
-        {
-          "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
-          "customUnits": "4",
-          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
-        },
-        {
-          "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
-          "customUnits": "4",
-          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
-        }
-      ]
-    },
-    {
-      "tIndex": 15,
-      "tUnits": "13",
-      "courses": [
-        {
-          "id": null,
-          "color": "#FEFD9A",
-          "customId": "Senior Project II",
-          "customDisplayName": "ANT462 or GEOG462",
-          "customUnits": "2",
-          "customDesc": "Choose one of the following: ANT462, or GEOG462."
         },
         {
           "id": null,
@@ -377,10 +346,45 @@
         {
           "id": null,
           "color": "#F9A3D2",
-          "customId": "Choose One",
-          "customDisplayName": "GEOG414 or GEOG415",
+          "customId": "ICS",
           "customUnits": "4",
-          "customDesc": "Choose one of the following: GEOG414, or GEOG415."
+          "customDesc": "Any ICS course can go here.\r\n\r\nWhen creating an individual program, it should consist of 28 units, with at least 16 units at the 300-400 level. Courses are selected by the student in consultation with an advising faculty member. The student must also provide a written justification for the courses and the way they constitute a cohesive, integrated course of study. The list of courses is a contract between the student and the Department.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 15,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": null,
+          "color": "#FEFD9A",
+          "customId": "Senior Project II",
+          "customDisplayName": "ANT462 or GEOG462",
+          "customUnits": "2",
+          "customDesc": "Choose one of the following: ANT462, or GEOG462."
+        },
+        {
+          "id": null,
+          "color": "#FEFD9A",
+          "customId": "GEOG Elective",
+          "customDisplayName": "300-400 Level",
+          "customUnits": "4",
+          "customDesc": "Any GEOG Elective (300-400 level) course can go here."
+        },
+        {
+          "id": null,
+          "color": "#F9A3D2",
+          "customId": "ICS",
+          "customUnits": "4",
+          "customDesc": "Any ICS course can go here.\r\n\r\nWhen creating an individual program, it should consist of 28 units, with at least 16 units at the 300-400 level. Courses are selected by the student in consultation with an advising faculty member. The student must also provide a written justification for the courses and the way they constitute a cohesive, integrated course of study. The list of courses is a contract between the student and the Department.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#F9A3D2",
+          "customId": "ICS",
+          "customUnits": "4",
+          "customDesc": "Any ICS course can go here.\r\n\r\nWhen creating an individual program, it should consist of 28 units, with at least 16 units at the 300-400 level. Courses are selected by the student in consultation with an advising faculty member. The student must also provide a written justification for the courses and the way they constitute a cohesive, integrated course of study. The list of courses is a contract between the student and the Department.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     }
@@ -389,6 +393,6 @@
   "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
   "publishedId": null,
   "importedId": null,
-  "lastUpdatedUTC": "2023-03-05T20:03:23.565Z"
+  "lastUpdatedUTC": "2023-03-05T20:03:23.567Z"
 }
 

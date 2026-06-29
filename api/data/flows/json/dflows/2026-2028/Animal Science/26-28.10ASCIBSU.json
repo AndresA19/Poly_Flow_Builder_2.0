@@ -1,0 +1,361 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.10ASCIBSU",
+  "programId": [
+    "49c1acbe-0923-4855-a976-59c5287f992f"
+  ],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ASCI 1100",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ASCI 1101",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "Math",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: MATH 1006.\r\n\r\nRequired in Major or Support; also satisfies General Education (GE) requirement.",
+          "customDisplayName": "College Algebra: MATH 1006"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 1A",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Written Communication"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 1C",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Oral Communication"
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ASCI 1102",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ASCI 1103",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "Biology",
+          "customUnits": "4",
+          "customDesc": "Choose BIO 1151.\r\n\r\nRequired in Major or Support; also satisfies General Education (GE) requirements.",
+          "customDisplayName": "Life: Molecules and Cells: BIO 1151"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 1B",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Critical Thinking"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE Area 3A",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Arts"
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ASCI 2210",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ASCI 2211",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Animal Management Elective",
+          "customUnits": "3",
+          "customDesc": "Select one of the following: ASCI 2230, ASCI 2231, ASCI 2232, or ASCI 2233.",
+          "customDisplayName": "ASCI 2230, 2231, 2232, or 2233"
+        },
+        {
+          "id": "ASCI 2229",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "STAT 1110",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "Lower Division GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Area 4B"
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Animal Management Elective",
+          "customUnits": "3",
+          "customDesc": "Select one of the following: ASCI 2230, ASCI 2231, ASCI 2232, or ASCI 2233.",
+          "customDisplayName": "ASCI 2230, 2231, 2232, or 2233"
+        },
+        {
+          "id": "ASCI 2220",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "Lower Division GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Area 4A"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "Lower Division GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Area 3B"
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "1",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ASCI 3302",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ASCI 3340",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ASCI 3363",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "Any ASCI or DSCI Prefix at the 3000-5000 Level.\r\n\r\nIf a course is taken to meet a Major or Support requirement, it cannot be double-counted in the Approved Elective category."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3-4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#DA9593",
+          "customId": "GWR",
+          "customUnits": "0",
+          "customDesc": "Students can attempt to fulfill the GWR requirement after 60 earned units; students should aim to complete the requirement before senior year as part of an Upper-Division Area 3 GE."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ASCI 3304",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ASCI 3351",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Animal Science Enterprise",
+          "customUnits": "3",
+          "customDesc": "Select one of the following: Animal Science Enterprise (ASCI 2001 to ASCI 2017), or Animal Science Advanced Enterprise (ASCI 4001 to ASCI 4015).",
+          "customDisplayName": "ASCI 2001-2017 or ASCI 4001-4015"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "Organic Chemistry",
+          "customUnits": "4",
+          "customDesc": "Choose CHEM 2240.\r\n\r\nRequired in Major or Support; also satisfies General Education (GE) requirement.",
+          "customDisplayName": "CHEM 2240"
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "1",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "Lower Division GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Area 6"
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Senior Project",
+          "customUnits": "2",
+          "customDesc": "Choose one of the following: ASCI 4477, ASCI 4478, or ASCI 4479.",
+          "customDisplayName": "ASCI 4477, 4478, or 4479"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Nutrition Elective",
+          "customUnits": "3",
+          "customDesc": "Select one of the following: ASCI 3346, ASCI 3350, ASCI 3355, or ASCI 4419.",
+          "customDisplayName": "ASCI 3346, ASCI 3350, ASCI 3355, or ASCI 4419"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Physiology Elective",
+          "customUnits": "3-4",
+          "customDesc": "Select one of the following: ASCI 4403, ASCI 4405, ASCI 4406, ASCI 4438, ASCI 4440, ASCI 4455, DSCI 3321, or DSCI 3330.",
+          "customDisplayName": "ASCI 4403, ASCI 4405, ASCI 4406, ASCI 4438, ASCI 4440, ASCI 4455, DSCI 3321, or DSCI 3330"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "Any ASCI or DSCI Prefix at the 3000-5000 Level.\r\n\r\nIf a course is taken to meet a Major or Support requirement, it cannot be double-counted in the Approved Elective category."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "Upper Division GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Area 3"
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Biochemistry Elective",
+          "customUnits": "3-4",
+          "customDesc": "Select one of the following: ASCI 3319 or CHEM 3350.\r\n\r\nCompletion of GE Area 1 & 2; ASCI 2229 or ASCI 229; CHEM 216 or CHEM 2242 or CHEM 312 or CHEM 2240.",
+          "customDisplayName": "ASCI 3319 or CHEM 3350"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Approved Elective",
+          "customUnits": "3-4",
+          "customDesc": "Any ASCI or DSCI Prefix at the 3000-5000 Level.\r\n\r\nIf a course is taken to meet a Major or Support requirement, it cannot be double-counted in the Approved Elective category."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "Any ASCI or DSCI Prefix at the 3000-5000 Level.\r\n\r\nIf a course is taken to meet a Major or Support requirement, it cannot be double-counted in the Approved Elective category."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "Upper Division GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements.",
+          "customDisplayName": "Area 4"
+        },
+        {
+          "id": null,
+          "color": "#DA9593",
+          "customId": "GWR",
+          "customUnits": "0",
+          "customDesc": "Graduation Writing Requirement Portfolio: UNIV 4401 (0). Last chance to fulfill the GWR."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-06-28T20:03:23.563Z"
+}

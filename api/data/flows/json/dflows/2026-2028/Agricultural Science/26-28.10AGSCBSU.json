@@ -130,7 +130,7 @@
         {
           "id": null,
           "color": "#D4FFFE",
-          "customId": "Free Electives",
+          "customId": "Free Elective",
           "customUnits": "3",
           "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
@@ -162,14 +162,14 @@
         {
           "id": null,
           "color": "#D4FFFE",
-          "customId": "Free Electives",
+          "customId": "Free Elective",
           "customUnits": "3",
           "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
         {
           "id": null,
           "color": "#D4FFFE",
-          "customId": "Free Electives",
+          "customId": "Free Elective",
           "customUnits": "3",
           "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
@@ -209,14 +209,14 @@
         {
           "id": null,
           "color": "#D4FFFE",
-          "customId": "Free Electives",
+          "customId": "Free Elective",
           "customUnits": "3",
           "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
         {
           "id": null,
           "color": "#A4D65E",
-          "customId": "Approved Emphasis Electives",
+          "customId": "Approved Emphasis Elective",
           "customUnits": "3",
           "customDesc": "Refer to current catalog for course requirements."
         }
@@ -241,7 +241,7 @@
         {
           "id": null,
           "color": "#A4D65E",
-          "customId": "Approved Emphasis Electives",
+          "customId": "Approved Emphasis Elective",
           "customUnits": "3",
           "customDesc": "Refer to current catalog for course requirements."
         },
@@ -269,14 +269,14 @@
         {
           "id": null,
           "color": "#A4D65E",
-          "customId": "Approved Emphasis Electives",
+          "customId": "Approved Emphasis Elective",
           "customUnits": "3",
           "customDesc": "Refer to current catalog for course requirements."
         },
         {
           "id": null,
           "color": "#A4D65E",
-          "customId": "Approved Emphasis Electives",
+          "customId": "Approved Emphasis Elective",
           "customUnits": "3",
           "customDesc": "Refer to current catalog for course requirements."
         },
@@ -308,14 +308,14 @@
         {
           "id": null,
           "color": "#A4D65E",
-          "customId": "Approved Emphasis Electives",
+          "customId": "Approved Emphasis Elective",
           "customUnits": "3",
           "customDesc": "Refer to current catalog for course requirements."
         },
         {
           "id": null,
           "color": "#A4D65E",
-          "customId": "Approved Emphasis Electives",
+          "customId": "Approved Emphasis Elective",
           "customUnits": "3",
           "customDesc": "Refer to current catalog for course requirements."
         },
