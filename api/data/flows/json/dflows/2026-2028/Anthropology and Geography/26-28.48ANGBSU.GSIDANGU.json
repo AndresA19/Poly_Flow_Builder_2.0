@@ -2,9 +2,11 @@
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
   "name": "26-28.48ANGBSU.GSIDANGU",
-  "programId": ["2b4bfe11-9e2f-4d5a-8d4f-84f1b4c3d32b"],
+  "programId": [
+    "2b4bfe11-9e2f-4d5a-8d4f-84f1b4c3d32b"
+  ],
   "startYear": "2026",
-  "unitTotal": "180",
+  "unitTotal": "120",
   "notes": "",
   "termData": [
     {
@@ -14,82 +16,107 @@
     },
     {
       "tIndex": 1,
-      "tUnits": "16",
+      "tUnits": "15",
       "courses": [
         {
-          "id": "ANT201",
-          "color": "#FEFD9A"
+          "id": "ANT 2201",
+          "color": "#F8E08E"
         },
         {
-          "id": "GEOG150",
-          "color": "#FEFD9A"
+          "id": "ANT 2250",
+          "color": "#F8E08E"
         },
         {
-          "id": "COMS101",
-          "color": "#DCFDD2"
+          "id": "GEOG/ERSC 2250",
+          "color": "#F8E08E"
         },
         {
           "id": null,
-          "color": "#DCFDD2",
-          "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
       ]
     },
     {
       "tIndex": 2,
-      "tUnits": "16",
+      "tUnits": "15",
       "courses": [
         {
-          "id": "ANT250",
-          "color": "#FEFD9A"
+          "id": "GEOG 1150",
+          "color": "#F8E08E"
         },
         {
-          "id": "GEOG250",
-          "color": "#FEFD9A"
-        },
-        {
-          "id": "ENGL134",
-          "color": "#DCFDD2"
+          "id": "STAT 1110",
+          "color": "#F8E08E"
         },
         {
           "id": null,
-          "color": "#DCFDD2",
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
           "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
       ]
     },
     {
-      "tIndex": 3,
-      "tUnits": "16",
+      "tIndex": 4,
+      "tUnits": "14",
       "courses": [
         {
-          "id": "COMS126",
-          "color": "#DCFDD2"
+          "id": "ANT 2202",
+          "color": "#F8E08E"
         },
         {
           "id": null,
-          "color": "#DCFDD2",
-          "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
+          "color": "#F8E08E",
+          "customId": "ANT/GEOG 3384",
+          "customUnits": "2",
+          "customDesc": "Choose one of the following: ANT 3384 or GEOG 3384.",
+          "customDisplayName": "Professional Prep"
         },
         {
-          "id": null,
-          "color": "#DCFDD2",
-          "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
+          "id": "GEOG 2218",
+          "color": "#F8E08E"
         },
         {
           "id": null,
           "color": "#D4FFFE",
           "customId": "Free Elective",
-          "customUnits": "4",
-          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     },
@@ -98,287 +125,204 @@
       "tUnits": "16",
       "courses": [
         {
-          "id": "ANT202",
-          "color": "#FEFD9A"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Methodological Elective",
+          "customUnits": "3",
+          "customDesc": "Select one of the following: ANT 3310, ANT 3311, ANT/ISLA 3393, GEOG 3328, or GEOG 4441."
         },
         {
           "id": null,
-          "color": "#DCFDD2",
+          "color": "#789F90",
           "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
         {
           "id": null,
-          "color": "#DCFDD2",
+          "color": "#789F90",
           "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "1",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
         {
           "id": null,
           "color": "#D4FFFE",
           "customId": "Free Elective",
-          "customUnits": "4",
-          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
-        }
-      ]
-    },
-    {
-      "tIndex": 6,
-      "tUnits": "13",
-      "courses": [
-        {
-          "id": null,
-          "color": "#FEFD9A",
-          "customId": "Professional Prep for ANG",
-          "customDisplayName": "ANT384 or GEOG384",
-          "customUnits": "1",
-          "customDesc": "Choose one of the following: ANT384, or GEOG384."
-        },
-        {
-          "id": "GEOG218",
-          "color": "#FEFD9A"
-        },
-        {
-          "id": null,
-          "color": "#DCFDD2",
-          "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
-        },
-        {
-          "id": null,
-          "color": "#DCFDD2",
-          "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     },
     {
       "tIndex": 7,
-      "tUnits": "16",
+      "tUnits": "14",
       "courses": [
         {
-          "id": "STAT217",
-          "color": "#FEFD9A"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ANT/GEOG 4465",
+          "customUnits": "2",
+          "customDesc": "Choose one of the following: ANT 4465 or GEOG 4465.\r\n\r\nOr approved study abroad course.",
+          "customDisplayName": "Internship"
+        },
+        {
+          "id": "GEOG 3308",
+          "color": "#F8E08E"
         },
         {
           "id": null,
-          "color": "#DCFDD2",
+          "color": "#F8E08E",
+          "customId": "ANT Elective",
+          "customUnits": "3",
+          "customDesc": "Any 3000-4000 ANT course not used for major or concentration."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
           "customId": "GE",
-          "customUnits": "4",
-          "customDesc": "One course from each of the following GE areas must be completed: A1, A2, A3, B1, C1, C2, Lower-Division C Elective, Upper-Division C, D1, Lower-Division E, F, and GE Elective. Upper-Division C should be taken only after Junior standing is reached (90 units). Refer to online catalog for GE course selection, United States Cultural Pluralism (USCP) and Graduation Writing Requirement (GWR). USCP requirement can be satisfied by some (but not all) courses within GE categories: Upper-Division B, C1, Upper-Division C, D1, Upper-Division D, or E."
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
         {
           "id": null,
           "color": "#D4FFFE",
           "customId": "Free Elective",
-          "customUnits": "4",
-          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
-        },
-        {
-          "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
-          "customUnits": "4",
-          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     },
     {
-      "tIndex": 9,
-      "tUnits": "16",
+      "tIndex": 8,
+      "tUnits": "15",
       "courses": [
         {
-          "id": "GEOG308",
-          "color": "#FEFD9A"
-        },
-        {
-          "id": "GEOG350",
-          "color": "#FEFD9A"
+          "id": "ANT 3360",
+          "color": "#F8E08E"
         },
         {
           "id": null,
-          "color": "#FEFD9A",
-          "customId": "Methodological Elective",
-          "customUnits": "4",
-          "customDesc": "Choose one of the following: ANT310, ANT311, ANT393; GEOG328, or GEOG441."
+          "color": "#A4D65E",
+          "customId": "Choose One",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: GEOG/ERSC 3325, GEOG/ERSC 4414, or GEOG/ERSC 4415.",
+          "customDisplayName": "GEOG/ERSC 3325, GEOG/ERSC 4414, or GEOG/ERSC 4415"
         },
         {
           "id": null,
-          "color": "#F9A3D2",
-          "customId": "List 2 Problems & Issues",
-          "customUnits": "4",
-          "customDesc": "Any List 2 Problems & Issues course can go here.\r\n\r\n<b>List 2 Problems & Issues Courses, select two of the following (8 units) not used in major:</b> CRP334; ECON222; POLS328, POLS332; SOC308, SOC309, SOC315, SOC321, SOC431; UNIV391, UNIV392; WLC310; Foreign Language (201) or credit for a comparable level of proficiency (4 units max)."
+          "color": "#F8E08E",
+          "customId": "GEOG 3340, GEOG 3370, or GEOG 3380",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: GEOG 3340, GEOG 3370, or GEOG 3380.",
+          "customDisplayName": "Regional Geography Elective"
+        },
+        {
+          "id": "GEOG 3350",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "GEOG 4408",
+          "color": "#A4D65E"
         }
       ]
     },
     {
       "tIndex": 10,
-      "tUnits": "16",
+      "tUnits": "15",
       "courses": [
         {
-          "id": "ANT360",
-          "color": "#FEFD9A"
+          "id": "ANT 4401",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "ANT/GEOG 4455",
+          "color": "#F8E08E"
         },
         {
           "id": null,
-          "color": "#FEFD9A",
-          "customId": "ANT/GEOG/SOC Elective",
-          "customDisplayName": "300-400 Level",
-          "customUnits": "4",
-          "customDesc": "Any ANT/GEOG/SOC Elective (300-400 level) course can go here."
+          "color": "#F8E08E",
+          "customId": "Senior Project I",
+          "customUnits": "1",
+          "customDesc": "Choose one of the following: ANT 4461 or GEOG 4461.",
+          "customDisplayName": "ANT 4461 or GEOG 4461"
         },
         {
           "id": null,
-          "color": "#F9A3D2",
-          "customId": "List 1 Problems & Issues",
-          "customUnits": "4",
-          "customDesc": "Any List 1 Problems & Issues course can go here.\r\n\r\n<b>List 1 Problems & Issues Courses, select three of the following (12 units) not used in major:</b> ANT330, ANT344, ANT345, ANT402; GEOG/ERSC325; GEOG328, GEOG333, GEOG370, GEOG380, GEOG441."
+          "color": "#F8E08E",
+          "customId": "GEOG Elective",
+          "customUnits": "3",
+          "customDesc": "Any 3000-4000 GEOG course not used for major or concentration."
         },
         {
           "id": null,
-          "color": "#F9A3D2",
-          "customId": "List 1 Problems & Issues",
-          "customUnits": "4",
-          "customDesc": "Any List 1 Problems & Issues course can go here.\r\n\r\n<b>List 1 Problems & Issues Courses, select three of the following (12 units) not used in major:</b> ANT330, ANT344, ANT345, ANT402; GEOG/ERSC325; GEOG328, GEOG333, GEOG370, GEOG380, GEOG441."
+          "color": "#A4D65E",
+          "customId": "Problems and Issues Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Global Studies and International Development Problems and Issues course options."
         }
       ]
     },
     {
       "tIndex": 11,
-      "tUnits": "12",
-      "courses": [
-        {
-          "id": null,
-          "color": "#FEFD9A",
-          "customId": "Regional Geography Elective",
-          "customDisplayName": "GEOG340, GEOG370, or GEOG380",
-          "customUnits": "4",
-          "customDesc": "Choose one of the following: GEOG340, GEOG370, or GEOG380."
-        },
-        {
-          "id": null,
-          "color": "#FEFD9A",
-          "customId": "ANT Elective",
-          "customDisplayName": "300-400 Level",
-          "customUnits": "4",
-          "customDesc": "Any ANT Elective (300-400 level) course can go here."
-        },
-        {
-          "id": null,
-          "color": "#F9A3D2",
-          "customId": "List 2 Problems & Issues",
-          "customUnits": "4",
-          "customDesc": "Any List 2 Problems & Issues course can go here.\r\n\r\n<b>List 2 Problems & Issues Courses, select two of the following (8 units) not used in major:</b> CRP334; ECON222; POLS328, POLS332; SOC308, SOC309, SOC315, SOC321, SOC431; UNIV391, UNIV392; WLC310; Foreign Language (201) or credit for a comparable level of proficiency (4 units max)."
-        },
-        {
-          "id": null,
-          "color": "#DA9593",
-          "customId": "Graduation Writing Requirement",
-          "customUnits": "0",
-          "customDesc": "Students can attempt to fulfill the requirement after 90 earned units; students should complete the requirement before senior year. Refer to current catalog for prerequisites."
-        }
-      ]
-    },
-    {
-      "tIndex": 13,
       "tUnits": "16",
       "courses": [
         {
-          "id": "ANT455",
-          "color": "#FEFD9A"
-        },
-        {
           "id": null,
-          "color": "#FEFD9A",
-          "customId": "ANT Elective",
-          "customDisplayName": "300-400 Level",
-          "customUnits": "4",
-          "customDesc": "Any ANT Elective (300-400 level) course can go here."
-        },
-        {
-          "id": "ANT401",
-          "color": "#F9A3D2"
-        },
-        {
-          "id": null,
-          "color": "#F9A3D2",
-          "customId": "List 1 Problems & Issues",
-          "customUnits": "4",
-          "customDesc": "Any List 1 Problems & Issues course can go here.\r\n\r\n<b>List 1 Problems & Issues Courses, select three of the following (12 units) not used in major:</b> ANT330, ANT344, ANT345, ANT402; GEOG/ERSC325; GEOG328, GEOG333, GEOG370, GEOG380, GEOG441."
-        }
-      ]
-    },
-    {
-      "tIndex": 14,
-      "tUnits": "14",
-      "courses": [
-        {
-          "id": null,
-          "color": "#FEFD9A",
-          "customId": "Senior Project I",
-          "customDisplayName": "ANT461 or GEOG461",
-          "customUnits": "2",
-          "customDesc": "Choose one of the following: ANT461, or GEOG461."
-        },
-        {
-          "id": null,
-          "color": "#FEFD9A",
-          "customId": "GEOG Elective",
-          "customDisplayName": "300-400 Level",
-          "customUnits": "4",
-          "customDesc": "Any GEOG Elective (300-400 level) course can go here."
-        },
-        {
-          "id": "GEOG408",
-          "color": "#F9A3D2"
-        },
-        {
-          "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
-          "customUnits": "4",
-          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
-        }
-      ]
-    },
-    {
-      "tIndex": 15,
-      "tUnits": "13",
-      "courses": [
-        {
-          "id": null,
-          "color": "#FEFD9A",
+          "color": "#F8E08E",
           "customId": "Senior Project II",
-          "customDisplayName": "ANT462 or GEOG462",
           "customUnits": "2",
-          "customDesc": "Choose one of the following: ANT462, or GEOG462."
+          "customDesc": "Choose one of the following: ANT 4462 or GEOG 4462.",
+          "customDisplayName": "ANT 4462 or GEOG 4462"
         },
         {
           "id": null,
-          "color": "#FEFD9A",
-          "customId": "Internship",
-          "customDisplayName": "ANT465 or GEOG465",
+          "color": "#F8E08E",
+          "customId": "ANT Elective",
           "customUnits": "3",
-          "customDesc": "Choose one of the following: ANT465, or GEOG465.\r\n\r\nOr approved study abroad course."
+          "customDesc": "Any 3000-4000 ANT course not used for major or concentration."
         },
         {
           "id": null,
-          "color": "#FEFD9A",
-          "customId": "ANT/GEOG/SOC Elective",
-          "customDisplayName": "300-400 Level",
-          "customUnits": "4",
-          "customDesc": "Any ANT/GEOG/SOC Elective (300-400 level) course can go here."
+          "color": "#F8E08E",
+          "customId": "ANT, GEOG, or SOC Elective",
+          "customUnits": "3",
+          "customDesc": "Any 3000-4000 ANT, GEOG, or SOC course not used for major or concentration."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Problems and Issues Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Global Studies and International Development Problems and Issues course options."
         },
         {
           "id": null,
           "color": "#D4FFFE",
           "customId": "Free Elective",
-          "customUnits": "4",
-          "customDesc": "Any Free Elective course can go here.\r\n\r\nIf a General Education (GE) course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+          "customUnits": "2",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     }
@@ -387,6 +331,5 @@
   "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
   "publishedId": null,
   "importedId": null,
-  "lastUpdatedUTC": "2023-03-05T20:03:23.566Z"
+  "lastUpdatedUTC": "2026-06-28T20:03:23.566Z"
 }
-

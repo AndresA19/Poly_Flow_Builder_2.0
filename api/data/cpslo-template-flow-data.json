@@ -104,24 +104,12 @@
         "code": "26-28.48ANGBSU.EMPH-",
         "dataLink": "liberal-arts/social-sciences/anthropology-geography-bs/anthropology-geography-bs_planofstudytext.pdf"
         },
-
-
-
-
-
-
-
-
-
-
-
-
         {
         "id": "4115df2a-1609-40f4-b289-ddb48cfe2aba",
         "catalog": "2026-2028",
         "majorName": "Architectural Engineering",
         "concName": "Not Applicable For This Major",
-        "code": "26-28.architectural-engineering-bs",
+        "code": "26-28.20ARCEBSU",
         "dataLink": "architecture-environmental-design/architectural-engineering/architectural-engineering-bs/architectural-engineering-bs_planofstudytext.pdf"
         },
         {
@@ -129,9 +117,21 @@
         "catalog": "2026-2028",
         "majorName": "Architecture",
         "concName": "Not Applicable For This Major",
-        "code": "26-28.architecture-barch",
+        "code": "26-28.20ARCHBARU",
         "dataLink": "architecture-environmental-design/architecture/architecture-barch/architecture-barch_planofstudytext.pdf"
         },
+
+
+
+
+
+
+
+
+
+
+        
+        
         {
         "id": "691ba2db-43e8-46e2-9e8a-c08ed863e139",
         "catalog": "2026-2028",

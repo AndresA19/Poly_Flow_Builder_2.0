@@ -1,0 +1,312 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.20ARCEBSU",
+  "programId": ["4115df2a-1609-40f4-b289-ddb48cfe2aba"],
+  "startYear": "2026",
+  "unitTotal": "128-131",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ARCE 1110",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 1141",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1261",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "ARCH 1101",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "ARCH 1131",
+          "color": "#CAC7A7"
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "ARCE 1121",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 1143",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1262",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ARCE 2211",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 2212",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATH 2341",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "CSC 1031",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 5B",
+          "customDisplayName": "Life Science",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ARCE 2221",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 2223",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "ARCH 2221 or ARCH 2228",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: ARCH 2221 or ARCH 2228.",
+          "customDisplayName": "History of World Architecture or Structures"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4A",
+          "customDisplayName": "American Institutions",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4B",
+          "customDisplayName": "Social and Behavioral Sciences",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 6",
+          "customDisplayName": "Ethnic Studies",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "ARCE 3311",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 3312",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 3331",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 3353",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3B",
+          "customDisplayName": "Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ARCE 4411",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 4412",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 3332",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 3341",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "FE Technical Elective",
+          "customUnits": "3",
+          "customDesc": "Choose a technical elective from approved FE/GEOL courses."
+        },
+        {
+          "id": "CM 1115",
+          "color": "#CAC7A7"
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "16-18",
+      "courses": [
+        {
+          "id": "ARCE 4413",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 4461",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 4442",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CAED Interdisciplinary Elective",
+          "customUnits": "2-3",
+          "customDesc": "Choose ARCE 4484, ARCE 4486, or any 3 unit 3000, 4000, or 5000 ARCH, CM, CRP, or LA course."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "FE Technical Elective",
+          "customUnits": "2-3",
+          "customDesc": "Choose a technical elective from approved FE/GEOL courses."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 3",
+          "customDisplayName": "Upper-Division Arts and Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "15-16",
+      "courses": [
+        {
+          "id": "ARCE 4421",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ARCE 4462",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ARCE Technical Elective",
+          "customUnits": "3",
+          "customDesc": "Choose any 3 unit 3000, 4000, or 5000 ARCE course."
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "FE/PE Surveying Elective",
+          "customUnits": "2-3",
+          "customDesc": "Choose one of the following: BRAE 1239, BRAE 2237, or CM 2239."
+        },
+        {
+          "id": "STAT 3210",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 4",
+          "customDisplayName": "Upper-Division Social and Behavioral Sciences",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-06-28T20:03:23.570Z"
+}
