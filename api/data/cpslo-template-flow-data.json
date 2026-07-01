@@ -120,31 +120,19 @@
         "code": "26-28.20ARCHBARU",
         "dataLink": "architecture-environmental-design/architecture/architecture-barch/architecture-barch_planofstudytext.pdf"
         },
-
-
-
-
-
-
-
-
-
-
-        
-        
         {
         "id": "691ba2db-43e8-46e2-9e8a-c08ed863e139",
         "catalog": "2026-2028",
         "majorName": "Art and Design",
         "concName": "Graphic Design",
-        "code": "26-28.art-design-bfa",
+        "code": "26-28.48ARTBFAU.GRDARTU",
         "dataLink": "liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
         },
         {
         "id": "44e74a3e-396d-4e32-8c41-290e30248390",
         "catalog": "2026-2028",
         "majorName": "Art and Design",
-        "concName": "Photo and Video",
+        "concName": "26-28.48ARTBFAU.PHOVARTU",
         "code": "26-28.art-design-bfa",
         "dataLink": "liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
         },
@@ -153,7 +141,7 @@
         "catalog": "2026-2028",
         "majorName": "Art and Design",
         "concName": "Studio Art",
-        "code": "26-28.art-design-bfa",
+        "code": "26-28.48ARTBFAU.SAARTU",
         "dataLink": "liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
         },
         {
@@ -161,7 +149,7 @@
         "catalog": "2026-2028",
         "majorName": "Art and Design",
         "concName": "Concentration Not Yet Declared",
-        "code": "26-28.art-design-bfa",
+        "code": "26-28.48ARTBFAU.EMPH-",
         "dataLink": "liberal-arts/art-design/art-design-bfa/art-design-bfa_planofstudytext.pdf"
         },
         {

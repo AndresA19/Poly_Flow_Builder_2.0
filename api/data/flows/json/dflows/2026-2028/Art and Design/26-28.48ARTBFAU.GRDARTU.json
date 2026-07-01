@@ -1,0 +1,325 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.48ARTBFAU.GRDARTU",
+  "programId": ["691ba2db-43e8-46e2-9e8a-c08ed863e139"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ART 1101",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ART 1102",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ART 2212",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ART 1103",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ART 2215",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ART 1141",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ART 1104",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ART 2241",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "ART 2242",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ART 1111, 1112, or 2212",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: ART 1111, ART 1112, or ART 2212.",
+          "customDisplayName": "Visual Culture and Society"
+        },
+        {
+          "id": "ART 2243",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "ART 2241 or ART 2243",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: ART 2241 or ART 2243.",
+          "customDisplayName": "Portfolio: Graphic Design"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE + Lab",
+          "customUnits": "4",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ART 2260",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ART 1184 or ART 2282",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: ART 1184 or ART 2282.",
+          "customDisplayName": "Beginning Sculpture or Beginning Painting"
+        },
+        {
+          "id": "ART 3343",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "ART 3342",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Design Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for course options and prerequisites."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 3",
+          "customDisplayName": "Upper-Division Arts and Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#DA9593",
+          "customId": "GWR",
+          "customUnits": "0",
+          "customDesc": "Graduation Writing Requirement\r\n\r\nStudents can attempt to fulfill the requirement after 60 earned units; students should complete the requirement before senior year. Can complete with a GWR-approved course or by enrolling in UNIV 4401 GWR Portfolio."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ART 3341",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "ART 3313",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Design Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for course options and prerequisites."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "UD Art Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for course options and prerequisites."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "15-16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "UD Art Elective",
+          "customUnits": "3-4",
+          "customDesc": "See catalog for course options and prerequisites."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "ART 4444 or ART 4441",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: ART 4444 or ART 4441.",
+          "customDisplayName": "Motion Design or Design Collaboration Studio"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Design Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for course options and prerequisites."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 3",
+          "customDisplayName": "Upper-Division Arts and Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "13-15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "UD Art Elective or Art History Elective",
+          "customUnits": "3-4",
+          "customDesc": "See catalog for course options and prerequisites."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "UD Art History Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for course options and prerequisites."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "ART 4444 or ART 4441",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: ART 4444 or ART 4441.",
+          "customDisplayName": "Motion Design or Design Collaboration Studio"
+        },
+        {
+          "id": "ART 4459",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "UD Art Elective",
+          "customUnits": "2",
+          "customDesc": "Two units if needed. Check DPR."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-06-28T20:03:23.572Z"
+}
