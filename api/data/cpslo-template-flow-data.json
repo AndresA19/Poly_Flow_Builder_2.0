@@ -180,16 +180,8 @@
             "id": "eb5ea497-970f-499b-90e0-ccf3334f3944",
             "catalog": "2026-2028",
             "majorName": "Biological Sciences",
-            "concName": "Biodiversity and Ecology",
+            "concName": "Ecology, Evolution, Biodiversity, and Conservation",
             "code": "26-28.76BIOBSU.EEBCBIOU",
-            "dataLink": "science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "a37377da-1e85-4892-a8e4-66576ffefdf7",
-            "catalog": "2026-2028",
-            "majorName": "Biological Sciences",
-            "concName": "Cellular and Molecular Biology",
-            "code": "26-28.76BIOBSU.MCBBIOU",
             "dataLink": "science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
         },
         {
@@ -201,11 +193,11 @@
             "dataLink": "science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
         },
         {
-            "id": "13fea8e2-7c33-402c-beb6-f75018a7dee0",
+            "id": "a37377da-1e85-4892-a8e4-66576ffefdf7",
             "catalog": "2026-2028",
             "majorName": "Biological Sciences",
-            "concName": "Concentration Not Yet Declared",
-            "code": "26-28.76BIOBSU.EMPH-",
+            "concName": "Molecular and Cellular Biology",
+            "code": "26-28.76BIOBSU.MCBBIOU",
             "dataLink": "science-mathematics/biological-sciences/biological-sciences-bs/biological-sciences-bs_planofstudytext.pdf"
         },
         {
@@ -221,7 +213,7 @@
             "catalog": "2026-2028",
             "majorName": "Biomedical Engineering",
             "concName": "Cell Therapy",
-            "code": "26-28.52BMEDBSU",
+            "code": "26-28.52BMEDBSU.CTHSBMEDU",
             "dataLink": "engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_planofstudytext.pdf"
         },
         {
@@ -237,7 +229,7 @@
             "catalog": "2026-2028",
             "majorName": "Biomedical Engineering",
             "concName": "Individualized Course of Study",
-            "code": "26-28.52BMEDBSU",
+            "code": "26-28.52BMEDBSU.ICSBMEDU",
             "dataLink": "engineering/biomedical-engineering/biomedical-engineering-bs/biomedical-engineering-bs_planofstudytext.pdf"
         },
         {

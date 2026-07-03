@@ -1,0 +1,313 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.76BIOBSU",
+  "programId": ["29882bcb-879a-4713-85ad-d51932a8f5ee"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "BIO 1150 or BIO 1151",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: BIO 1150 or BIO 1151.",
+          "customDisplayName": "Introductory Biology"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "STAT 1110",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "BIO 1150 or BIO 1151",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: BIO 1150 or BIO 1151.",
+          "customDisplayName": "Introductory Biology"
+        },
+        {
+          "id": "CHEM 1122",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1264",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "BIO 2253 or BIO 3351 or BIO 3352",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: BIO 2253, BIO 3351, or BIO 3352."
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CHEM 2240 or CHEM 2242",
+          "customUnits": "5",
+          "customDesc": "Choose one of the following: CHEM 2240 or CHEM 2242.",
+          "customDisplayName": "Organic Chemistry"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "PHYS 1121 or Tech Elective",
+          "customUnits": "3-4",
+          "customDesc": "Choose PHYS 1121 or an approved technical elective."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "BIO 2253 or BIO 3351 or BIO 3352",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: BIO 2253, BIO 3351, or BIO 3352."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "BIO 2253 or BIO 3351 or BIO 3352",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: BIO 2253, BIO 3351, or BIO 3352."
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "PHYS 1121 or Tech Elective",
+          "customUnits": "3-4",
+          "customDesc": "Choose PHYS 1121 or an approved technical elective."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Bioscience Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for bioscience elective options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Approved Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "2",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Bioscience Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for bioscience elective options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "4000-level Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved 4000-level elective options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "2",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "BIO 461/462/463",
+          "customUnits": "2",
+          "customDesc": "Choose senior project sequence: BIO 461, BIO 462, or BIO 463.",
+          "customDisplayName": "Senior Project"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "4000-level Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved 4000-level elective options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Approved Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "2",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "4000-level Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved 4000-level elective options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-06-28T20:03:23.580Z"
+}
