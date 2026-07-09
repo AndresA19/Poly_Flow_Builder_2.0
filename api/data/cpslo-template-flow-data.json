@@ -364,56 +364,8 @@
             "id": "1d11c14f-9ca0-412d-816f-c7f9b8746f20",
             "catalog": "2026-2028",
             "majorName": "Civil Engineering",
-            "concName": "Environmental Engineering",
+            "concName": "Not Applicable For This Major",
             "code": "26-28.52CEBSU",
-            "dataLink": "engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "4286d984-b51a-4ef3-98c5-965b60469558",
-            "catalog": "2026-2028",
-            "majorName": "Civil Engineering",
-            "concName": "General Civil Engineering",
-            "code": "26-28.52CEBSU",
-            "dataLink": "engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "db2bbeb0-20bb-4478-99ff-61f84a2785b9",
-            "catalog": "2026-2028",
-            "majorName": "Civil Engineering",
-            "concName": "Geotechnical Engineering",
-            "code": "26-28.52CEBSU",
-            "dataLink": "engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "d9ae47a5-9fae-4915-8505-07f63d6871ca",
-            "catalog": "2026-2028",
-            "majorName": "Civil Engineering",
-            "concName": "Structural Engineering",
-            "code": "26-28.52CEBSU",
-            "dataLink": "engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "b00b03dd-b4e2-4575-a08d-a37eb1903ad3",
-            "catalog": "2026-2028",
-            "majorName": "Civil Engineering",
-            "concName": "Transportation Engineering",
-            "code": "26-28.52CEBSU",
-            "dataLink": "engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "4f59d34f-d0bb-470c-8eb6-7d3eb5b60fac",
-            "catalog": "2026-2028",
-            "majorName": "Civil Engineering",
-            "concName": "Water Resources Engineering",
-            "code": "26-28.52CEBSU",
-            "dataLink": "engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "1e405979-a3b2-4122-b9f3-8fecf8dd446b",
-            "catalog": "2026-2028",
-            "majorName": "Civil Engineering",
-            "concName": "Concentration Not Yet Declared",
-            "code": "26-28.52CEBSU.EMPH-",
             "dataLink": "engineering/civil-environmental-engineering/civil-engineering-bs/civil-engineering-bs_planofstudytext.pdf"
         },
         {

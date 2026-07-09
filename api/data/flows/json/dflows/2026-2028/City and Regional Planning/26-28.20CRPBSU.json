@@ -1,8 +1,8 @@
 {
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
-  "name": "26-28.40CDBSU",
-  "programId": ["edfc1d37-6471-452b-acbb-82ed79c2745f"],
+  "name": "26-28.34CRPBSU",
+  "programId": ["c1c8f1c8-a779-4596-80d8-17fa4941ddba"],
   "startYear": "2026",
   "unitTotal": "120",
   "notes": "",
@@ -17,16 +17,42 @@
       "tUnits": "14",
       "courses": [
         {
-          "id": "CD 1102",
+          "id": "CRP 1211",
           "color": "#F8E08E"
         },
         {
-          "id": "PSY 2201",
-          "color": "#CAC7A7"
+          "id": "CRP 1212",
+          "color": "#F8E08E"
         },
         {
-          "id": "STAT 1110",
-          "color": "#CAC7A7"
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "DATA 1000 or STAT 1110",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: DATA 1000 or STAT 1110.",
+          "customDisplayName": "Statistical and Data Literacy or Applied Statistical Concepts and Methods"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4A",
+          "customDisplayName": "American Institutions",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "CRP 1213",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CRP/ES 1215",
+          "color": "#F8E08E"
         },
         {
           "id": null,
@@ -47,25 +73,9 @@
       ]
     },
     {
-      "tIndex": 2,
-      "tUnits": "15",
+      "tIndex": 4,
+      "tUnits": "17",
       "courses": [
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "CD 1131 or CD 2202 or CD 2254",
-          "customUnits": "3",
-          "customDesc": "Choose one of the following: CD 1131, CD 2202, or CD 2254.",
-          "customDisplayName": "Observing and Interacting with Children or Developmental Science Technology Activity or Child, Family, and Community"
-        },
-        {
-          "id": "CD/PSY 2229",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "CD/PSY 2256",
-          "color": "#F8E08E"
-        },
         {
           "id": null,
           "color": "#789F90",
@@ -80,103 +90,6 @@
           "customId": "GE",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        }
-      ]
-    },
-    {
-      "tIndex": 4,
-      "tUnits": "14",
-      "courses": [
-        {
-          "id": "CD 2230",
-          "color": "#F8E08E"
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "CD 3304 or CD 3305 or CD/PSY 3306",
-          "customUnits": "4",
-          "customDesc": "Choose one of the following: CD 3304, CD 3305, or CD/PSY 3306.",
-          "customDisplayName": "Infant and Toddler Development or Early and Middle Childhood Development or Adolescence"
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 5A",
-          "customDisplayName": "Physical Science",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 5C",
-          "customDisplayName": "Laboratory",
-          "customUnits": "1",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        }
-      ]
-    },
-    {
-      "tIndex": 5,
-      "tUnits": "14",
-      "courses": [
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "CD 3304 or CD 3305 or CD/PSY 3306",
-          "customUnits": "4",
-          "customDesc": "Choose one of the following: CD 3304, CD 3305, or CD/PSY 3306.",
-          "customDisplayName": "Infant and Toddler Development or Early and Middle Childhood Development or Adolescence"
-        },
-        {
-          "id": "CD 3329",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "PSY 2240",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        }
-      ]
-    },
-    {
-      "tIndex": 7,
-      "tUnits": "16",
-      "courses": [
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Child Development Elective",
-          "customUnits": "4",
-          "customDesc": "See catalog for Child Development elective options."
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Professional Skills Course",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for Professional Skills course options."
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Diversity, Equity and Inclusion Course",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for Diversity, Equity and Inclusion course options."
         },
         {
           "id": null,
@@ -189,8 +102,82 @@
           "id": null,
           "color": "#D4FFFE",
           "customId": "Free Elective",
-          "customUnits": "3",
+          "customUnits": "4",
           "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "CRP 2214",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CRP 2216",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CRP 2457",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "1",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "CRP 3202",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CRP 3336",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
       ]
     },
@@ -199,28 +186,24 @@
       "tUnits": "14",
       "courses": [
         {
-          "id": "CD 4424",
+          "id": "CRP 3315",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CRP 3341",
           "color": "#F8E08E"
         },
         {
           "id": null,
-          "color": "#F8E08E",
-          "customId": "Child Development Elective",
-          "customUnits": "4",
-          "customDesc": "See catalog for Child Development elective options."
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Upper-Division Science Course",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for Upper-Division Science course options."
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE UD 3",
-          "customDisplayName": "Upper-Division Arts and Humanities",
+          "customId": "GE",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -228,84 +211,70 @@
     },
     {
       "tIndex": 10,
-      "tUnits": "18",
+      "tUnits": "14",
       "courses": [
         {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "CD 4448 or CD 4453",
-          "customUnits": "3",
-          "customDesc": "Choose one of the following: CD 4448 or CD 4453.",
-          "customDisplayName": "Research Internship I or Supervised Fieldwork Internship I"
+          "id": "CRP 4410",
+          "color": "#F8E08E"
         },
         {
-          "id": "CD 4461",
+          "id": "CRP 4420",
           "color": "#F8E08E"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Child Development Elective",
-          "customUnits": "4",
-          "customDesc": "See catalog for Child Development elective options."
+          "customId": "CAED Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved CAED elective options."
         },
         {
           "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
+          "color": "#789F90",
+          "customId": "GE",
           "customUnits": "3",
-          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
-        },
-        {
-          "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
-          "customUnits": "3",
-          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
-        },
-        {
-          "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
-          "customUnits": "3",
-          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
       ]
     },
     {
       "tIndex": 11,
-      "tUnits": "15",
+      "tUnits": "16",
       "courses": [
         {
-          "id": "CD 4462",
-          "color": "#F8E08E"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "CRP 4461 or CRP 4463",
+          "customUnits": "2",
+          "customDesc": "Choose one of the following: CRP 4461 or CRP 4463.",
+          "customDisplayName": "Senior Project or Senior Project - Studio"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Child Development Elective",
+          "customId": "CAED Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved CAED elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
           "customUnits": "4",
-          "customDesc": "See catalog for Child Development elective options."
-        },
-        {
-          "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
-          "customUnits": "3",
           "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         },
         {
           "id": null,
           "color": "#D4FFFE",
           "customId": "Free Elective",
-          "customUnits": "3",
-          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
-        },
-        {
-          "id": null,
-          "color": "#D4FFFE",
-          "customId": "Free Elective",
-          "customUnits": "3",
+          "customUnits": "4",
           "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]

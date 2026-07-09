@@ -1,8 +1,8 @@
 {
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
-  "name": "26-28.40CDBSU",
-  "programId": ["edfc1d37-6471-452b-acbb-82ed79c2745f"],
+  "name": "26-28.38COMSBAU",
+  "programId": ["b20f2959-c05f-45bf-a214-c6921d95f301"],
   "startYear": "2026",
   "unitTotal": "120",
   "notes": "",
@@ -17,16 +17,16 @@
       "tUnits": "14",
       "courses": [
         {
-          "id": "CD 1102",
+          "id": "COMS 1100",
           "color": "#F8E08E"
         },
         {
-          "id": "PSY 2201",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": "STAT 1110",
-          "color": "#CAC7A7"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "COMS 1101 or COMS 1102",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: COMS 1101 or COMS 1102.",
+          "customDisplayName": "Public Speaking or Public Speaking in Digital Spaces"
         },
         {
           "id": null,
@@ -39,8 +39,14 @@
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE 1C",
-          "customDisplayName": "Oral Communication",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -51,20 +57,16 @@
       "tUnits": "15",
       "courses": [
         {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "CD 1131 or CD 2202 or CD 2254",
-          "customUnits": "3",
-          "customDesc": "Choose one of the following: CD 1131, CD 2202, or CD 2254.",
-          "customDisplayName": "Observing and Interacting with Children or Developmental Science Technology Activity or Child, Family, and Community"
-        },
-        {
-          "id": "CD/PSY 2229",
+          "id": "COMS 2205",
           "color": "#F8E08E"
         },
         {
-          "id": "CD/PSY 2256",
+          "id": "COMS 2206",
           "color": "#F8E08E"
+        },
+        {
+          "id": "STAT 1110",
+          "color": "#CAC7A7"
         },
         {
           "id": null,
@@ -76,43 +78,38 @@
         },
         {
           "id": null,
-          "color": "#789F90",
-          "customId": "GE",
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
           "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     },
     {
       "tIndex": 4,
-      "tUnits": "14",
+      "tUnits": "16",
       "courses": [
         {
-          "id": "CD 2230",
-          "color": "#F8E08E"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "COMS 2211 or COMS 2213 or COMS 2215 or COMS 2217",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: COMS 2211, COMS 2213, COMS 2215, or COMS 2217.",
+          "customDisplayName": "Interpersonal Communication or Organizational Communication or Media Studies or Small Group Collaboration and Creativity"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "CD 3304 or CD 3305 or CD/PSY 3306",
-          "customUnits": "4",
-          "customDesc": "Choose one of the following: CD 3304, CD 3305, or CD/PSY 3306.",
-          "customDisplayName": "Infant and Toddler Development or Early and Middle Childhood Development or Adolescence"
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 5A",
-          "customDisplayName": "Physical Science",
+          "customId": "COMS 2250 or COMS 2208",
           "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+          "customDesc": "Choose one of the following: COMS 2250 or COMS 2208.",
+          "customDisplayName": "Building Advocacy Skills or Performance, Literature, and Culture"
         },
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE 5C",
-          "customDisplayName": "Laboratory",
-          "customUnits": "1",
+          "customId": "GE",
+          "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
         {
@@ -120,29 +117,42 @@
           "color": "#789F90",
           "customId": "GE",
           "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "1",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
       ]
     },
     {
       "tIndex": 5,
-      "tUnits": "14",
+      "tUnits": "15",
       "courses": [
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "CD 3304 or CD 3305 or CD/PSY 3306",
-          "customUnits": "4",
-          "customDesc": "Choose one of the following: CD 3304, CD 3305, or CD/PSY 3306.",
-          "customDisplayName": "Infant and Toddler Development or Early and Middle Childhood Development or Adolescence"
+          "customId": "COMS 2211 or COMS 2213 or COMS 2215 or COMS 2217",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: COMS 2211, COMS 2213, COMS 2215, or COMS 2217.",
+          "customDisplayName": "Interpersonal Communication or Organizational Communication or Media Studies or Small Group Collaboration and Creativity"
         },
         {
-          "id": "CD 3329",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "PSY 2240",
-          "color": "#CAC7A7"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Focus Area Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for Communication Studies focus area course options."
         },
         {
           "id": null,
@@ -150,33 +160,45 @@
           "customId": "GE",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     },
     {
       "tIndex": 7,
-      "tUnits": "16",
+      "tUnits": "15",
       "courses": [
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Child Development Elective",
-          "customUnits": "4",
-          "customDesc": "See catalog for Child Development elective options."
+          "customId": "COMS 3312 or COMS 3313",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: COMS 3312 or COMS 3313.",
+          "customDisplayName": "Quantitative Research Methods in Communication Studies or Qualitative Research Methods in Communication Studies"
+        },
+        {
+          "id": "COMS 3316",
+          "color": "#F8E08E"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Professional Skills Course",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for Professional Skills course options."
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Diversity, Equity and Inclusion Course",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for Diversity, Equity and Inclusion course options."
+          "customId": "Focus Area Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for Communication Studies focus area course options."
         },
         {
           "id": null,
@@ -196,58 +218,36 @@
     },
     {
       "tIndex": 8,
-      "tUnits": "14",
-      "courses": [
-        {
-          "id": "CD 4424",
-          "color": "#F8E08E"
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Child Development Elective",
-          "customUnits": "4",
-          "customDesc": "See catalog for Child Development elective options."
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Upper-Division Science Course",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for Upper-Division Science course options."
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE UD 3",
-          "customDisplayName": "Upper-Division Arts and Humanities",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        }
-      ]
-    },
-    {
-      "tIndex": 10,
-      "tUnits": "18",
+      "tUnits": "15",
       "courses": [
         {
           "id": null,
-          "color": "#F8E08E",
-          "customId": "CD 4448 or CD 4453",
+          "color": "#DA9593",
+          "customId": "COMS 3332 or COMS 3385",
           "customUnits": "3",
-          "customDesc": "Choose one of the following: CD 4448 or CD 4453.",
-          "customDisplayName": "Research Internship I or Supervised Fieldwork Internship I"
-        },
-        {
-          "id": "CD 4461",
-          "color": "#F8E08E"
+          "customDesc": "Choose one of the following: COMS 3332 or COMS 3385.",
+          "customDisplayName": "Rhetorical Criticism (GWR) or Media Criticism"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Child Development Elective",
-          "customUnits": "4",
-          "customDesc": "See catalog for Child Development elective options."
+          "customId": "Focus Area Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for Communication Studies focus area course options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Focus Area Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for Communication Studies focus area course options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "COMS Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for Communication Studies elective options."
         },
         {
           "id": null,
@@ -255,6 +255,37 @@
           "customId": "Free Elective",
           "customUnits": "3",
           "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "COMS 4460",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Focus Area Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for Communication Studies focus area course options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Focus Area Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for Communication Studies focus area course options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
         {
           "id": null,
@@ -274,18 +305,18 @@
     },
     {
       "tIndex": 11,
-      "tUnits": "15",
+      "tUnits": "14",
       "courses": [
         {
-          "id": "CD 4462",
+          "id": "COMS 4461",
           "color": "#F8E08E"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Child Development Elective",
-          "customUnits": "4",
-          "customDesc": "See catalog for Child Development elective options."
+          "customId": "COMS Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for Communication Studies elective options."
         },
         {
           "id": null,
