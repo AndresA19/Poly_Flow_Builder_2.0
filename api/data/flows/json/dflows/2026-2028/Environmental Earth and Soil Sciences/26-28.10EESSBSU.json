@@ -1,0 +1,313 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.10EESSBSU",
+  "programId": ["d5716896-5a03-4ab1-a011-b5d8dad8e6b5"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ERSC 1144",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "GEOL 2240",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "BOT 1121",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "SS 1120",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "GEOL 2241",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "MATH 1261 or MATH 1264",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: MATH 1261 or MATH 1264.",
+          "customDisplayName": "Calculus I or Calculus for Data Science I"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "SS 3321",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "PHYS 1121 or PHYS 1141",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: PHYS 1121 or PHYS 1141.",
+          "customDisplayName": "College Physics I or General Physics I"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "NR/LA 2218",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "STAT 1110",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course or Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course or approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "GEOL 3330 or SS 2221 or SS 3444",
+          "customUnits": "3-4",
+          "customDesc": "Choose one of the following: GEOL 3330, SS 2221, or SS 3444.",
+          "customDisplayName": "Principles of Stratigraphy or Soil Health and Plant Nutrition or Climate Smart Agriculture"
+        },
+        {
+          "id": "CHEM 2240",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course or Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course or approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course or Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course or approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "NR 3310",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "NR 3363",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "SS 4422 or ERSC 4450",
+          "customUnits": "3-4",
+          "customDesc": "Choose one of the following: SS 4422 or ERSC 4450.",
+          "customDisplayName": "Soil Ecology or Geomorphology"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course or Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course or approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": "SS 4423",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "BRAE 3345 or GEOG 4441 or NR 4418 or SS/NR 4431",
+          "customUnits": "2-4",
+          "customDesc": "Choose one of the following: BRAE 3345, GEOG 4441, NR 4418, or SS/NR 4431.",
+          "customDisplayName": "Photogrammetry and Remote Sensing with GIS Applications or Advanced Applications in Geospatial Technologies or Applied Geographic Information System or Spatial Data Analysis and Environmental Mapping"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course or Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course or approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "SS 4424 or ERSC 4442 or ERSC 4443",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: SS 4424, ERSC 4442, or ERSC 4443.",
+          "customDisplayName": "Environmental Soil Physics or Applied Groundwater Hydrology or Applied Environmental Contaminant Transport"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ERSC/NR 4478 or ERSC/NR 4479",
+          "customUnits": "2",
+          "customDesc": "Choose one of the following: ERSC/NR 4478 or ERSC/NR 4479.",
+          "customDisplayName": "Senior Project - Current Topics in Environmental Science or Senior Project - Independent Study"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Major ERSC/NR/SS Elective",
+          "customUnits": "3-4",
+          "customDesc": "See catalog for approved Major ERSC/NR/SS elective options."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course or Approved Elective",
+          "customUnits": "2-4",
+          "customDesc": "See catalog for approved concentration course or approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "0-3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-07-09T00:00:00.000Z"
+}

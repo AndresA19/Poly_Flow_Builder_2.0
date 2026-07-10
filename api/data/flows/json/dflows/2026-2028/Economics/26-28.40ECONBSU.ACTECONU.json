@@ -1,10 +1,10 @@
 {
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
-  "name": "26-28.52CPEBSU",
-  "programId": ["f4526df3-e819-472d-8766-68ee02245808"],
+  "name": "26-28.40ECONBSU.ACTECONU",
+  "programId": ["1445c0f1-f200-4a29-863b-3d2f4d0e1b16"],
   "startYear": "2026",
-  "unitTotal": "124-126",
+  "unitTotal": "120",
   "notes": "",
   "termData": [
     {
@@ -14,26 +14,26 @@
     },
     {
       "tIndex": 1,
-      "tUnits": "16-17",
+      "tUnits": "16",
       "courses": [
         {
-          "id": "CPE/CSC 1000",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "CPE/CSC 1024",
-          "color": "#F8E08E"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ECON 2001 or ECON 2030",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: ECON 2001 or ECON 2030.",
+          "customDisplayName": "Survey of Economics or Microeconomics"
         },
         {
           "id": null,
           "color": "#CAC7A7",
-          "customId": "BIO 1111 or BIO 2213 or BOT 1121 or MCRO 2221",
-          "customUnits": "3-4",
-          "customDesc": "Choose one of the following: BIO 1111, BIO 2213, BOT 1121, or MCRO 2221.",
-          "customDisplayName": "General Biology or Life Science for Engineers or General Botany or Introduction to Microbiology"
+          "customId": "BUS 2207 or BUS 2214",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: BUS 2207 or BUS 2214.",
+          "customDisplayName": "Legal Responsibilities of Business or Financial Accounting"
         },
         {
-          "id": "MATH 1261",
+          "id": "MATH 1264",
           "color": "#CAC7A7"
         },
         {
@@ -41,116 +41,6 @@
           "color": "#789F90",
           "customId": "GE 1A",
           "customDisplayName": "Written Communication",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 3A",
-          "customDisplayName": "Arts",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        }
-      ]
-    },
-    {
-      "tIndex": 2,
-      "tUnits": "15",
-      "courses": [
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "CSC 1001 and 1001L",
-          "customUnits": "4",
-          "customDesc": "Complete CSC 1001 and CSC 1001L.",
-          "customDisplayName": "Fundamentals of Computer Science and Fundamentals of Computer Science Laboratory"
-        },
-        {
-          "id": "MATH 1262",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": "PHYS 1141",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 1B",
-          "customDisplayName": "Critical Thinking",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        }
-      ]
-    },
-    {
-      "tIndex": 4,
-      "tUnits": "18",
-      "courses": [
-        {
-          "id": "CPE 2300",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "CPE 2301",
-          "color": "#F8E08E"
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "CSC 2001 and 2001L",
-          "customUnits": "4",
-          "customDesc": "Complete CSC 2001 and CSC 2001L.",
-          "customDisplayName": "Data Structures and Data Structures Laboratory"
-        },
-        {
-          "id": "MATH 2031",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": "PHYS 1143",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 1C",
-          "customDisplayName": "Oral Communication",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        }
-      ]
-    },
-    {
-      "tIndex": 5,
-      "tUnits": "16",
-      "courses": [
-        {
-          "id": "CPE/CSC 2050",
-          "color": "#F8E08E"
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "EE 2211 and EE 2241",
-          "customUnits": "4",
-          "customDesc": "Complete EE 2211 and EE 2241.",
-          "customDisplayName": "Electric Circuit Analysis I and Electric Circuit Analysis Laboratory I"
-        },
-        {
-          "id": null,
-          "color": "#CAC7A7",
-          "customId": "MATH 1151 or MATH 2341",
-          "customUnits": "3",
-          "customDesc": "Choose one of the following: MATH 1151 or MATH 2341.",
-          "customDisplayName": "Linear Algebra or Linear Analysis"
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 3B",
-          "customDisplayName": "Humanities",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
@@ -165,62 +55,126 @@
       ]
     },
     {
-      "tIndex": 7,
+      "tIndex": 2,
       "tUnits": "16",
       "courses": [
         {
-          "id": "CPE/CSC 3201",
-          "color": "#F8E08E"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ECON 2021 or ECON 2040",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: ECON 2021 or ECON 2040.",
+          "customDisplayName": "Using Big Data to Solve Economic and Social Problems or Macroeconomics"
         },
         {
-          "id": "CPE 3300",
-          "color": "#F8E08E"
+          "id": "MATH 1265",
+          "color": "#CAC7A7"
         },
         {
-          "id": "CPE/CSC 4553",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "PHIL 3323",
-          "color": "#F8E08E"
+          "id": "STAT 1510",
+          "color": "#CAC7A7"
         },
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE 4B",
-          "customDisplayName": "Social and Behavioral Sciences",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3A",
+          "customDisplayName": "Arts",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
       ]
     },
     {
-      "tIndex": 8,
-      "tUnits": "17",
+      "tIndex": 4,
+      "tUnits": "14",
       "courses": [
         {
-          "id": "CPE 3160",
+          "id": "ECON 3021",
           "color": "#F8E08E"
         },
         {
-          "id": "CPE 4300",
+          "id": "ECON 3030",
           "color": "#F8E08E"
         },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3B",
+          "customDisplayName": "Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ECON 3040",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ECON 3050",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "BUS 2215",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 5A",
+          "customDisplayName": "Physical Science",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 5C",
+          "customDisplayName": "Laboratory",
+          "customUnits": "1",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "16",
+      "courses": [
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "EE 3306 and 3306L",
+          "customId": "ECON 3015 and ECON 3015A",
           "customUnits": "4",
-          "customDesc": "Complete EE 3306 and EE 3306L.",
-          "customDisplayName": "Electronics I and Electronics Laboratory I"
+          "customDesc": "Complete ECON 3015 and ECON 3015A.",
+          "customDisplayName": "Programming for Economics and Analytics and Programming for Economics and Analytics Project"
         },
         {
-          "id": null,
-          "color": "#CAC7A7",
-          "customId": "STAT 3210 or STAT 3310",
-          "customUnits": "3",
-          "customDesc": "Choose one of the following: STAT 3210 or STAT 3310.",
-          "customDisplayName": "Engineering Statistics or Probability and Random Processes for Engineers"
+          "id": "BUS 3319",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "BUS 3320",
+          "color": "#A4D65E"
         },
         {
           "id": null,
@@ -229,55 +183,6 @@
           "customDisplayName": "Ethnic Studies",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
-        }
-      ]
-    },
-    {
-      "tIndex": 10,
-      "tUnits": "13",
-      "courses": [
-        {
-          "id": "CPE 4464",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "MATH 2263",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": "PHYS 2211",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Senior Project",
-          "customUnits": "3",
-          "customDesc": "See catalog for approved Computer Engineering senior project options."
-        }
-      ]
-    },
-    {
-      "tIndex": 11,
-      "tUnits": "13-14",
-      "courses": [
-        {
-          "id": "WGQS 3350",
-          "color": "#F8E08E"
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "Senior Project",
-          "customUnits": "3",
-          "customDesc": "See catalog for approved Computer Engineering senior project options."
-        },
-        {
-          "id": null,
-          "color": "#A4D65E",
-          "customId": "Concentration Elective",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for approved Computer Engineering concentration elective options."
         },
         {
           "id": null,
@@ -286,6 +191,106 @@
           "customDisplayName": "Upper-Division Social and Behavioral Sciences",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": "BUS 3321",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Economics and Project Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved Economics and Project elective options."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Accounting Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Accounting elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 5B",
+          "customDisplayName": "Life Science",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "BUS 3322",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Economics and Project Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved Economics and Project elective options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Economics and Project Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved Economics and Project elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 2/5",
+          "customDisplayName": "Upper-Division Mathematics and Quantitative Reasoning",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ECON 4460",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "BUS 3323",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Accounting Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Accounting elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 3",
+          "customDisplayName": "Upper-Division Arts and Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     }

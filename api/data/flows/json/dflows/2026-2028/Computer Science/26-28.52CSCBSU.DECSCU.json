@@ -1,0 +1,164 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.52CSCBSU.DECSCU",
+  "programId": ["d325c191-d98f-41e6-b5a1-c03e7b5efe32"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "CSC/CPE 1000",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CSC/CPE 1024",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "MATH 1261 or MATH 1264",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: MATH 1261 or MATH 1264.",
+          "customDisplayName": "Calculus I or Calculus for Data Science I"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "Life Science Support Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved Life Science support elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "CSC 1001 and 1001L",
+          "customUnits": "4",
+          "customDesc": "Complete CSC 1001 and CSC 1001L.",
+          "customDisplayName": "Fundamentals of Computer Science and Fundamentals of Computer Science Laboratory"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CHEM 1120 or PHYS 1141",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: CHEM 1120 or PHYS 1141.",
+          "customDisplayName": "Fundamentals of Chemical Structure and Properties or General Physics I"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "MATH 1262 or MATH 1265",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: MATH 1262 or MATH 1265.",
+          "customDisplayName": "Calculus II or Calculus for Data Science II"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "CSC 2001 and 2001L",
+          "customUnits": "4",
+          "customDesc": "Complete CSC 2001 and CSC 2001L.",
+          "customDisplayName": "Data Structures and Data Structures Laboratory"
+        },
+        {
+          "id": "MATH 1151",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3A",
+          "customDisplayName": "Arts",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "CPE 2300",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CSC/CPE 2050",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATH 2031",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3B",
+          "customDisplayName": "Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4A",
+          "customDisplayName": "American Institutions",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-07-09T00:00:00.000Z"
+}

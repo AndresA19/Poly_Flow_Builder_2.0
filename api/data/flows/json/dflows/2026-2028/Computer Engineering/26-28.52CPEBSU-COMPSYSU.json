@@ -1,10 +1,10 @@
 {
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
-  "name": "26-28.52CPEBSU",
-  "programId": ["f4526df3-e819-472d-8766-68ee02245808"],
+  "name": "26-28.52CPEBSU-COMPSYSU",
+  "programId": ["3a2874fa-855d-4d21-9a38-8ead1a9c04eb"],
   "startYear": "2026",
-  "unitTotal": "124-126",
+  "unitTotal": "126-128",
   "notes": "",
   "termData": [
     {
@@ -196,23 +196,23 @@
     },
     {
       "tIndex": 8,
-      "tUnits": "17",
+      "tUnits": "16",
       "courses": [
         {
           "id": "CPE 3160",
           "color": "#F8E08E"
         },
         {
-          "id": "CPE 4300",
+          "id": "CPE 4464",
           "color": "#F8E08E"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "EE 3306 and 3306L",
+          "customId": "EE 3306 and 3306L or EE 2328",
           "customUnits": "4",
-          "customDesc": "Complete EE 3306 and EE 3306L.",
-          "customDisplayName": "Electronics I and Electronics Laboratory I"
+          "customDesc": "Choose one of the following: EE 3306 and EE 3306L or EE 2328.",
+          "customDisplayName": "Electronics I and Electronics Laboratory I or Signals and Systems"
         },
         {
           "id": null,
@@ -234,19 +234,38 @@
     },
     {
       "tIndex": 10,
-      "tUnits": "13",
+      "tUnits": "16-17",
       "courses": [
         {
-          "id": "CPE 4464",
-          "color": "#F8E08E"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "CSC 4214 or CPE 4220 or CPE 4280",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: CSC 4214, CPE 4220, or CPE 4280.",
+          "customDisplayName": "Binary Exploitation: Tools and Techniques or Network Security or Introduction to Hardware Security"
         },
         {
-          "id": "MATH 2263",
-          "color": "#CAC7A7"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "CSC 4310 or CSC 4554 or CPE 4165",
+          "customUnits": "3-4",
+          "customDesc": "Choose one of the following: CSC 4310, CSC 4554, or CPE 4165.",
+          "customDisplayName": "Compiler Construction or Implementation of Operating Systems or Advanced Computer Networks"
         },
         {
-          "id": "PHYS 2211",
-          "color": "#CAC7A7"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "WGQS 3350 or WGQS 3351",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: WGQS 3350 or WGQS 3351.",
+          "customDisplayName": "Gender, Race, Culture, Science, and Technology or Critical Computing and Engineering Studies"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Math/Science Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Math/Science elective options."
         },
         {
           "id": null,
@@ -259,10 +278,14 @@
     },
     {
       "tIndex": 11,
-      "tUnits": "13-14",
+      "tUnits": "13",
       "courses": [
         {
-          "id": "WGQS 3350",
+          "id": "CPE 4650",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CPE 4669",
           "color": "#F8E08E"
         },
         {
@@ -271,13 +294,6 @@
           "customId": "Senior Project",
           "customUnits": "3",
           "customDesc": "See catalog for approved Computer Engineering senior project options."
-        },
-        {
-          "id": null,
-          "color": "#A4D65E",
-          "customId": "Concentration Elective",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for approved Computer Engineering concentration elective options."
         },
         {
           "id": null,

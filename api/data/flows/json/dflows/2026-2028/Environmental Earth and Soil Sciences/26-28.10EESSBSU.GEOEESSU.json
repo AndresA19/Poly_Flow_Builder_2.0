@@ -1,10 +1,10 @@
 {
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
-  "name": "26-28.52CPEBSU",
-  "programId": ["f4526df3-e819-472d-8766-68ee02245808"],
+  "name": "26-28.10EESSBSU.GEOEESSU",
+  "programId": ["99c995fc-33c1-443d-bc6d-8b499224fa8c"],
   "startYear": "2026",
-  "unitTotal": "124-126",
+  "unitTotal": "120",
   "notes": "",
   "termData": [
     {
@@ -14,26 +14,18 @@
     },
     {
       "tIndex": 1,
-      "tUnits": "16-17",
+      "tUnits": "16",
       "courses": [
         {
-          "id": "CPE/CSC 1000",
+          "id": "ERSC 1144",
           "color": "#F8E08E"
         },
         {
-          "id": "CPE/CSC 1024",
+          "id": "GEOL 2240",
           "color": "#F8E08E"
         },
         {
-          "id": null,
-          "color": "#CAC7A7",
-          "customId": "BIO 1111 or BIO 2213 or BOT 1121 or MCRO 2221",
-          "customUnits": "3-4",
-          "customDesc": "Choose one of the following: BIO 1111, BIO 2213, BOT 1121, or MCRO 2221.",
-          "customDisplayName": "General Biology or Life Science for Engineers or General Botany or Introduction to Microbiology"
-        },
-        {
-          "id": "MATH 1261",
+          "id": "BOT 1121",
           "color": "#CAC7A7"
         },
         {
@@ -47,8 +39,8 @@
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE 3A",
-          "customDisplayName": "Arts",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -59,19 +51,15 @@
       "tUnits": "15",
       "courses": [
         {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "CSC 1001 and 1001L",
-          "customUnits": "4",
-          "customDesc": "Complete CSC 1001 and CSC 1001L.",
-          "customDisplayName": "Fundamentals of Computer Science and Fundamentals of Computer Science Laboratory"
+          "id": "SS 1120",
+          "color": "#F8E08E"
         },
         {
-          "id": "MATH 1262",
-          "color": "#CAC7A7"
+          "id": "GEOL 2241",
+          "color": "#F8E08E"
         },
         {
-          "id": "PHYS 1141",
+          "id": "MATH 1261",
           "color": "#CAC7A7"
         },
         {
@@ -81,84 +69,72 @@
           "customDisplayName": "Critical Thinking",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
       ]
     },
     {
       "tIndex": 4,
-      "tUnits": "18",
+      "tUnits": "16",
       "courses": [
         {
-          "id": "CPE 2300",
+          "id": "SS 3321",
           "color": "#F8E08E"
         },
         {
-          "id": "CPE 2301",
-          "color": "#F8E08E"
+          "id": "GEOL 3310",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
         },
         {
           "id": null,
-          "color": "#F8E08E",
-          "customId": "CSC 2001 and 2001L",
+          "color": "#CAC7A7",
+          "customId": "PHYS 1121 or PHYS 1141",
           "customUnits": "4",
-          "customDesc": "Complete CSC 2001 and CSC 2001L.",
-          "customDisplayName": "Data Structures and Data Structures Laboratory"
-        },
-        {
-          "id": "MATH 2031",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": "PHYS 1143",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 1C",
-          "customDisplayName": "Oral Communication",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+          "customDesc": "Choose one of the following: PHYS 1121 or PHYS 1141.",
+          "customDisplayName": "College Physics I or General Physics I"
         }
       ]
     },
     {
       "tIndex": 5,
-      "tUnits": "16",
+      "tUnits": "15",
       "courses": [
         {
-          "id": "CPE/CSC 2050",
+          "id": "GEOL 3330",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "NR/LA 2218",
           "color": "#F8E08E"
         },
         {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "EE 2211 and EE 2241",
-          "customUnits": "4",
-          "customDesc": "Complete EE 2211 and EE 2241.",
-          "customDisplayName": "Electric Circuit Analysis I and Electric Circuit Analysis Laboratory I"
-        },
-        {
-          "id": null,
-          "color": "#CAC7A7",
-          "customId": "MATH 1151 or MATH 2341",
-          "customUnits": "3",
-          "customDesc": "Choose one of the following: MATH 1151 or MATH 2341.",
-          "customDisplayName": "Linear Algebra or Linear Analysis"
+          "id": "STAT 1110",
+          "color": "#CAC7A7"
         },
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE 3B",
-          "customDisplayName": "Humanities",
+          "customId": "GE",
+          "customDisplayName": null,
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE 4A",
-          "customDisplayName": "American Institutions",
+          "customId": "GE",
+          "customDisplayName": null,
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -169,26 +145,26 @@
       "tUnits": "16",
       "courses": [
         {
-          "id": "CPE/CSC 3201",
+          "id": "ERSC 4450",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "GEOL 4420",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "NR 3318",
           "color": "#F8E08E"
         },
         {
-          "id": "CPE 3300",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "CPE/CSC 4553",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "PHIL 3323",
-          "color": "#F8E08E"
+          "id": "CHEM 2240",
+          "color": "#CAC7A7"
         },
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE 4B",
-          "customDisplayName": "Social and Behavioral Sciences",
+          "customId": "GE",
+          "customDisplayName": null,
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -196,37 +172,37 @@
     },
     {
       "tIndex": 8,
-      "tUnits": "17",
+      "tUnits": "14",
       "courses": [
         {
-          "id": "CPE 3160",
+          "id": "NR 3310",
           "color": "#F8E08E"
         },
         {
-          "id": "CPE 4300",
+          "id": "NR 3363",
           "color": "#F8E08E"
-        },
-        {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "EE 3306 and 3306L",
-          "customUnits": "4",
-          "customDesc": "Complete EE 3306 and EE 3306L.",
-          "customDisplayName": "Electronics I and Electronics Laboratory I"
-        },
-        {
-          "id": null,
-          "color": "#CAC7A7",
-          "customId": "STAT 3210 or STAT 3310",
-          "customUnits": "3",
-          "customDesc": "Choose one of the following: STAT 3210 or STAT 3310.",
-          "customDisplayName": "Engineering Statistics or Probability and Random Processes for Engineers"
         },
         {
           "id": null,
           "color": "#789F90",
-          "customId": "GE 6",
-          "customDisplayName": "Ethnic Studies",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -234,58 +210,71 @@
     },
     {
       "tIndex": 10,
-      "tUnits": "13",
+      "tUnits": "14",
       "courses": [
         {
-          "id": "CPE 4464",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "MATH 2263",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": "PHYS 2211",
-          "color": "#CAC7A7"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "BRAE 3345 or GEOG 4441 or NR 4418 or SS/NR 4431",
+          "customUnits": "2-4",
+          "customDesc": "Choose one of the following: BRAE 3345, GEOG 4441, NR 4418, or SS/NR 4431.",
+          "customDisplayName": "Photogrammetry and Remote Sensing with GIS Applications or Advanced Applications in Geospatial Technologies or Applied Geographic Information System or Spatial Data Analysis and Environmental Mapping"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Senior Project",
-          "customUnits": "3",
-          "customDesc": "See catalog for approved Computer Engineering senior project options."
+          "customId": "ERSC 4442 or ERSC 4443 or SS 4424",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: ERSC 4442, ERSC 4443, or SS 4424.",
+          "customDisplayName": "Applied Groundwater Hydrology or Applied Environmental Contaminant Transport or Environmental Soil Physics"
+        },
+        {
+          "id": "GEOL 4415",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "SS 4423",
+          "color": "#F8E08E"
         }
       ]
     },
     {
       "tIndex": 11,
-      "tUnits": "13-14",
+      "tUnits": "14",
       "courses": [
         {
-          "id": "WGQS 3350",
-          "color": "#F8E08E"
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ERSC/NR 4478 or ERSC/NR 4479",
+          "customUnits": "2",
+          "customDesc": "Choose one of the following: ERSC/NR 4478 or ERSC/NR 4479.",
+          "customDisplayName": "Senior Project - Current Topics in Environmental Science or Senior Project - Independent Study"
+        },
+        {
+          "id": "GEOL 4417",
+          "color": "#A4D65E"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Senior Project",
-          "customUnits": "3",
-          "customDesc": "See catalog for approved Computer Engineering senior project options."
+          "customId": "SS 4424 or ERSC 4442 or ERSC 4443",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: SS 4424, ERSC 4442, or ERSC 4443.",
+          "customDisplayName": "Environmental Soil Physics or Applied Groundwater Hydrology or Applied Environmental Contaminant Transport"
         },
         {
           "id": null,
-          "color": "#A4D65E",
-          "customId": "Concentration Elective",
+          "color": "#F8E08E",
+          "customId": "Major ERSC/NR/SS Elective",
           "customUnits": "3-4",
-          "customDesc": "See catalog for approved Computer Engineering concentration elective options."
+          "customDesc": "See catalog for approved Major ERSC/NR/SS elective options."
         },
         {
           "id": null,
-          "color": "#789F90",
-          "customId": "GE UD 4",
-          "customDisplayName": "Upper-Division Social and Behavioral Sciences",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "0-1",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
         }
       ]
     }

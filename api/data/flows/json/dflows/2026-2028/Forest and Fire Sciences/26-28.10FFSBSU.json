@@ -1,0 +1,297 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.10FFSBSU",
+  "programId": ["d1c2a847-2c9b-4f49-a0b6-5a4c0c2dcbf4"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "NR 1141",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "BIO 1114 or BOT 1121",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: BIO 1114 or BOT 1121.",
+          "customDisplayName": "Plant Diversity and Ecology or General Botany"
+        },
+        {
+          "id": "ECON 2001",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "SS 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "STAT 1110",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "NR 2208",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "BRAE 2237",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1264",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "NR/LA 2218",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "NR 3305",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "NR 3308",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course options."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course options."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course options."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "NR 3315",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR 3319 and NR 3320",
+          "customUnits": "4",
+          "customDesc": "Complete NR 3319 and NR 3320."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": "NR 4365",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "NR 4414",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "NR 4417",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course options."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "NR 4402",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Senior Project",
+          "customUnits": "3-4",
+          "customDesc": "Choose an approved Forest and Fire Sciences senior project option."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course options."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Course",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration course options."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "1",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-07-09T00:00:00.000Z"
+}

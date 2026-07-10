@@ -1,10 +1,10 @@
 {
   "id": "11111111-1111-1111-1111-111111111111",
   "ownerId": "11111111-1111-1111-1111-111111111111",
-  "name": "26-28.52CPEBSU",
-  "programId": ["f4526df3-e819-472d-8766-68ee02245808"],
+  "name": "26-28.52CPEBSU-ROBOTCPEU",
+  "programId": ["8295e295-c2fb-4738-8376-83d9ce86467c"],
   "startYear": "2026",
-  "unitTotal": "124-126",
+  "unitTotal": "127-128",
   "notes": "",
   "termData": [
     {
@@ -139,12 +139,8 @@
           "customDisplayName": "Electric Circuit Analysis I and Electric Circuit Analysis Laboratory I"
         },
         {
-          "id": null,
-          "color": "#CAC7A7",
-          "customId": "MATH 1151 or MATH 2341",
-          "customUnits": "3",
-          "customDesc": "Choose one of the following: MATH 1151 or MATH 2341.",
-          "customDisplayName": "Linear Algebra or Linear Analysis"
+          "id": "MATH 2341",
+          "color": "#CAC7A7"
         },
         {
           "id": null,
@@ -166,7 +162,7 @@
     },
     {
       "tIndex": 7,
-      "tUnits": "16",
+      "tUnits": "17",
       "courses": [
         {
           "id": "CPE/CSC 3201",
@@ -181,38 +177,30 @@
           "color": "#F8E08E"
         },
         {
-          "id": "PHIL 3323",
-          "color": "#F8E08E"
+          "id": "ENGR 2211",
+          "color": "#CAC7A7"
         },
         {
-          "id": null,
-          "color": "#789F90",
-          "customId": "GE 4B",
-          "customDisplayName": "Social and Behavioral Sciences",
-          "customUnits": "3",
-          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+          "id": "PHIL 3323",
+          "color": "#F8E08E"
         }
       ]
     },
     {
       "tIndex": 8,
-      "tUnits": "17",
+      "tUnits": "16",
       "courses": [
         {
           "id": "CPE 3160",
           "color": "#F8E08E"
         },
         {
-          "id": "CPE 4300",
+          "id": "CPE 4464",
           "color": "#F8E08E"
         },
         {
-          "id": null,
-          "color": "#F8E08E",
-          "customId": "EE 3306 and 3306L",
-          "customUnits": "4",
-          "customDesc": "Complete EE 3306 and EE 3306L.",
-          "customDisplayName": "Electronics I and Electronics Laboratory I"
+          "id": "EE 2328",
+          "color": "#F8E08E"
         },
         {
           "id": null,
@@ -234,50 +222,68 @@
     },
     {
       "tIndex": 10,
-      "tUnits": "13",
+      "tUnits": "16",
       "courses": [
         {
-          "id": "CPE 4464",
-          "color": "#F8E08E"
-        },
-        {
-          "id": "MATH 2263",
-          "color": "#CAC7A7"
-        },
-        {
-          "id": "PHYS 2211",
+          "id": "ME 2212",
           "color": "#CAC7A7"
         },
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "Senior Project",
+          "customId": "WGQS 3350 or WGQS 3351",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: WGQS 3350 or WGQS 3351.",
+          "customDisplayName": "Gender, Race, Culture, Science, and Technology or Critical Computing and Engineering Studies"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Robotic Elective",
           "customUnits": "3",
+          "customDesc": "See catalog for approved Robotic elective options."
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "Senior Project",
+          "customUnits": "2-3",
           "customDesc": "See catalog for approved Computer Engineering senior project options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4B",
+          "customDisplayName": "Social and Behavioral Sciences",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
       ]
     },
     {
       "tIndex": 11,
-      "tUnits": "13-14",
+      "tUnits": "12",
       "courses": [
         {
-          "id": "WGQS 3350",
-          "color": "#F8E08E"
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Robotic Elective",
+          "customUnits": "3-4",
+          "customDesc": "See catalog for approved Robotic elective options."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Robotic Elective",
+          "customUnits": "3-4",
+          "customDesc": "See catalog for approved Robotic elective options."
         },
         {
           "id": null,
           "color": "#F8E08E",
           "customId": "Senior Project",
-          "customUnits": "3",
+          "customUnits": "2-3",
           "customDesc": "See catalog for approved Computer Engineering senior project options."
-        },
-        {
-          "id": null,
-          "color": "#A4D65E",
-          "customId": "Concentration Elective",
-          "customUnits": "3-4",
-          "customDesc": "See catalog for approved Computer Engineering concentration elective options."
         },
         {
           "id": null,

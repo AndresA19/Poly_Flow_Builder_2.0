@@ -1,0 +1,334 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.10ENVMBSU.EDS",
+  "programId": ["f2d3ef69-baf7-46c8-a31d-0b1d20f58b48"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "NR 1142",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "BIO 1114 or BOT 1121",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: BIO 1114 or BOT 1121.",
+          "customDisplayName": "Plant Diversity and Ecology or General Botany"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "MATH 1264 or MATH 1267",
+          "customUnits": "3-4",
+          "customDesc": "Choose one of the following: MATH 1264 or MATH 1267.",
+          "customDisplayName": "Calculus for Data Science I or Business Calculus"
+        },
+        {
+          "id": "SS 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR 2208 or BIO 2215 or BIO 2217",
+          "customUnits": "3",
+          "customDesc": "Choose one of the following: NR 2208, BIO 2215, or BIO 2217.",
+          "customDisplayName": "Dendrology or Biodiversity of California or Wildlife Conservation Biology"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CHEM 1120 or CHEM 1122",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: CHEM 1120 or CHEM 1122.",
+          "customDisplayName": "Fundamentals of Chemical Structure and Properties or Fundamentals of Chemical Reactivity"
+        },
+        {
+          "id": "STAT 1110",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "NR/LA 2218",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "BIO 1111 and BIO 1112 or BIO 1150 or BIO 1151",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: BIO 1111 and BIO 1112, BIO 1150, or BIO 1151.",
+          "customDisplayName": "General Biology or Life: History and Diversity or Life: Molecules and Cells"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3-4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR 3308 or NR 3323 or NR 3324 or NR 3328 or NR 3335",
+          "customUnits": "3-4",
+          "customDesc": "Choose one of the following: NR 3308, NR 3323, NR 3324, NR 3328, or NR 3335.",
+          "customDisplayName": "Fire and Society or Human Dimensions in Natural Resources Management or Social Dimensions of Sustainable Food Systems or Environmental Leadership and Community Engagement or Conflict Management in Natural Resources"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR 3310 or BOT 3311 or BRAE 3348 or ENVE 3324",
+          "customUnits": "3-4",
+          "customDesc": "Choose one of the following: NR 3310, BOT 3311, BRAE 3348, or ENVE 3324.",
+          "customDisplayName": "Global Climate Change or Plants, People and Civilization or Energy for a Sustainable Society or Introduction to Air Pollution"
+        },
+        {
+          "id": "NR 3363",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR 3304 or NR 3305 or NR 3306",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: NR 3304, NR 3305, or NR 3306.",
+          "customDisplayName": "Agroecology or Forest and Fire Ecology or Natural Resource Ecology and Habitat Management"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR 3319 and NR 3320 or NR 4402 or NR/SS 4421 or SS 3321 or ERSC 3303",
+          "customUnits": "3-4",
+          "customDesc": "Choose one of the following: NR 3319 and NR 3320, NR 4402, NR/SS 4421, SS 3321, or ERSC 3303.",
+          "customDisplayName": "Watershed Processes and Management or Forest Health and Disturbance Ecology or Wetlands or Soil Morphology or Soil Erosion and Water Conservation"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR/AGB 3326 or NR 4418 or NR/SS 4431 or NR 4442 or NR 4445",
+          "customUnits": "2-4",
+          "customDesc": "Choose one of the following: NR/AGB 3326, NR 4418, NR/SS 4431, NR 4442, or NR 4445.",
+          "customDisplayName": "Natural Resources Economics and Valuation or Applied Geographic Information System or Spatial Data Analysis and Environmental Mapping or Environmental Life-Cycle Analysis or Systems Thinking in Environmental Management"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR/CRP 4404 or NR/CRP 4408 or NR 4416 or AG 4452",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: NR/CRP 4404, NR/CRP 4408, NR 4416, or AG 4452.",
+          "customDisplayName": "Environmental Law or Water Resource Law and Policy or Environmental Impact Analysis and Management or Leadership Seminar on Issues Affecting California Agriculture"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3-4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "NR 4460 or NR 4462 or NR 4463 or NR 4464 or NR 4465",
+          "customUnits": "3-4",
+          "customDesc": "Choose one of the following: NR 4460, NR 4462, NR 4463, NR 4464, or NR 4465.",
+          "customDisplayName": "Senior Project - Watershed Assessment and Protection or Senior Project - Applied Resource Analysis and Assessment or Senior Project - Ecological Restoration or Senior Project - Environmental Policy Analysis or Senior Project - Ecosystem Management"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved elective options."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3-5",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-07-09T00:00:00.000Z"
+}
