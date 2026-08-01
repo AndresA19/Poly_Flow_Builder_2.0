@@ -17,11 +17,11 @@
       "tUnits": "16-17",
       "courses": [
         {
-          "id": "CPE/CSC 1000",
+          "id": "CPE 1000",
           "color": "#F8E08E"
         },
         {
-          "id": "CPE/CSC 1024",
+          "id": "CPE 1024",
           "color": "#F8E08E"
         },
         {
@@ -127,7 +127,7 @@
       "tUnits": "16",
       "courses": [
         {
-          "id": "CPE/CSC 2050",
+          "id": "CSC 2050",
           "color": "#F8E08E"
         },
         {
@@ -168,7 +168,7 @@
       "tUnits": "16",
       "courses": [
         {
-          "id": "CPE/CSC 3201",
+          "id": "CSC 3201",
           "color": "#F8E08E"
         },
         {
@@ -176,7 +176,7 @@
           "color": "#F8E08E"
         },
         {
-          "id": "CPE/CSC 4553",
+          "id": "CSC 4553",
           "color": "#F8E08E"
         },
         {
