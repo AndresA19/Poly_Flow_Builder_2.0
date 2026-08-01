@@ -121,7 +121,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": null,
+          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
@@ -129,7 +129,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": null,
+          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -155,7 +155,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": null,
+          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
@@ -178,7 +178,7 @@
           "customId": "NR 3308 or NR 3323 or NR 3324 or NR 3328 or NR 3335",
           "customUnits": "3-4",
           "customDesc": "Choose one of the following: NR 3308, NR 3323, NR 3324, NR 3328, or NR 3335.",
-          "customDisplayName": "Fire and Society or Human Dimensions in Natural Resources Management or Social Dimensions of Sustainable Food Systems or Environmental Leadership and Community Engagement or Conflict Management in Natural Resources"
+          "customDisplayName": ""
         },
         {
           "id": null,
@@ -186,7 +186,7 @@
           "customId": "NR 3310 or BOT 3311 or BRAE 3348 or ENVE 3324",
           "customUnits": "3-4",
           "customDesc": "Choose one of the following: NR 3310, BOT 3311, BRAE 3348, or ENVE 3324.",
-          "customDisplayName": "Global Climate Change or Plants, People and Civilization or Energy for a Sustainable Society or Introduction to Air Pollution"
+          "customDisplayName": ""
         },
         {
           "id": "NR 3363",
@@ -203,7 +203,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": null,
+          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -227,7 +227,7 @@
           "customId": "NR 3319 and NR 3320 or NR 4402 or NR/SS 4421 or SS 3321 or ERSC 3303",
           "customUnits": "3-4",
           "customDesc": "Choose one of the following: NR 3319 and NR 3320, NR 4402, NR/SS 4421, SS 3321, or ERSC 3303.",
-          "customDisplayName": "Watershed Processes and Management or Forest Health and Disturbance Ecology or Wetlands or Soil Morphology or Soil Erosion and Water Conservation"
+          "customDisplayName": ""
         },
         {
           "id": null,
@@ -240,7 +240,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": null,
+          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -256,7 +256,7 @@
           "customId": "NR/AGB 3326 or NR 4418 or NR/SS 4431 or NR 4442 or NR 4445",
           "customUnits": "2-4",
           "customDesc": "Choose one of the following: NR/AGB 3326, NR 4418, NR/SS 4431, NR 4442, or NR 4445.",
-          "customDisplayName": "Natural Resources Economics and Valuation or Applied Geographic Information System or Spatial Data Analysis and Environmental Mapping or Environmental Life-Cycle Analysis or Systems Thinking in Environmental Management"
+          "customDisplayName": ""
         },
         {
           "id": null,
@@ -264,7 +264,7 @@
           "customId": "NR/CRP 4404 or NR/CRP 4408 or NR 4416 or AG 4452",
           "customUnits": "4",
           "customDesc": "Choose one of the following: NR/CRP 4404, NR/CRP 4408, NR 4416, or AG 4452.",
-          "customDisplayName": "Environmental Law or Water Resource Law and Policy or Environmental Impact Analysis and Management or Leadership Seminar on Issues Affecting California Agriculture"
+          "customDisplayName": ""
         },
         {
           "id": null,
@@ -277,7 +277,7 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": null,
+          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
@@ -300,7 +300,7 @@
           "customId": "NR 4460 or NR 4462 or NR 4463 or NR 4464 or NR 4465",
           "customUnits": "3-4",
           "customDesc": "Choose one of the following: NR 4460, NR 4462, NR 4463, NR 4464, or NR 4465.",
-          "customDisplayName": "Senior Project - Watershed Assessment and Protection or Senior Project - Applied Resource Analysis and Assessment or Senior Project - Ecological Restoration or Senior Project - Environmental Policy Analysis or Senior Project - Ecosystem Management"
+          "customDisplayName": "Senior Project"
         },
         {
           "id": null,
