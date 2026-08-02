@@ -1356,7 +1356,7 @@
             "id": "570ba589-0fd9-4628-a481-1cd42ae33b89",
             "catalog": "2026-2028",
             "majorName": "Sociology",
-            "concName": "Criminology",
+            "concName": "Criminal Justice",
             "code": "26-28.48SOCBAU.CJSOCU",
             "dataLink": "liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
         },
@@ -1364,7 +1364,7 @@
             "id": "39d25828-6f78-49dd-98c7-7db36350a42e",
             "catalog": "2026-2028",
             "majorName": "Sociology",
-            "concName": "Organizations and Social Services",
+            "concName": "Organizations",
             "code": "26-28.48SOCBAU.ORGSOCU",
             "dataLink": "liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
         },
@@ -1373,8 +1373,16 @@
             "catalog": "2026-2028",
             "majorName": "Sociology",
             "concName": "Social Justice",
-            "code": "26-28.48SOCBAU.SCSSOCU",
+            "code": "26-28.48SOCBAU.SCJSOCU",
             "dataLink": "liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "84145270-faeg-479f-aa58-9c7a1a923f33",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Social Services",
+            "code": "26-28.48SOCBAU.SCSSOCU",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
         },
         {
             "id": "6f2e5604-5a03-4d19-9bc4-43d9ff531495",
@@ -1385,59 +1393,11 @@
             "dataLink": "liberal-arts/social-sciences/sociology-ba/sociology-ba_planofstudytext.pdf"
         },
         {
-            "id": "9caec221-0aa9-452f-99be-bf9f0042cbbc",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "General Curriculum in Software Engineering",
-            "code": "26-28.52SEBSU",
-            "dataLink": "engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "be7f9fa9-f1fc-4a92-9387-b82600388e5d",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Artificial Intelligence and Machine Learning",
-            "code": "26-28.52SEBSU",
-            "dataLink": "engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "c6f0e611-ed95-42d4-9a9e-3bd16e950200",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Data Engineering",
-            "code": "26-28.52SEBSU",
-            "dataLink": "engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "b4ac4c0f-8bd2-4666-ac27-733c868cd425",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Game Development",
-            "code": "26-28.52SEBSU",
-            "dataLink": "engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "57497bab-4fe5-40c5-af19-030c3afe774a",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Human-Computer Interaction",
-            "code": "26-28.52SEBSU",
-            "dataLink": "engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
-        },
-        {
-            "id": "41302a4a-295e-427a-b66c-72a786a3bb93",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Security",
-            "code": "26-28.52SEBSU",
-            "dataLink": "engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
-        },
-        {
             "id": "92c1cb30-c139-4bf6-9a28-0261ca8b4f3b",
             "catalog": "2026-2028",
             "majorName": "Software Engineering",
-            "concName": "Concentration Not Yet Declared",
-            "code": "26-28.52SEBSU.EMPH-",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.52SEBSU",
             "dataLink": "engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_planofstudytext.pdf"
         },
         {
@@ -2854,7 +2814,7 @@
             "id": "570ba589-0fd9-4628-a481-1cd42ae33b89",
             "catalog": "2026-2028",
             "majorName": "Sociology",
-            "concName": "Criminology",
+            "concName": "Criminal Justice",
             "code": "26-28.48SOCBAU.CJSOCU",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
         },
@@ -2862,7 +2822,7 @@
             "id": "39d25828-6f78-49dd-98c7-7db36350a42e",
             "catalog": "2026-2028",
             "majorName": "Sociology",
-            "concName": "Organizations and Social Services",
+            "concName": "Organizations",
             "code": "26-28.48SOCBAU.ORGSOCU",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
         },
@@ -2871,6 +2831,14 @@
             "catalog": "2026-2028",
             "majorName": "Sociology",
             "concName": "Social Justice",
+            "code": "26-28.48SOCBAU.SCJSOCU",
+            "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
+        },
+        {
+            "id": "84145270-faeg-479f-aa58-9c7a1a923f33",
+            "catalog": "2026-2028",
+            "majorName": "Sociology",
+            "concName": "Social Services",
             "code": "26-28.48SOCBAU.SCSSOCU",
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
         },
@@ -2883,59 +2851,11 @@
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/social-sciences/sociology-ba/sociology-ba_requirementstext.pdf"
         },
         {
-            "id": "9caec221-0aa9-452f-99be-bf9f0042cbbc",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "General Curriculum in Software Engineering",
-            "code": "26-28.52SEBSU",
-            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
-        },
-        {
-            "id": "be7f9fa9-f1fc-4a92-9387-b82600388e5d",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Artificial Intelligence and Machine Learning",
-            "code": "26-28.52SEBSU",
-            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
-        },
-        {
-            "id": "c6f0e611-ed95-42d4-9a9e-3bd16e950200",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Data Engineering",
-            "code": "26-28.52SEBSU",
-            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
-        },
-        {
-            "id": "b4ac4c0f-8bd2-4666-ac27-733c868cd425",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Game Development",
-            "code": "26-28.52SEBSU",
-            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
-        },
-        {
-            "id": "57497bab-4fe5-40c5-af19-030c3afe774a",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Human-Computer Interaction",
-            "code": "26-28.52SEBSU",
-            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
-        },
-        {
-            "id": "41302a4a-295e-427a-b66c-72a786a3bb93",
-            "catalog": "2026-2028",
-            "majorName": "Software Engineering",
-            "concName": "Security",
-            "code": "26-28.52SEBSU",
-            "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
-        },
-        {
             "id": "92c1cb30-c139-4bf6-9a28-0261ca8b4f3b",
             "catalog": "2026-2028",
             "majorName": "Software Engineering",
-            "concName": "Concentration Not Yet Declared",
-            "code": "26-28.52SEBSU.EMPH-",
+            "concName": "Not Applicable For This Major",
+            "code": "26-28.52SEBSU",
             "dataLink": "https://catalog.calpoly.edu/engineering/computer-science-software-engineering/software-engineering-bs/software-engineering-bs_requirementstext.pdf"
         },
         {
