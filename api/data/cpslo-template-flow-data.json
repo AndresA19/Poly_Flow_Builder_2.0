@@ -1305,11 +1305,43 @@
             "dataLink": "agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_planofstudytext.pdf"
         },
         {
+            "id": "0b9d9a4c-37db-48fc-b1a4-c5b7c6c42df7",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "American Politics",
+            "code": "26-28.48POLSBAU.AMPPOLSU",
+            "dataLink": "liberal-arts/political-science/political-science-ba/american-politics-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "7b67c4cb-8d0f-41b6-99d3-7dcab1d3f0b2",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "Global Politics",
+            "code": "26-28.48POLSBAU.GPPPOLSU",
+            "dataLink": "liberal-arts/political-science/political-science-ba/global-politics-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "d8a0b9d1-0d3d-42b6-a6af-09fd76eeb40d",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.48POLSBAU.ICSPOLSU",
+            "dataLink": "liberal-arts/political-science/political-science-ba/individualized-course-of-study-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "c69e55f3-64d2-4b6f-b67f-4e3b7066d8d0",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "Pre-Law",
+            "code": "26-28.48POLSBAU.PRLPOLSU",
+            "dataLink": "liberal-arts/political-science/political-science-ba/pre-law-ba_planofstudytext.pdf"
+        },
+        {
             "id": "b39cd1e9-986f-477f-889e-a35be989b51e",
             "catalog": "2026-2028",
             "majorName": "Political Science",
-            "concName": "Not Applicable For This Major",
-            "code": "26-28.48POLSBAU",
+            "concName": "Concentration Not Yet Declared",
+            "code": "26-28.48POLSBAU.EMPH-",
             "dataLink": "liberal-arts/political-science/political-science-ba/political-science-ba_planofstudytext.pdf"
         },
         {
@@ -2763,12 +2795,44 @@
             "dataLink": "https://catalog.calpoly.edu/agriculture-food-environmental-sciences/plant-sciences/plant-sciences-bs/plant-sciences-bs_requirementstext.pdf"
         },
         {
+            "id": "0b9d9a4c-37db-48fc-b1a4-c5b7c6c42df7",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "American Politics",
+            "code": "26-28.48POLSBAU.AMPPOLSU",
+            "dataLink": "liberal-arts/political-science/political-science-ba/american-politics-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "7b67c4cb-8d0f-41b6-99d3-7dcab1d3f0b2",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "Global Politics",
+            "code": "26-28.48POLSBAU.GPPPOLSU",
+            "dataLink": "liberal-arts/political-science/political-science-ba/global-politics-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "d8a0b9d1-0d3d-42b6-a6af-09fd76eeb40d",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.48POLSBAU.ICSPOLSU",
+            "dataLink": "liberal-arts/political-science/political-science-ba/individualized-course-of-study-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "c69e55f3-64d2-4b6f-b67f-4e3b7066d8d0",
+            "catalog": "2026-2028",
+            "majorName": "Political Science",
+            "concName": "Pre-Law",
+            "code": "26-28.48POLSBAU.PRLPOLSU",
+            "dataLink": "liberal-arts/political-science/political-science-ba/pre-law-ba_planofstudytext.pdf"
+        },
+        {
             "id": "b39cd1e9-986f-477f-889e-a35be989b51e",
             "catalog": "2026-2028",
             "majorName": "Political Science",
-            "concName": "Not Applicable For This Major",
-            "code": "26-28.48POLSBAU",
-            "dataLink": "https://catalog.calpoly.edu/liberal-arts/political-science/political-science-ba/political-science-ba_requirementstext.pdf"
+            "concName": "Concentration Not Yet Declared",
+            "code": "26-28.48POLSBAU.EMPH-",
+            "dataLink": "liberal-arts/political-science/political-science-ba/political-science-ba_planofstudytext.pdf"
         },
         {
             "id": "025d0767-6965-4954-8c1a-0ee0e4c09ca4",
