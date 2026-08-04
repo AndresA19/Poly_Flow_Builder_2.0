@@ -1,0 +1,294 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.76PHYSBAU",
+  "programId": ["169255c2-9da8-49f5-b30b-49f39bac7017"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "PHYS 1100",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1261",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "PHYS 1141",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CSC 1001 and CSC 1001L",
+          "customUnits": "4",
+          "customDesc": "Complete CSC 1001 and CSC 1001L.",
+          "customDisplayName": "Fundamentals of Computer Science and Fundamentals of Computer Science Laboratory"
+        },
+        {
+          "id": "MATH 1262",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "PHYS 1143",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATH 2263",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "PHYS 2211",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATH 2341",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "PHYS 3305",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 3316",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 3320",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "PHYS 3301",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 3339",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 3340",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 4408",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree. Free Electives may need to be at the 3000-4000 level to ensure completion of the required minimum of 40 units of upper-division courses."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "PHYS 3341",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 4405",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "PHYS 4461 or PHYS 4461 and PHYS 4462",
+          "customUnits": "2",
+          "customDesc": "Complete PHYS 4461, or complete both PHYS 4461 and PHYS 4462.",
+          "customDisplayName": "Senior Project I or Senior Project I and Senior Project II"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree. Free Electives may need to be at the 3000-4000 level to ensure completion of the required minimum of 40 units of upper-division courses."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree. Free Electives may need to be at the 3000-4000 level to ensure completion of the required minimum of 40 units of upper-division courses."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree. Free Electives may need to be at the 3000-4000 level to ensure completion of the required minimum of 40 units of upper-division courses."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree. Free Electives may need to be at the 3000-4000 level to ensure completion of the required minimum of 40 units of upper-division courses."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree. Free Electives may need to be at the 3000-4000 level to ensure completion of the required minimum of 40 units of upper-division courses."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree. Free Electives may need to be at the 3000-4000 level to ensure completion of the required minimum of 40 units of upper-division courses."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-08-04T00:00:00.000Z"
+}

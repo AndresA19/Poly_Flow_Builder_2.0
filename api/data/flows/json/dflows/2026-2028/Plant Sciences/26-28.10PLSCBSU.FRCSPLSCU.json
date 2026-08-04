@@ -1,0 +1,295 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.10PLSCBSU.FRCSPLSCU",
+  "programId": ["a216ee33-87eb-486e-adf3-dc5bad1f4f70"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "PLSC 1101",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "PLSC 1120 and PLSC 1120L",
+          "customUnits": "3",
+          "customDesc": "Complete PLSC 1120 and PLSC 1120L.",
+          "customDisplayName": "Principles of Plant Sciences and Principles of Plant Sciences Laboratory"
+        },
+        {
+          "id": "BOT 1121",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1006",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": "PLSC 1124",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "PLSC 1150",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "SS 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "2-3",
+          "customDesc": "See catalog for approved Plant Sciences elective options. A minimum of 9 units must be taken at the 3000-4000 level where specified."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Plant Sciences elective options. A minimum of 9 units must be taken at the 3000-4000 level where specified."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "18",
+      "courses": [
+        {
+          "id": "PLSC 1132",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "PLSC 3321",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "SS 2221",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "STAT 1110",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "12",
+      "courses": [
+        {
+          "id": "PLSC 3313",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PLSC 3323",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PLSC 3351",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "BRAE 3340",
+          "color": "#CAC7A7"
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "PLSC 2244",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "PLSC 3304",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PLSC 3360",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Plant Sciences elective options. A minimum of 9 units must be taken at the 3000-4000 level where specified."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "PLSC 2205 or PLSC 3333",
+          "customUnits": "2",
+          "customDesc": "Choose PLSC 2205 or PLSC 3333.",
+          "customDisplayName": "Orchard and Vegetable Enterprise Project or Greenhouse Vegetable Production"
+        },
+        {
+          "id": "PLSC 4420",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "PLSC 4461",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "PLSC 4410",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PLSC 4462",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Plant Sciences elective options. A minimum of 9 units must be taken at the 3000-4000 level where specified."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Plant Sciences elective options. A minimum of 9 units must be taken at the 3000-4000 level where specified."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Plant Sciences elective options. A minimum of 9 units must be taken at the 3000-4000 level where specified."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-08-04T00:00:00.000Z"
+}

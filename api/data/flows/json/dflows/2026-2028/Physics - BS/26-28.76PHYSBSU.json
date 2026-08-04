@@ -1,0 +1,302 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.76PHYSBSU",
+  "programId": ["6ac3c5ab-f986-4e49-a2ee-10caa401466e"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "PHYS 1100",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1261",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "PHYS 1141",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CSC 1001 and CSC 1001L",
+          "customUnits": "4",
+          "customDesc": "Complete CSC 1001 and CSC 1001L.",
+          "customDisplayName": "Fundamentals of Computer Science and Fundamentals of Computer Science Laboratory"
+        },
+        {
+          "id": "MATH 1262",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "PHYS 1143",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATH 2263",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "PHYS 2211",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATH 2341",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "PHYS 3305",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 3316",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 3320",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Technical Elective",
+          "customUnits": "4",
+          "customDesc": "See catalog for approved Physics technical elective options. Total combined elective credit in PHYS 4400, PHYS 4404, ASTR 4400, ASTR 4404, GEOL 4400, and GEOL 4404 is limited to 4 units."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "PHYS 3301",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 3339",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 3340",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 4408",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "PHYS 3341",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHYS 4405",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "PHYS 4461 or PHYS 4461 and PHYS 4462",
+          "customUnits": "2",
+          "customDesc": "Complete PHYS 4461, or complete both PHYS 4461 and PHYS 4462.",
+          "customDisplayName": "Senior Project I or Senior Project I and Senior Project II"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Technical Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Physics technical elective options. Total combined elective credit in PHYS 4400, PHYS 4404, ASTR 4400, ASTR 4404, GEOL 4400, and GEOL 4404 is limited to 4 units."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Technical Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Physics technical elective options. Total combined elective credit in PHYS 4400, PHYS 4404, ASTR 4400, ASTR 4404, GEOL 4400, and GEOL 4404 is limited to 4 units."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "PHYS 3323 or PHYS 4425 or PHYS 4428 or ASTR 4444",
+          "customUnits": "4",
+          "customDesc": "Choose one of the following: PHYS 3323, PHYS 4425, PHYS 4428, or ASTR 4444.",
+          "customDisplayName": "Optics or Solid State Physics or Nonlinear Dynamics and Chaos or Observational Astronomy"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Technical Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Physics technical elective options. Total combined elective credit in PHYS 4400, PHYS 4404, ASTR 4400, ASTR 4404, GEOL 4400, and GEOL 4404 is limited to 4 units."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Technical Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Physics technical elective options. Total combined elective credit in PHYS 4400, PHYS 4404, ASTR 4400, ASTR 4404, GEOL 4400, and GEOL 4404 is limited to 4 units."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Technical Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Physics technical elective options. Total combined elective credit in PHYS 4400, PHYS 4404, ASTR 4400, ASTR 4404, GEOL 4400, and GEOL 4404 is limited to 4 units."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-08-04T00:00:00.000Z"
+}
