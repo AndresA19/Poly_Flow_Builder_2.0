@@ -1145,59 +1145,35 @@
             "dataLink": "engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
         },
         {
-            "id": "6c129de6-56aa-4d6e-834d-829b5c719dd7",
-            "catalog": "2026-2028",
-            "majorName": "Mechanical Engineering (San Luis Obispo Campus)",
-            "concName": "Concentration Not Yet Declared",
-            "code": "26-28.52MEBSU.EMPH-",
-            "dataLink": "engineering/mechanical-engineering/mechanical-engineering-bs-san-luis-obispo-campus/mechanical-engineering-bs-san-luis-obispo-campus_planofstudytext.pdf"
-        },
-        {
-            "id": "bc6c3448-b31c-4c8f-b9e9-ff9d9f0db184",
-            "catalog": "2026-2028",
-            "majorName": "Mechanical Engineering (Solano Campus)",
-            "concName": "General Curriculum",
-            "code": "26-28.52MEBSU",
-            "dataLink": "engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
-        },
-        {
             "id": "2f0f7ff7-d38e-4ba8-8c75-417456c75f4b",
             "catalog": "2026-2028",
             "majorName": "Mechanical Engineering (Solano Campus)",
-            "concName": "Manufacturing",
-            "code": "26-28.52MEBSU.MFGEMEU",
+            "concName": "U.S. Coast Guard License Concentration - Divisions 3 & 4",
+            "code": "26-28.52MEBSU.USCGMEDIV34",
             "dataLink": "engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
         },
         {
             "id": "1f427ac0-8f40-4acd-9f3a-7ddf2dea2dbb",
             "catalog": "2026-2028",
             "majorName": "Mechanical Engineering (Solano Campus)",
-            "concName": "Mechatronics",
-            "code": "26-28.52MEBSU.MCMEU",
+            "concName": "U.S. Coast Guard License Concentration - Divisions 1 & 2",
+            "code": "26-28.52MEBSU.USCGMEDIV12",
             "dataLink": "engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
         },
         {
             "id": "95047d4e-ed14-4868-a29d-4e3da3e48edc",
             "catalog": "2026-2028",
             "majorName": "Mechanical Engineering (Solano Campus)",
-            "concName": "Energy Resources",
-            "code": "26-28.52MEBSU.ENRMEU",
+            "concName": "General Curriculum in Mechanical Engineering - Divisions 3 & 4",
+            "code": "26-28.52MEBSU.GCMEDIV34",
             "dataLink": "engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
         },
         {
             "id": "a3462892-284a-4982-9eac-f8f0187cbef8",
             "catalog": "2026-2028",
             "majorName": "Mechanical Engineering (Solano Campus)",
-            "concName": "HVAC and Refrigeration",
-            "code": "26-28.52MEBSU.HVARMEU",
-            "dataLink": "engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
-        },
-        {
-            "id": "adfc10d8-aaaf-4a2e-9583-456d09d7c09d",
-            "catalog": "2026-2028",
-            "majorName": "Mechanical Engineering (Solano Campus)",
-            "concName": "Concentration Not Yet Declared",
-            "code": "26-28.52MEBSU.EMPH-",
+            "concName": "General Curriculum in Mechanical Engineering - Divisions 1 & 2",
+            "code": "26-28.52MEBSU.GCMEDIV12",
             "dataLink": "engineering/mechanical-engineering/mechanical-engineering-bs-solano-campus/mechanical-engineering-bs-solano-campus_planofstudytext.pdf"
         },
         {
