@@ -1220,7 +1220,7 @@
             "id": "e61caf6c-dfaa-4d51-83ec-965836c4081a",
             "catalog": "2026-2028",
             "majorName": "Nutrition",
-            "concName": "Applied Nutrition",
+            "concName": "Dietetics",
             "code": "26-28.10NUTRBSU.ANNUTRU",
             "dataLink": "agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_planofstudytext.pdf"
         },
@@ -1228,7 +1228,7 @@
             "id": "c48b16a0-d35f-4e06-836d-efb58139d99a",
             "catalog": "2026-2028",
             "majorName": "Nutrition",
-            "concName": "Nutrition Science",
+            "concName": "Nutrition and Pre-Health Sciences",
             "code": "26-28.10NUTRBSU.NSNUTRU",
             "dataLink": "agriculture-food-environmental-sciences/food-science-nutrition/nutrition-bs/nutrition-bs_planofstudytext.pdf"
         },
@@ -1252,7 +1252,31 @@
             "id": "0f4e16da-cb65-4626-b955-a5533556523d",
             "catalog": "2026-2028",
             "majorName": "Philosophy",
-            "concName": "Not Applicable For This Major",
+            "concName": "Concentration Not Yet Declared",
+            "code": "26-28.48PHILBAU",
+            "dataLink": "liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "3d8e5f4b-7a9c-4c6d-a2f8-91b5e3d4f672",
+            "catalog": "2026-2028",
+            "majorName": "Philosophy",
+            "concName": "Ethics and Society",
+            "code": "26-28.48PHILBAU",
+            "dataLink": "liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "8c2b1d9f-5e74-4f8d-b3a1-2d9f7c6a4e58",
+            "catalog": "2026-2028",
+            "majorName": "Philosophy",
+            "concName": "Ethics of Science and Technology",
+            "code": "26-28.48PHILBAU",
+            "dataLink": "liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "f7a91e3c-2b84-46d8-9f15-c8e4b2a7d961",
+            "catalog": "2026-2028",
+            "majorName": "Philosophy",
+            "concName": "Philosophy and Religion",
             "code": "26-28.48PHILBAU",
             "dataLink": "liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
         },
@@ -2742,9 +2766,33 @@
             "id": "0f4e16da-cb65-4626-b955-a5533556523d",
             "catalog": "2026-2028",
             "majorName": "Philosophy",
-            "concName": "Not Applicable For This Major",
+            "concName": "Concentration Not Yet Declared",
             "code": "26-28.48PHILBAU",
-            "dataLink": "https://catalog.calpoly.edu/liberal-arts/philosophy/philosophy-ba/philosophy-ba_requirementstext.pdf"
+            "dataLink": "liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "3d8e5f4b-7a9c-4c6d-a2f8-91b5e3d4f672",
+            "catalog": "2026-2028",
+            "majorName": "Philosophy",
+            "concName": "Ethics and Society",
+            "code": "26-28.48PHILBAU",
+            "dataLink": "liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "8c2b1d9f-5e74-4f8d-b3a1-2d9f7c6a4e58",
+            "catalog": "2026-2028",
+            "majorName": "Philosophy",
+            "concName": "Ethics of Science and Technology",
+            "code": "26-28.48PHILBAU",
+            "dataLink": "liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
+        },
+        {
+            "id": "f7a91e3c-2b84-46d8-9f15-c8e4b2a7d961",
+            "catalog": "2026-2028",
+            "majorName": "Philosophy",
+            "concName": "Philosophy and Religion",
+            "code": "26-28.48PHILBAU",
+            "dataLink": "liberal-arts/philosophy/philosophy-ba/philosophy-ba_planofstudytext.pdf"
         },
         {
             "id": "169255c2-9da8-49f5-b30b-49f39bac7017",
