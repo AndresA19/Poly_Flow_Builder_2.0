@@ -1,0 +1,302 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.52MATEBSU",
+  "programId": ["c328ab9b-37d9-41ea-bd4c-2620ad1df1af"],
+  "startYear": "2026",
+  "unitTotal": "125-127",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "MATE 1110",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "IME 1140",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1261",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "MATE 1210",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 1215",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ENGL 1148",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "IME 1142",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "MATH 1262",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "PHYS 1141",
+          "color": "#CAC7A7"
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "MATE 2225",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 2245",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 2280",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATH 2341",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "PHYS 1143",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4A",
+          "customDisplayName": "American Institutions",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "MATE 2235",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 3360",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "EE 2201 and EE 2241",
+          "customUnits": "3",
+          "customDesc": "Complete EE 2201 and EE 2241.",
+          "customDisplayName": "Electric Circuits for Non-Majors and Electric Circuit Analysis Laboratory I"
+        },
+        {
+          "id": "ENGR 2211",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "STAT 3210",
+          "color": "#CAC7A7"
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "18-19",
+      "courses": [
+        {
+          "id": "MATE 3340",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 3480",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "CHEM 1122 or CHEM 2240",
+          "customUnits": "4",
+          "customDesc": "Choose CHEM 1122 or CHEM 2240.",
+          "customDisplayName": "Fundamentals of Chemical Reactivity or Organic Chemistry: Fundamentals and Applications"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "IME 3326 or ME 3234",
+          "customUnits": "3-4",
+          "customDesc": "Choose IME 3326 or ME 3234.",
+          "customDisplayName": "Experimentation, Quality, and Six Sigma or Design Thinking and Creativity"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3A",
+          "customDisplayName": "Arts",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "MATE 3232",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 3310",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 3401",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 3403",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4B",
+          "customDisplayName": "Social and Behavioral Sciences",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 5B",
+          "customDisplayName": "Life Science",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": "MATE 4300",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 4422",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATE 4461",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Technical Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Materials Engineering Technical Elective options. A course used here cannot be double-counted toward another Major or Support requirement. A maximum of 8 units of MATE 4400 may count toward Technical Electives or Professional Development Electives."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3B",
+          "customDisplayName": "Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "14-15",
+      "courses": [
+        {
+          "id": "MATE 4462",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Technical Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved Materials Engineering Technical Elective options. A course used here cannot be double-counted toward another Major or Support requirement. A maximum of 8 units of MATE 4400 may count toward Technical Electives or Professional Development Electives."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Professional Development Elective",
+          "customUnits": "3-4",
+          "customDesc": "See catalog for approved Materials Engineering Professional Development Elective options. A course used here cannot be double-counted toward another Major or Support requirement. A maximum of 8 units of MATE 4400 may count toward Technical Electives or Professional Development Electives."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 6",
+          "customDisplayName": "Ethnic Studies",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 3",
+          "customDisplayName": "Upper-Division Arts and Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-08-07T00:00:00.000Z"
+}
