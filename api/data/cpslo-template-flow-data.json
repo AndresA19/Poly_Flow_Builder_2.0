@@ -957,7 +957,7 @@
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Computer Science",
-            "code": "26-28.52LAESBSU.CGRLAESSU.ICCLAESSU",
+            "code": "26-28.52LAESBSU.CSLAESSU",
             "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
@@ -965,7 +965,7 @@
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Electrical Engineering",
-            "code": "26-28.52LAESBSU.EELAESSU.ICCLAESSU",
+            "code": "26-28.52LAESBSU.EELAESSU",
             "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
@@ -973,15 +973,23 @@
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Industrial Engineering",
-            "code": "26-28.52LAESBSU.IMSLAESSU.ICCLAESSU",
+            "code": "26-28.52LAESBSU.IELAESSU",
             "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "bad15f09-9233-481c-8aa6-cda3f8ce1d82",
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Engineering Individualized Course of Study",
+            "code": "26-28.52LAESBSU.EICSLAESSU",
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "jds15f09-4568-481c-8aa6-cda3s8ce1d82",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Liberal Arts Focused Course of Study",
-            "code": "26-28.52LAESBSU.ICELAESSU.ICCLAESSU",
+            "code": "26-28.52LAESBSU.LAFCSLAESSU",
             "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
@@ -989,7 +997,7 @@
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Technical and Professional Communication",
-            "code": "26-28.52LAESBSU.USLAESSU.TCLAESSU",
+            "code": "26-28.52LAESBSU.TPCLAESSU",
             "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
@@ -997,7 +1005,7 @@
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Liberal Arts Individualized Course of Study",
-            "code": "26-28.52LAESBSU.USLAESSU.ICCLAESSU",
+            "code": "26-28.52LAESBSU.LAICSLAESSU",
             "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
@@ -1033,6 +1041,14 @@
             "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
         {
+            "id": "a58d7c7a-e3d4-43c6-a632-8b5a26169628",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Science",
+            "code": "26-28.76LSBSU.SCILSU",
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
             "id": "185663b8-4fa6-4015-875c-7009047444a4",
             "catalog": "2026-2028",
             "majorName": "Liberal Studies",
@@ -1041,11 +1057,27 @@
             "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
         {
-            "id": "a58d7c7a-e3d4-43c6-a632-8b5a26169628",
+            "id": "62b94c21-d68f-42d1-a85e-c8f79c253414",
             "catalog": "2026-2028",
             "majorName": "Liberal Studies",
-            "concName": "Science",
-            "code": "26-28.76LSBSU.SCILSU",
+            "concName": "Social Science",
+            "code": "26-28.76LSBSU.HSSLSU",
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "a71d6ee5-d79d-43e0-b16a-3dc59bc90e8b",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Teaching English to Speakers of Other Languages",
+            "code": "26-28.76LSBSU.TSOLLSU",
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "dc34d105-a18a-42b4-97d4-66e372e4a50c",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.76LSBSU.ICSLSU",
             "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
         {
@@ -2447,48 +2479,56 @@
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Computer Science",
-            "code": "26-28.52LAESBSU.CGRLAESSU.ICCLAESSU",
-            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+            "code": "26-28.52LAESBSU.CSLAESSU",
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "78648541-6eb4-4168-8d07-05e76e32caf0",
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Electrical Engineering",
-            "code": "26-28.52LAESBSU.EELAESSU.ICCLAESSU",
-            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+            "code": "26-28.52LAESBSU.EELAESSU",
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "de74ea30-5dd5-4617-8a4d-a3625bc48168",
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Industrial Engineering",
-            "code": "26-28.52LAESBSU.IMSLAESSU.ICCLAESSU",
-            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+            "code": "26-28.52LAESBSU.IELAESSU",
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "bad15f09-9233-481c-8aa6-cda3f8ce1d82",
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
+            "concName": "Engineering Individualized Course of Study",
+            "code": "26-28.52LAESBSU.EICSLAESSU",
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "jds15f09-4568-481c-8aa6-cda3s8ce1d82",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Liberal Arts Focused Course of Study",
-            "code": "26-28.52LAESBSU.ICELAESSU.ICCLAESSU",
-            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+            "code": "26-28.52LAESBSU.LAFCSLAESSU",
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "949836bd-4268-4348-864e-edda7b611b64",
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Technical and Professional Communication",
-            "code": "26-28.52LAESBSU.USLAESSU.TCLAESSU",
-            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+            "code": "26-28.52LAESBSU.TPCLAESSU",
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "78273e0d-8596-47d6-a9b2-13abbc772425",
             "catalog": "2026-2028",
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Liberal Arts Individualized Course of Study",
-            "code": "26-28.52LAESBSU.USLAESSU.ICCLAESSU",
-            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+            "code": "26-28.52LAESBSU.LAICSLAESSU",
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "d2468937-306b-43c5-a2cc-9ebca72253d0",
@@ -2496,7 +2536,7 @@
             "majorName": "Liberal Arts and Engineering Studies",
             "concName": "Concentration Not Yet Declared",
             "code": "26-28.52LAESBSU.EMPH-",
-            "dataLink": "https://catalog.calpoly.edu/interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_requirementstext.pdf"
+            "dataLink": "interdisciplinary-degree-programs/liberal-arts-engineering-studies-bs/liberal-arts-engineering-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "49c821b5-94be-4ddf-b257-dbd11579de77",
@@ -2504,7 +2544,7 @@
             "majorName": "Liberal Studies",
             "concName": "Environmental Education",
             "code": "26-28.76LSBSU.EVEDLSU",
-            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "898cbeca-2139-4492-a920-c61ebe90954a",
@@ -2512,7 +2552,7 @@
             "majorName": "Liberal Studies",
             "concName": "Human Development",
             "code": "26-28.76LSBSU.HDLSU",
-            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "5b8c2f37-b5c7-4e68-a581-b2a55d497c46",
@@ -2520,15 +2560,7 @@
             "majorName": "Liberal Studies",
             "concName": "Mathematics",
             "code": "26-28.76LSBSU.MATHLSU",
-            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
-        },
-        {
-            "id": "185663b8-4fa6-4015-875c-7009047444a4",
-            "catalog": "2026-2028",
-            "majorName": "Liberal Studies",
-            "concName": "English",
-            "code": "26-28.76LSBSU.ENGLLSU",
-            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "a58d7c7a-e3d4-43c6-a632-8b5a26169628",
@@ -2536,7 +2568,39 @@
             "majorName": "Liberal Studies",
             "concName": "Science",
             "code": "26-28.76LSBSU.SCILSU",
-            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "185663b8-4fa6-4015-875c-7009047444a4",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "English",
+            "code": "26-28.76LSBSU.ENGLLSU",
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "62b94c21-d68f-42d1-a85e-c8f79c253414",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Social Science",
+            "code": "26-28.76LSBSU.HSSLSU",
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "a71d6ee5-d79d-43e0-b16a-3dc59bc90e8b",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Teaching English to Speakers of Other Languages",
+            "code": "26-28.76LSBSU.TSOLLSU",
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "dc34d105-a18a-42b4-97d4-66e372e4a50c",
+            "catalog": "2026-2028",
+            "majorName": "Liberal Studies",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.76LSBSU.ICSLSU",
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "99039ce5-43d9-4f33-8f99-606f0da69afa",
@@ -2544,7 +2608,7 @@
             "majorName": "Liberal Studies",
             "concName": "Concentration Not Yet Declared",
             "code": "26-28.76LSBSU.EMPH-",
-            "dataLink": "https://catalog.calpoly.edu/science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_requirementstext.pdf"
+            "dataLink": "science-mathematics/liberal-studies-undergraduate-teacher-preparation-program/liberal-studies-bs/liberal-studies-bs_planofstudytext.pdf"
         },
         {
             "id": "b8dd1824-3974-4e7e-a16c-1af7e2a17ccf",
