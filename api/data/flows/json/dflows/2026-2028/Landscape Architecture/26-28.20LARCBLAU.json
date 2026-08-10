@@ -1,0 +1,331 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.20LARCBLAU",
+  "programId": ["267c7e09-bd96-4294-86f7-83082e45d1b1"],
+  "startYear": "2026",
+  "unitTotal": "146-148",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "LA 1104",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 1110",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "EDES 1123",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "ENGL 1133 or ENGL 1134",
+          "customUnits": "3",
+          "customDesc": "Choose ENGL 1133 or ENGL 1134.",
+          "customDisplayName": "Multilingual Writing and Rhetoric or Writing and Rhetoric"
+        },
+        {
+          "id": "MATH 1007",
+          "color": "#CAC7A7"
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "LA 1112",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 1120",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "BIO 1114 or BOT 1121",
+          "customUnits": "4",
+          "customDesc": "Choose BIO 1114 or BOT 1121.",
+          "customDisplayName": "Plant Diversity and Ecology or General Botany"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "COMS 1101 or COMS 1102",
+          "customUnits": "3",
+          "customDesc": "Choose COMS 1101 or COMS 1102.",
+          "customDisplayName": "Public Speaking or Public Speaking in Digital Spaces"
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "15-16",
+      "courses": [
+        {
+          "id": "LA 2220",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PLSC 2234",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "COMS 1126 or COMS 1145 or ENGL 1145 or ENGL 1146 or ENGL 1147 or ES 1145 or PHIL 1126 or WGQS 1145",
+          "customUnits": "3",
+          "customDesc": "Choose one approved Major Support 1B course: COMS 1126, COMS 1145, ENGL 1145, ENGL 1146, ENGL 1147, ES 1145, PHIL 1126, or WGQS 1145.",
+          "customDisplayName": "Major Support 1B Course"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Designated Elective",
+          "customUnits": "3-4",
+          "customDesc": "Choose from approved Designated Electives: ARCH 1121, CRP 1222, DATA 1000, SS 1120, STAT 1110, BIO 2215, BIO 2217, CM 2239, GEOL 2240, BOT 3311, BOT 3326, BRAE 3340, COMS 3316, ES 3360, GEOG 3325, NR 3310, NR 3349, or PLSC 3334."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "LA 2210",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 2212",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 2222",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "LA 2203",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 2214",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 3310",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 3320",
+          "color": "#F8E08E"
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "LA 3303",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 3312",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 3322",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Designated Elective",
+          "customUnits": "3",
+          "customDesc": "Choose from approved Designated Electives: ARCH 1121, CRP 1222, DATA 1000, SS 1120, STAT 1110, BIO 2215, BIO 2217, CM 2239, GEOL 2240, BOT 3311, BOT 3326, BRAE 3340, COMS 3316, ES 3360, GEOG 3325, NR 3310, NR 3349, or PLSC 3334."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "13-14",
+      "courses": [
+        {
+          "id": "LA 3304",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 3306",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 4420",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Designated Elective",
+          "customUnits": "3-4",
+          "customDesc": "Choose from approved Designated Electives: ARCH 1121, CRP 1222, DATA 1000, SS 1120, STAT 1110, BIO 2215, BIO 2217, CM 2239, GEOL 2240, BOT 3311, BOT 3326, BRAE 3340, COMS 3316, ES 3360, GEOG 3325, NR 3310, NR 3349, or PLSC 3334."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "LA 4371",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 4410",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "LA 4422 or LA 4424",
+          "customUnits": "4",
+          "customDesc": "Choose LA 4422 or LA 4424.",
+          "customDisplayName": "Interdisciplinary Design Studio or Contemporary Issues in Landscape Architecture Design Studio"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "CAED Designated Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved CAED Designated Elective from the catalog's Design Theory/History, Finance/Legal/Implementation, or Sustainability lists."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 13,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": "LA 4413",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "LA 4461",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "CAED Designated Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved CAED Designated Elective from the catalog's Design Theory/History, Finance/Legal/Implementation, or Sustainability lists."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 14,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "LA 4414 or LA 4415 or LA 4416 or LA 4417 or LA 4418",
+          "customUnits": "3",
+          "customDesc": "Choose LA 4414, LA 4415, LA 4416, LA 4417, or LA 4418.",
+          "customDisplayName": "Advanced Landscape Construction or Advanced Landscape Representation or Advanced Planting Design or Social and Behavioral Factors for Landscape Architecture or Contemporary Issues in Landscape Architecture"
+        },
+        {
+          "id": "LA 4462",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "CAED Designated Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved CAED Designated Elective from the catalog's Design Theory/History, Finance/Legal/Implementation, or Sustainability lists."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customDisplayName": null,
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-08-09T00:00:00.000Z"
+}
