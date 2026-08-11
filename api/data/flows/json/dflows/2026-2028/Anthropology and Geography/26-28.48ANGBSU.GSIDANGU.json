@@ -27,7 +27,7 @@
           "color": "#F8E08E"
         },
         {
-          "id": "GEOG/ERSC 2250",
+          "id": "GEOG 2250",
           "color": "#F8E08E"
         },
         {
@@ -95,7 +95,7 @@
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "ANT/GEOG 3384",
+          "customId": "ANT 3384",
           "customUnits": "2",
           "customDesc": "Choose one of the following: ANT 3384 or GEOG 3384.",
           "customDisplayName": "Professional Prep"
@@ -175,7 +175,7 @@
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "ANT/GEOG 4465",
+          "customId": "ANT 4465",
           "customUnits": "2",
           "customDesc": "Choose one of the following: ANT 4465 or GEOG 4465.\r\n\r\nOr approved study abroad course.",
           "customDisplayName": "Internship"
@@ -250,7 +250,7 @@
           "color": "#A4D65E"
         },
         {
-          "id": "ANT/GEOG 4455",
+          "id": "ANT 4455",
           "color": "#F8E08E"
         },
         {

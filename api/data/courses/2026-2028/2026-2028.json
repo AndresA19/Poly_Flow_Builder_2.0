@@ -7630,7 +7630,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS3384A",
+    "id": "BUS 3384A",
     "catalog": "2026-2028",
     "displayName": "Human Resources Management Project",
     "units": "1",
@@ -7660,7 +7660,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS3388A",
+    "id": "BUS 3388A",
     "catalog": "2026-2028",
     "displayName": "Training, Developing, and Managing Employees Project",
     "units": "1",
@@ -7680,7 +7680,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS3389A",
+    "id": "BUS 3389A",
     "catalog": "2026-2028",
     "displayName": "Negotiation for Entrepreneurs Activity",
     "units": "1",
@@ -7720,7 +7720,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS3392A",
+    "id": "BUS 3392A",
     "catalog": "2026-2028",
     "displayName": "Business Application Development Project",
     "units": "1",
@@ -7740,7 +7740,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS3393A",
+    "id": "BUS 3393A",
     "catalog": "2026-2028",
     "displayName": "Database Systems in Business Project",
     "units": "1",
@@ -7760,7 +7760,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS3394A",
+    "id": "BUS 3394A",
     "catalog": "2026-2028",
     "displayName": "Systems Analysis and Design Project",
     "units": "1",
@@ -7790,7 +7790,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS3396A",
+    "id": "BUS 3396A",
     "catalog": "2026-2028",
     "displayName": "Consumer Insights Project",
     "units": "1",
@@ -7810,7 +7810,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS3399A",
+    "id": "BUS 3399A",
     "catalog": "2026-2028",
     "displayName": "IT Infrastructure and Security Management Project",
     "units": "1",
@@ -8010,7 +8010,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4418A",
+    "id": "BUS 4418A",
     "catalog": "2026-2028",
     "displayName": "Marketing Research Project",
     "units": "1",
@@ -8030,7 +8030,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4421A",
+    "id": "BUS 4421A",
     "catalog": "2026-2028",
     "displayName": "Marketing Analytics Activity",
     "units": "1",
@@ -8050,7 +8050,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4423A",
+    "id": "BUS 4423A",
     "catalog": "2026-2028",
     "displayName": "Digital Marketing Activity",
     "units": "1",
@@ -8180,7 +8180,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4446A",
+    "id": "BUS 4446A",
     "catalog": "2026-2028",
     "displayName": "International Marketing Project",
     "units": "1",
@@ -8230,7 +8230,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4450A",
+    "id": "BUS 4450A",
     "catalog": "2026-2028",
     "displayName": "Current Topics in Marketing Activity",
     "units": "1",
@@ -8250,7 +8250,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4451A",
+    "id": "BUS 4451A",
     "catalog": "2026-2028",
     "displayName": "New Product Development and Launch Project",
     "units": "1",
@@ -8270,7 +8270,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4453A",
+    "id": "BUS 4453A",
     "catalog": "2026-2028",
     "displayName": "Digital and New Media Marketing Project",
     "units": "1",
@@ -8290,7 +8290,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4454A",
+    "id": "BUS 4454A",
     "catalog": "2026-2028",
     "displayName": "Marketing Projects Activity",
     "units": "1",
@@ -8310,7 +8310,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4455A",
+    "id": "BUS 4455A",
     "catalog": "2026-2028",
     "displayName": "Marketing Strategy Project",
     "units": "1",
@@ -8330,7 +8330,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4457A",
+    "id": "BUS 4457A",
     "catalog": "2026-2028",
     "displayName": "Integrated Marketing Communications Project",
     "units": "1",
@@ -8500,7 +8500,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4477A",
+    "id": "BUS 4477A",
     "catalog": "2026-2028",
     "displayName": "Change Management Project",
     "units": "1",
@@ -8560,7 +8560,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4489A",
+    "id": "BUS 4489A",
     "catalog": "2026-2028",
     "displayName": "Negotiation Project",
     "units": "1",
@@ -8620,7 +8620,7 @@
     "uscpCourse": false
   },
   {
-    "id": "BUS4497A",
+    "id": "BUS 4497A",
     "catalog": "2026-2028",
     "displayName": "Business Analytics Project",
     "units": "1",
@@ -8660,7 +8660,7 @@
     "uscpCourse": false
   },
   {
-    "id": "CHE1110L",
+    "id": "CHE 1110L",
     "catalog": "2026-2028",
     "displayName": "General Chemistry Laboratory",
     "units": "1",
@@ -8690,7 +8690,7 @@
     "uscpCourse": false
   },
   {
-    "id": "CHE2210L",
+    "id": "CHE 2210L",
     "catalog": "2026-2028",
     "displayName": "General Chemistry II Laboratory",
     "units": "1",
@@ -12270,7 +12270,7 @@
     "uscpCourse": false
   },
   {
-    "id": "CSC1001L",
+    "id": "CSC 1001L",
     "catalog": "2026-2028",
     "displayName": "Fundamentals of Computer Science Laboratory",
     "units": "1",
@@ -12320,7 +12320,7 @@
     "uscpCourse": false
   },
   {
-    "id": "CSC2001L",
+    "id": "CSC 2001L",
     "catalog": "2026-2028",
     "displayName": "Data Structures Laboratory",
     "units": "1",
@@ -13570,7 +13570,7 @@
     "uscpCourse": false
   },
   {
-    "id": "COM2210L",
+    "id": "COM 2210L",
     "catalog": "2026-2028",
     "displayName": "Oceanography Computer Programming Laboratory",
     "units": "1",
@@ -13580,7 +13580,7 @@
     "uscpCourse": false
   },
   {
-    "id": "COM2220L",
+    "id": "COM 2220L",
     "catalog": "2026-2028",
     "displayName": "Programming Applications for Engineering Technology Lab",
     "units": "1",
@@ -13950,7 +13950,7 @@
     "uscpCourse": false
   },
   {
-    "id": "CRU2200L",
+    "id": "CRU 2200L",
     "catalog": "2026-2028",
     "displayName": "Sea Training II Lab (Deck)",
     "units": "3",
@@ -14540,7 +14540,7 @@
     "uscpCourse": false
   },
   {
-    "id": "DAT1108L",
+    "id": "DAT 1108L",
     "catalog": "2026-2028",
     "displayName": "Foundations of Data Science Laboratory",
     "units": "1",
@@ -14670,7 +14670,7 @@
     "uscpCourse": false
   },
   {
-    "id": "DATA4011A",
+    "id": "DATA 4011A",
     "catalog": "2026-2028",
     "displayName": "Julia for Data Analysis Project",
     "units": "1",
@@ -14820,7 +14820,7 @@
     "uscpCourse": false
   },
   {
-    "id": "DL1105L",
+    "id": "DL 1105L",
     "catalog": "2026-2028",
     "displayName": "Marine Survival Laboratory",
     "units": "1",
@@ -14830,7 +14830,7 @@
     "uscpCourse": false
   },
   {
-    "id": "DL1105X",
+    "id": "DL 1105X",
     "catalog": "2026-2028",
     "displayName": "United States Coast Guard Lifeboatman's Exam",
     "units": "0",
@@ -14880,7 +14880,7 @@
     "uscpCourse": false
   },
   {
-    "id": "DL2225L",
+    "id": "DL 2225L",
     "catalog": "2026-2028",
     "displayName": "RADAR/ARPA Laboratory",
     "units": "2",
@@ -14900,7 +14900,7 @@
     "uscpCourse": false
   },
   {
-    "id": "DL2240L",
+    "id": "DL 2240L",
     "catalog": "2026-2028",
     "displayName": "Global Maritime Distress Safety System (GMDSS) Laboratory",
     "units": "1",
@@ -15000,7 +15000,7 @@
     "uscpCourse": false
   },
   {
-    "id": "DL4405L",
+    "id": "DL 4405L",
     "catalog": "2026-2028",
     "displayName": "Shipboard Medical Laboratory",
     "units": "1",
@@ -15030,7 +15030,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ESM900",
+    "id": "ESM 900",
     "catalog": "2026-2028",
     "displayName": "Early Start Program: Mathematics Workshop",
     "units": "1",
@@ -15320,7 +15320,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON3015A",
+    "id": "ECON 3015A",
     "catalog": "2026-2028",
     "displayName": "Programming for Economics and Analytics Project",
     "units": "1",
@@ -15430,7 +15430,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4010A",
+    "id": "ECON 4010A",
     "catalog": "2026-2028",
     "displayName": "Mathematical Economics Project",
     "units": "1",
@@ -15450,7 +15450,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4011A",
+    "id": "ECON 4011A",
     "catalog": "2026-2028",
     "displayName": "Julia for Data Analysis Project",
     "units": "1",
@@ -15470,7 +15470,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4012A",
+    "id": "ECON 4012A",
     "catalog": "2026-2028",
     "displayName": "Probability Models for Economic Decisions Project",
     "units": "1",
@@ -15490,7 +15490,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4013A",
+    "id": "ECON 4013A",
     "catalog": "2026-2028",
     "displayName": "Experimental and Behavioral Economics Project",
     "units": "1",
@@ -15510,7 +15510,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4021A",
+    "id": "ECON 4021A",
     "catalog": "2026-2028",
     "displayName": "Advanced Econometrics Project",
     "units": "1",
@@ -15530,7 +15530,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4024A",
+    "id": "ECON 4024A",
     "catalog": "2026-2028",
     "displayName": "Applied Forecasting Project",
     "units": "1",
@@ -15550,7 +15550,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4025A",
+    "id": "ECON 4025A",
     "catalog": "2026-2028",
     "displayName": "Causal Machine Learning for Economics Project",
     "units": "1",
@@ -15570,7 +15570,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4031A",
+    "id": "ECON 4031A",
     "catalog": "2026-2028",
     "displayName": "Industrial Organization Project",
     "units": "1",
@@ -15590,7 +15590,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4042A",
+    "id": "ECON 4042A",
     "catalog": "2026-2028",
     "displayName": "Monetary Economics Project",
     "units": "1",
@@ -15610,7 +15610,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4043A",
+    "id": "ECON 4043A",
     "catalog": "2026-2028",
     "displayName": "International Monetary Economics Project",
     "units": "1",
@@ -15630,7 +15630,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4052A",
+    "id": "ECON 4052A",
     "catalog": "2026-2028",
     "displayName": "Public Finance and Public Policy Project",
     "units": "1",
@@ -15650,7 +15650,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4053A",
+    "id": "ECON 4053A",
     "catalog": "2026-2028",
     "displayName": "Labor Economics Project",
     "units": "1",
@@ -15680,7 +15680,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4055A",
+    "id": "ECON 4055A",
     "catalog": "2026-2028",
     "displayName": "Urban Economics Project",
     "units": "1",
@@ -15700,7 +15700,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4061A",
+    "id": "ECON 4061A",
     "catalog": "2026-2028",
     "displayName": "International Trade Project",
     "units": "1",
@@ -15730,7 +15730,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4071A",
+    "id": "ECON 4071A",
     "catalog": "2026-2028",
     "displayName": "Environmental Economics Project",
     "units": "1",
@@ -15750,7 +15750,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4072A",
+    "id": "ECON 4072A",
     "catalog": "2026-2028",
     "displayName": "Economics of Energy and Resources Project",
     "units": "1",
@@ -15770,7 +15770,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ECON4073A",
+    "id": "ECON 4073A",
     "catalog": "2026-2028",
     "displayName": "Economics of Land and Water Project",
     "units": "1",
@@ -16450,7 +16450,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE1111L",
+    "id": "EE 1111L",
     "catalog": "2026-2028",
     "displayName": "Introduction to Electrical Engineering Laboratory",
     "units": "1",
@@ -16470,7 +16470,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE2115L",
+    "id": "EE 2115L",
     "catalog": "2026-2028",
     "displayName": "Circuits & Electronics Laboratory for Non-Majors",
     "units": "1",
@@ -16590,7 +16590,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE3255L",
+    "id": "EE 3255L",
     "catalog": "2026-2028",
     "displayName": "Electric Machines and Power Systems Laboratory",
     "units": "1",
@@ -16610,7 +16610,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE3302L",
+    "id": "EE 3302L",
     "catalog": "2026-2028",
     "displayName": "Classical Control Systems Laboratory",
     "units": "1",
@@ -16630,7 +16630,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE3306L",
+    "id": "EE 3306L",
     "catalog": "2026-2028",
     "displayName": "Electronics Laboratory I",
     "units": "1",
@@ -16650,7 +16650,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE3308L",
+    "id": "EE 3308L",
     "catalog": "2026-2028",
     "displayName": "Electronics Laboratory II",
     "units": "1",
@@ -16690,7 +16690,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE3335L",
+    "id": "EE 3335L",
     "catalog": "2026-2028",
     "displayName": "Electromagnetic Fields and Transmission Laboratory",
     "units": "1",
@@ -16710,7 +16710,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE4314L",
+    "id": "EE 4314L",
     "catalog": "2026-2028",
     "displayName": "Communication Systems Laboratory",
     "units": "1",
@@ -16800,7 +16800,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE4418L",
+    "id": "EE 4418L",
     "catalog": "2026-2028",
     "displayName": "Photonic Engineering Laboratory",
     "units": "1",
@@ -16850,7 +16850,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE4425L",
+    "id": "EE 4425L",
     "catalog": "2026-2028",
     "displayName": "Signal Integrity Electronics and Test Automation Laboratory",
     "units": "1",
@@ -16910,7 +16910,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EE4440L",
+    "id": "EE 4440L",
     "catalog": "2026-2028",
     "displayName": "Wireless Communications Laboratory",
     "units": "1",
@@ -17500,7 +17500,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ENG1120L",
+    "id": "ENG 1120L",
     "catalog": "2026-2028",
     "displayName": "Marine Engineering Laboratory",
     "units": "1",
@@ -17530,7 +17530,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ENG2250L",
+    "id": "ENG 2250L",
     "catalog": "2026-2028",
     "displayName": "Electrical Circuits and Electronics Laboratory",
     "units": "1",
@@ -17860,7 +17860,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EPO1125L",
+    "id": "EPO 1125L",
     "catalog": "2026-2028",
     "displayName": "Introduction to Marine Engineering Laboratory",
     "units": "1",
@@ -17930,7 +17930,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EPO2220L",
+    "id": "EPO 2220L",
     "catalog": "2026-2028",
     "displayName": "Diesel Engineering I Laboratory",
     "units": "1",
@@ -18020,7 +18020,7 @@
     "uscpCourse": false
   },
   {
-    "id": "EPO3322L",
+    "id": "EPO 3322L",
     "catalog": "2026-2028",
     "displayName": "Diesel Engineering II/Simulator Laboratory",
     "units": "1",
@@ -18080,7 +18080,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET2230L",
+    "id": "ET 2230L",
     "catalog": "2026-2028",
     "displayName": "Properties of Materials Laboratory",
     "units": "1",
@@ -18110,7 +18110,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET2250L",
+    "id": "ET 2250L",
     "catalog": "2026-2028",
     "displayName": "Electrical Circuits Laboratory",
     "units": "1",
@@ -18150,7 +18150,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET3340L",
+    "id": "ET 3340L",
     "catalog": "2026-2028",
     "displayName": "Fluid Mechanics Laboratory",
     "units": "1",
@@ -18170,7 +18170,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET3342L",
+    "id": "ET 3342L",
     "catalog": "2026-2028",
     "displayName": "Refrigeration and Air Conditioning Laboratory",
     "units": "1",
@@ -18200,7 +18200,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET3350L",
+    "id": "ET 3350L",
     "catalog": "2026-2028",
     "displayName": "Electrical Machinery Laboratory",
     "units": "1",
@@ -18220,7 +18220,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET3370L",
+    "id": "ET 3370L",
     "catalog": "2026-2028",
     "displayName": "Electronics Laboratory",
     "units": "1",
@@ -18240,7 +18240,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET4400L",
+    "id": "ET 4400L",
     "catalog": "2026-2028",
     "displayName": "Instrumentation and Measurement Laboratory",
     "units": "1",
@@ -18260,7 +18260,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET4442L",
+    "id": "ET 4442L",
     "catalog": "2026-2028",
     "displayName": "Heating, Ventilation, and Air Conditioning Laboratory",
     "units": "1",
@@ -18280,7 +18280,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET4460L",
+    "id": "ET 4460L",
     "catalog": "2026-2028",
     "displayName": "Automation Laboratory",
     "units": "1",
@@ -18310,7 +18310,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ET4490L",
+    "id": "ET 4490L",
     "catalog": "2026-2028",
     "displayName": "Power Engineering Technology Laboratory",
     "units": "1",
@@ -23230,7 +23230,7 @@
     "uscpCourse": false
   },
   {
-    "id": "GMA4460L",
+    "id": "GMA 4460L",
     "catalog": "2026-2028",
     "displayName": "Senior Thesis Research Laboratory",
     "units": "1",
@@ -30800,7 +30800,7 @@
     "uscpCourse": false
   },
   {
-    "id": "MATH900",
+    "id": "MATH 900",
     "catalog": "2026-2028",
     "displayName": "Intermediate Algebra",
     "units": "2",
@@ -31760,7 +31760,7 @@
     "uscpCourse": false
   },
   {
-    "id": "MTH999L",
+    "id": "MTH 999L",
     "catalog": "2026-2028",
     "displayName": "College Algebra and Trigonometry Support Laboratory",
     "units": "1",
@@ -32200,7 +32200,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME3339L",
+    "id": "ME 3339L",
     "catalog": "2026-2028",
     "displayName": "Material/Mechanical Lab Lab",
     "units": "0",
@@ -32270,7 +32270,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME3349L",
+    "id": "ME 3349L",
     "catalog": "2026-2028",
     "displayName": "Fluid/Thermal Lab Laboratory",
     "units": "0",
@@ -32290,7 +32290,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME3350L",
+    "id": "ME 3350L",
     "catalog": "2026-2028",
     "displayName": "Electromechanical Machinery Laboratory",
     "units": "1",
@@ -32320,7 +32320,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME3360L",
+    "id": "ME 3360L",
     "catalog": "2026-2028",
     "displayName": "Instrumentation and Measurement Systems Laboratory",
     "units": "1",
@@ -32560,7 +32560,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME4436L",
+    "id": "ME 4436L",
     "catalog": "2026-2028",
     "displayName": "Mechatronic System Design Laboratory",
     "units": "1",
@@ -32750,7 +32750,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME4459L",
+    "id": "ME 4459L",
     "catalog": "2026-2028",
     "displayName": "Automatic Feedback Control Laboratory",
     "units": "1",
@@ -32790,7 +32790,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME4462L",
+    "id": "ME 4462L",
     "catalog": "2026-2028",
     "displayName": "Experimental Methods in Mechanical Engineering Laboratory",
     "units": "1",
@@ -32890,7 +32890,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME4492L",
+    "id": "ME 4492L",
     "catalog": "2026-2028",
     "displayName": "Project Design I Lab",
     "units": "1",
@@ -32910,7 +32910,7 @@
     "uscpCourse": false
   },
   {
-    "id": "ME4494L",
+    "id": "ME 4494L",
     "catalog": "2026-2028",
     "displayName": "Project Design II Lab",
     "units": "1",
@@ -35130,7 +35130,7 @@
     "uscpCourse": false
   },
   {
-    "id": "NAU1102L",
+    "id": "NAU 1102L",
     "catalog": "2026-2028",
     "displayName": "Navigation I Laboratory",
     "units": "1",
@@ -35240,7 +35240,7 @@
     "uscpCourse": false
   },
   {
-    "id": "NAU2240L",
+    "id": "NAU 2240L",
     "catalog": "2026-2028",
     "displayName": "Electricity/Electronics Laboratory",
     "units": "1",
@@ -35260,7 +35260,7 @@
     "uscpCourse": false
   },
   {
-    "id": "NAU3300L",
+    "id": "NAU 3300L",
     "catalog": "2026-2028",
     "displayName": "Celestial Navigation Laboratory",
     "units": "1",
@@ -35280,7 +35280,7 @@
     "uscpCourse": false
   },
   {
-    "id": "NAU3302L",
+    "id": "NAU 3302L",
     "catalog": "2026-2028",
     "displayName": "Advanced Navigation Laboratory",
     "units": "1",
@@ -35330,7 +35330,7 @@
     "uscpCourse": false
   },
   {
-    "id": "NAU3335L",
+    "id": "NAU 3335L",
     "catalog": "2026-2028",
     "displayName": "Electronic Chart Display and Information Systems Laboratory",
     "units": "1",
@@ -35370,7 +35370,7 @@
     "uscpCourse": false
   },
   {
-    "id": "NAU4410L",
+    "id": "NAU 4410L",
     "catalog": "2026-2028",
     "displayName": "License Seminar Laboratory",
     "units": "1",
@@ -35410,7 +35410,7 @@
     "uscpCourse": false
   },
   {
-    "id": "NAU4430L",
+    "id": "NAU 4430L",
     "catalog": "2026-2028",
     "displayName": "Liquefied Gas Cargos Laboratory",
     "units": "1",
@@ -35790,7 +35790,7 @@
     "uscpCourse": false
   },
   {
-    "id": "OCN1100L",
+    "id": "OCN 1100L",
     "catalog": "2026-2028",
     "displayName": "Marine Biology Laboratory",
     "units": "1",
@@ -35820,7 +35820,7 @@
     "uscpCourse": false
   },
   {
-    "id": "OCN1110L",
+    "id": "OCN 1110L",
     "catalog": "2026-2028",
     "displayName": "Marine Ecology Laboratory",
     "units": "1",
@@ -35850,7 +35850,7 @@
     "uscpCourse": false
   },
   {
-    "id": "OCN2200L",
+    "id": "OCN 2200L",
     "catalog": "2026-2028",
     "displayName": "Introduction to Oceanography Laboratory",
     "units": "1",
@@ -35870,7 +35870,7 @@
     "uscpCourse": false
   },
   {
-    "id": "OCN2210L",
+    "id": "OCN 2210L",
     "catalog": "2026-2028",
     "displayName": "Introduction to Oceanography Laboratory II",
     "units": "1",
@@ -35920,7 +35920,7 @@
     "uscpCourse": false
   },
   {
-    "id": "OCN3310L",
+    "id": "OCN 3310L",
     "catalog": "2026-2028",
     "displayName": "Oceanographic Instruments and Analysis Laboratory",
     "units": "1",
@@ -35990,7 +35990,7 @@
     "uscpCourse": false
   },
   {
-    "id": "OCN3380L",
+    "id": "OCN 3380L",
     "catalog": "2026-2028",
     "displayName": "Directed Research Cooperative Education Laboratory",
     "units": "2",
@@ -36950,7 +36950,7 @@
     "uscpCourse": false
   },
   {
-    "id": "PHY1100L",
+    "id": "PHY 1100L",
     "catalog": "2026-2028",
     "displayName": "General Physics I Laboratory",
     "units": "1",
@@ -36970,7 +36970,7 @@
     "uscpCourse": false
   },
   {
-    "id": "PHY1105L",
+    "id": "PHY 1105L",
     "catalog": "2026-2028",
     "displayName": "General Physics II Laboratory",
     "units": "1",
@@ -36990,7 +36990,7 @@
     "uscpCourse": false
   },
   {
-    "id": "PHY1120L",
+    "id": "PHY 1120L",
     "catalog": "2026-2028",
     "displayName": "Physics for Future Leaders Laboratory",
     "units": "1",
@@ -37010,7 +37010,7 @@
     "uscpCourse": false
   },
   {
-    "id": "PHY2200L",
+    "id": "PHY 2200L",
     "catalog": "2026-2028",
     "displayName": "Engineering Physics I Laboratory",
     "units": "1",
@@ -37030,7 +37030,7 @@
     "uscpCourse": false
   },
   {
-    "id": "PHY2205L",
+    "id": "PHY 2205L",
     "catalog": "2026-2028",
     "displayName": "Engineering Physics II Laboratory",
     "units": "1",
@@ -37470,7 +37470,7 @@
     "uscpCourse": false
   },
   {
-    "id": "PLSC1120L",
+    "id": "PLSC 1120L",
     "catalog": "2026-2028",
     "displayName": "Principles of Plant Sciences Lab",
     "units": "1",

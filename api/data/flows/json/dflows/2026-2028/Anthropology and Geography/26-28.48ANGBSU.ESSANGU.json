@@ -27,7 +27,7 @@
           "color": "#F8E08E"
         },
         {
-          "id": "GEOG/ERSC 2250",
+          "id": "GEOG 2250",
           "color": "#F8E08E"
         },
         {
@@ -93,7 +93,7 @@
           "color": "#F8E08E"
         },
         {
-          "id": "ANT/GEOG 3384",
+          "id": "ANT 3384",
           "color": "#F8E08E"
         },
         {
@@ -169,7 +169,7 @@
       "tUnits": "14",
       "courses": [
         {
-          "id": "ANT/GEOG 4465",
+          "id": "ANT 4465",
           "color": "#F8E08E"
         },
         {
@@ -214,7 +214,7 @@
           "customId": "Choose One",
           "customUnits": "3",
           "customDesc": "Choose one of the following: GEOG/ERSC 3325, GEOG/ERSC 4414, or GEOG/ERSC 4415.",
-          "customDisplayName": "GEOG/ERSC 3325, GEOG/ERSC 4414, or GEOG/ERSC 4415"
+          "customDisplayName": "GEOG 3325, GEOG/ERSC 4414, or GEOG/ERSC 4415"
         },
         {
           "id": null,
@@ -239,7 +239,7 @@
       "tUnits": "15",
       "courses": [
         {
-          "id": "ANT/GEOG 4455",
+          "id": "ANT 4455",
           "color": "#F8E08E"
         },
         {

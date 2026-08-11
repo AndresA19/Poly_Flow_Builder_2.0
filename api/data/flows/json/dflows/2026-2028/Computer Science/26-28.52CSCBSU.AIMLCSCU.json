@@ -17,11 +17,11 @@
       "tUnits": "14",
       "courses": [
         {
-          "id": "CSC/CPE 1000",
+          "id": "CSC 1000",
           "color": "#F8E08E"
         },
         {
-          "id": "CSC/CPE 1024",
+          "id": "CSC 1024",
           "color": "#F8E08E"
         },
         {
@@ -29,21 +29,19 @@
           "color": "#CAC7A7",
           "customId": "MATH 1261 or MATH 1264",
           "customUnits": "4",
-          "customDesc": "Choose one of the following: MATH 1261 or MATH 1264.",
-          "customDisplayName": "Calculus I or Calculus for Data Science I"
+          "customDesc": "Choose MATH 1261 or MATH 1264."
         },
         {
           "id": null,
           "color": "#CAC7A7",
           "customId": "Life Science Support Elective",
           "customUnits": "4",
-          "customDesc": "See catalog for approved Life Science support elective options."
+          "customDesc": "Choose an approved Life Science Support Elective."
         },
         {
           "id": null,
           "color": "#789F90",
           "customId": "GE 1A",
-          "customDisplayName": "Written Communication",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -56,32 +54,28 @@
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "CSC 1001 and 1001L",
+          "customId": "CSC 1001 and CSC 1001L",
           "customUnits": "4",
-          "customDesc": "Complete CSC 1001 and CSC 1001L.",
-          "customDisplayName": "Fundamentals of Computer Science and Fundamentals of Computer Science Laboratory"
+          "customDesc": "Complete CSC 1001 and CSC 1001L."
         },
         {
           "id": null,
           "color": "#CAC7A7",
           "customId": "CHEM 1120 or PHYS 1141",
           "customUnits": "4",
-          "customDesc": "Choose one of the following: CHEM 1120 or PHYS 1141.",
-          "customDisplayName": "Fundamentals of Chemical Structure and Properties or General Physics I"
+          "customDesc": "Choose CHEM 1120 or PHYS 1141."
         },
         {
           "id": null,
           "color": "#CAC7A7",
           "customId": "MATH 1262 or MATH 1265",
           "customUnits": "4",
-          "customDesc": "Choose one of the following: MATH 1262 or MATH 1265.",
-          "customDisplayName": "Calculus II or Calculus for Data Science II"
+          "customDesc": "Choose MATH 1262 or MATH 1265."
         },
         {
           "id": null,
           "color": "#789F90",
           "customId": "GE 1B",
-          "customDisplayName": "Critical Thinking",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -94,10 +88,9 @@
         {
           "id": null,
           "color": "#F8E08E",
-          "customId": "CSC 2001 and 2001L",
+          "customId": "CSC 2001 and CSC 2001L",
           "customUnits": "4",
-          "customDesc": "Complete CSC 2001 and CSC 2001L.",
-          "customDisplayName": "Data Structures and Data Structures Laboratory"
+          "customDesc": "Complete CSC 2001 and CSC 2001L."
         },
         {
           "id": "MATH 1151",
@@ -107,7 +100,6 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 1C",
-          "customDisplayName": "Oral Communication",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
@@ -115,7 +107,6 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 3A",
-          "customDisplayName": "Arts",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -130,7 +121,7 @@
           "color": "#F8E08E"
         },
         {
-          "id": "CSC/CPE 2050",
+          "id": "CSC 2050",
           "color": "#F8E08E"
         },
         {
@@ -141,7 +132,6 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 3B",
-          "customDisplayName": "Humanities",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
@@ -149,7 +139,133 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 4A",
-          "customDisplayName": "American Institutions",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "CSC 3001",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CSC 3449",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "MATH 2621",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": "STAT 3210",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4B",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "CSC 3100",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CSC 3201",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "DATA 3301",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "PHIL 3323",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 6",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "CSC 4553",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CSC 3300",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "DATA/CSC 4610 or CSC 4667 or CSC 4820 or CSC 4880",
+          "customUnits": "4",
+          "customDesc": "Choose one listed AI/ML course."
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "WGQS 3350 or WGQS 3351",
+          "customUnits": "4",
+          "customDesc": "Choose WGQS 3350 or WGQS 3351."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "CSC 4460 or CSC 4461",
+          "customUnits": "2",
+          "customDesc": "Choose CSC 4460 or CSC 4461."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Elective",
+          "customUnits": "4",
+          "customDesc": "Choose an approved concentration elective."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Concentration Elective",
+          "customUnits": "3-4",
+          "customDesc": "Choose an approved concentration elective."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "External Elective",
+          "customUnits": "2-3",
+          "customDesc": "Choose an approved external elective."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 4",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -160,6 +276,5 @@
   "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
   "publishedId": null,
   "importedId": null,
-  "lastUpdatedUTC": "2026-07-09T00:00:00.000Z"
+  "lastUpdatedUTC": "2026-08-11T00:00:00.000Z"
 }
-

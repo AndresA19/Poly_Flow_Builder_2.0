@@ -12814,7 +12814,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS3384A",
+    "id": "BUS 3384A",
     "prerequisite": [
       ""
     ],
@@ -12864,7 +12864,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS3388A",
+    "id": "BUS 3388A",
     "prerequisite": [
       ""
     ],
@@ -12897,7 +12897,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS3389A",
+    "id": "BUS 3389A",
     "prerequisite": [
       "$SKIP$Entrepreneurship minor"
     ],
@@ -12963,7 +12963,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS3392A",
+    "id": "BUS 3392A",
     "prerequisite": [
       ""
     ],
@@ -12995,7 +12995,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS3393A",
+    "id": "BUS 3393A",
     "prerequisite": [
       ""
     ],
@@ -13027,7 +13027,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS3394A",
+    "id": "BUS 3394A",
     "prerequisite": [
       ""
     ],
@@ -13077,7 +13077,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS3396A",
+    "id": "BUS 3396A",
     "prerequisite": [
       ""
     ],
@@ -13109,7 +13109,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS3399A",
+    "id": "BUS 3399A",
     "prerequisite": [
       ""
     ],
@@ -13452,7 +13452,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4418A",
+    "id": "BUS 4418A",
     "prerequisite": [
       ""
     ],
@@ -13484,7 +13484,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4421A",
+    "id": "BUS 4421A",
     "prerequisite": [
       ""
     ],
@@ -13517,7 +13517,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4423A",
+    "id": "BUS 4423A",
     "prerequisite": [
       ""
     ],
@@ -13732,7 +13732,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4446A",
+    "id": "BUS 4446A",
     "prerequisite": [
       ""
     ],
@@ -13814,7 +13814,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4450A",
+    "id": "BUS 4450A",
     "prerequisite": [
       ""
     ],
@@ -13847,7 +13847,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4451A",
+    "id": "BUS 4451A",
     "prerequisite": [
       ""
     ],
@@ -13880,7 +13880,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4453A",
+    "id": "BUS 4453A",
     "prerequisite": [
       ""
     ],
@@ -13913,7 +13913,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4454A",
+    "id": "BUS 4454A",
     "prerequisite": [
       ""
     ],
@@ -13946,7 +13946,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4455A",
+    "id": "BUS 4455A",
     "prerequisite": [
       ""
     ],
@@ -13979,7 +13979,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4457A",
+    "id": "BUS 4457A",
     "prerequisite": [
       ""
     ],
@@ -14262,7 +14262,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4477A",
+    "id": "BUS 4477A",
     "prerequisite": [
       ""
     ],
@@ -14362,7 +14362,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4489A",
+    "id": "BUS 4489A",
     "prerequisite": [
       ""
     ],
@@ -14460,7 +14460,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "BUS4497A",
+    "id": "BUS 4497A",
     "prerequisite": [
       ""
     ],
@@ -14525,7 +14525,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "CHE1110L",
+    "id": "CHE 1110L",
     "prerequisite": [
       ""
     ],
@@ -14574,7 +14574,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "CHE2210L",
+    "id": "CHE 2210L",
     "prerequisite": [
       "CHE110L CHE1110L"
     ],
@@ -20695,7 +20695,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "CSC1001L",
+    "id": "CSC 1001L",
     "prerequisite": [
       "$SKIP$Appropriate Math Placement",
       "MATH117 MATH118 MATH1004 MATH1006",
@@ -20782,7 +20782,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "CSC2001L",
+    "id": "CSC 2001L",
     "prerequisite": [
       ""
     ],
@@ -22925,7 +22925,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "COM2210L",
+    "id": "COM 2210L",
     "prerequisite": [
       "MTH100 MTH1100",
       "PHY100 PHY1100"
@@ -22943,7 +22943,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "COM2220L",
+    "id": "COM 2220L",
     "prerequisite": [
       ""
     ],
@@ -23578,7 +23578,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "CRU2200L",
+    "id": "CRU 2200L",
     "prerequisite": [
       "DL225 DL2225",
       "DL225L DL2225L",
@@ -24573,7 +24573,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "DAT1108L",
+    "id": "DAT 1108L",
     "prerequisite": [
       "MTH107 MTH1107"
     ],
@@ -24800,7 +24800,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "DATA4011A",
+    "id": "DATA 4011A",
     "prerequisite": [
       ""
     ],
@@ -25062,7 +25062,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "DL1105L",
+    "id": "DL 1105L",
     "prerequisite": [
       "PE101 PE1101 PE102 PE1102",
       "$SKIP$:"
@@ -25080,7 +25080,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "DL1105X",
+    "id": "DL 1105X",
     "prerequisite": [
       ""
     ],
@@ -25166,7 +25166,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "DL2225L",
+    "id": "DL 2225L",
     "prerequisite": [
       ""
     ],
@@ -25200,7 +25200,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "DL2240L",
+    "id": "DL 2240L",
     "prerequisite": [
       "MTH100 MTH1100",
       "PHY100 PHY1100",
@@ -25376,7 +25376,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "DL4405L",
+    "id": "DL 4405L",
     "prerequisite": [
       "$SKIP$Senior Standing"
     ],
@@ -25913,7 +25913,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON3015A",
+    "id": "ECON 3015A",
     "prerequisite": [
       ""
     ],
@@ -26109,7 +26109,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4010A",
+    "id": "ECON 4010A",
     "prerequisite": [
       ""
     ],
@@ -26142,7 +26142,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4011A",
+    "id": "ECON 4011A",
     "prerequisite": [
       ""
     ],
@@ -26174,7 +26174,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4012A",
+    "id": "ECON 4012A",
     "prerequisite": [
       ""
     ],
@@ -26207,7 +26207,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4013A",
+    "id": "ECON 4013A",
     "prerequisite": [
       ""
     ],
@@ -26239,7 +26239,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4021A",
+    "id": "ECON 4021A",
     "prerequisite": [
       ""
     ],
@@ -26271,7 +26271,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4024A",
+    "id": "ECON 4024A",
     "prerequisite": [
       ""
     ],
@@ -26306,7 +26306,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4025A",
+    "id": "ECON 4025A",
     "prerequisite": [
       ""
     ],
@@ -26338,7 +26338,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4031A",
+    "id": "ECON 4031A",
     "prerequisite": [
       ""
     ],
@@ -26370,7 +26370,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4042A",
+    "id": "ECON 4042A",
     "prerequisite": [
       ""
     ],
@@ -26402,7 +26402,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4043A",
+    "id": "ECON 4043A",
     "prerequisite": [
       ""
     ],
@@ -26434,7 +26434,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4052A",
+    "id": "ECON 4052A",
     "prerequisite": [
       ""
     ],
@@ -26466,7 +26466,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4053A",
+    "id": "ECON 4053A",
     "prerequisite": [
       ""
     ],
@@ -26514,7 +26514,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4055A",
+    "id": "ECON 4055A",
     "prerequisite": [
       ""
     ],
@@ -26546,7 +26546,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4061A",
+    "id": "ECON 4061A",
     "prerequisite": [
       ""
     ],
@@ -26595,7 +26595,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4071A",
+    "id": "ECON 4071A",
     "prerequisite": [
       ""
     ],
@@ -26627,7 +26627,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4072A",
+    "id": "ECON 4072A",
     "prerequisite": [
       ""
     ],
@@ -26659,7 +26659,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ECON4073A",
+    "id": "ECON 4073A",
     "prerequisite": [
       ""
     ],
@@ -27769,7 +27769,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE1111L",
+    "id": "EE 1111L",
     "prerequisite": [
       ""
     ],
@@ -27801,7 +27801,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE2115L",
+    "id": "EE 2115L",
     "prerequisite": [
       ""
     ],
@@ -28005,7 +28005,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE3255L",
+    "id": "EE 3255L",
     "prerequisite": [
       ""
     ],
@@ -28037,7 +28037,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE3302L",
+    "id": "EE 3302L",
     "prerequisite": [
       ""
     ],
@@ -28069,7 +28069,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE3306L",
+    "id": "EE 3306L",
     "prerequisite": [
       ""
     ],
@@ -28103,7 +28103,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE3308L",
+    "id": "EE 3308L",
     "prerequisite": [
       ""
     ],
@@ -28171,7 +28171,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE3335L",
+    "id": "EE 3335L",
     "prerequisite": [
       ""
     ],
@@ -28204,7 +28204,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE4314L",
+    "id": "EE 4314L",
     "prerequisite": [
       ""
     ],
@@ -28352,7 +28352,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE4418L",
+    "id": "EE 4418L",
     "prerequisite": [
       ""
     ],
@@ -28435,7 +28435,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE4425L",
+    "id": "EE 4425L",
     "prerequisite": [
       ""
     ],
@@ -28532,7 +28532,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EE4440L",
+    "id": "EE 4440L",
     "prerequisite": [
       ""
     ],
@@ -29511,7 +29511,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ENG1120L",
+    "id": "ENG 1120L",
     "prerequisite": [
       ""
     ],
@@ -29560,7 +29560,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ENG2250L",
+    "id": "ENG 2250L",
     "prerequisite": [
       "PHY205 PHY2205"
     ],
@@ -30106,7 +30106,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EPO1125L",
+    "id": "EPO 1125L",
     "prerequisite": [
       ""
     ],
@@ -30218,7 +30218,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EPO2220L",
+    "id": "EPO 2220L",
     "prerequisite": [
       ""
     ],
@@ -30364,7 +30364,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "EPO3322L",
+    "id": "EPO 3322L",
     "prerequisite": [
       "EPO220 EPO2220"
     ],
@@ -30463,7 +30463,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET2230L",
+    "id": "ET 2230L",
     "prerequisite": [
       "CHE110 CHE1110",
       "CHE110L CHE1110L",
@@ -30517,7 +30517,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET2250L",
+    "id": "ET 2250L",
     "prerequisite": [
       "MTH211 MTH2211",
       "PHY205 PHY2205"
@@ -30585,7 +30585,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET3340L",
+    "id": "ET 3340L",
     "prerequisite": [
       "MTH211 MTH2211",
       "PHY205 PHY2205"
@@ -30619,7 +30619,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET3342L",
+    "id": "ET 3342L",
     "prerequisite": [
       "ET344 ET3344"
     ],
@@ -30669,7 +30669,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET3350L",
+    "id": "ET 3350L",
     "prerequisite": [
       ""
     ],
@@ -30704,7 +30704,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET3370L",
+    "id": "ET 3370L",
     "prerequisite": [
       "COM220L COM2220L",
       "ET250 ET2250",
@@ -30740,7 +30740,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET4400L",
+    "id": "ET 4400L",
     "prerequisite": [
       "ET370 ET3370",
       "ET370L ET3370L"
@@ -30774,7 +30774,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET4442L",
+    "id": "ET 4442L",
     "prerequisite": [
       "ET342 ET3342",
       "ET342L ET3342L"
@@ -30808,7 +30808,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET4460L",
+    "id": "ET 4460L",
     "prerequisite": [
       "ET400 ET4400",
       "ET400L ET4400L"
@@ -30860,7 +30860,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ET4490L",
+    "id": "ET 4490L",
     "prerequisite": [
       "ET344 ET3344",
       "ET350 ET3350",
@@ -39274,7 +39274,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "GMA4460L",
+    "id": "GMA 4460L",
     "prerequisite": [
       ""
     ],
@@ -54466,7 +54466,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME3339L",
+    "id": "ME 3339L",
     "prerequisite": [
       ""
     ],
@@ -54589,7 +54589,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME3349L",
+    "id": "ME 3349L",
     "prerequisite": [
       ""
     ],
@@ -54622,7 +54622,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME3350L",
+    "id": "ME 3350L",
     "prerequisite": [
       "ENG250 ENG2250",
       "ENG250L ENG2250L"
@@ -54673,7 +54673,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME3360L",
+    "id": "ME 3360L",
     "prerequisite": [
       "ENG210 ENG2210",
       "ENG250 ENG2250",
@@ -55083,7 +55083,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME4436L",
+    "id": "ME 4436L",
     "prerequisite": [
       "ENG250 ENG2250",
       "ME330 ME3330"
@@ -55403,7 +55403,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME4459L",
+    "id": "ME 4459L",
     "prerequisite": [
       "ME360 ME3360",
       "ME360L ME3360L",
@@ -55477,7 +55477,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME4462L",
+    "id": "ME 4462L",
     "prerequisite": [
       "ENG112 ENG1112",
       "ME332 ME3332",
@@ -55645,7 +55645,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME4492L",
+    "id": "ME 4492L",
     "prerequisite": [
       "ME490 ME4490"
     ],
@@ -55677,7 +55677,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "ME4494L",
+    "id": "ME 4494L",
     "prerequisite": [
       "ME492 ME4492"
     ],
@@ -59419,7 +59419,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "NAU1102L",
+    "id": "NAU 1102L",
     "prerequisite": [
       ""
     ],
@@ -59601,7 +59601,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "NAU2240L",
+    "id": "NAU 2240L",
     "prerequisite": [
       "MTH100 MTH1100",
       "PHY100 PHY1100",
@@ -59636,7 +59636,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "NAU3300L",
+    "id": "NAU 3300L",
     "prerequisite": [
       ""
     ],
@@ -59669,7 +59669,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "NAU3302L",
+    "id": "NAU 3302L",
     "prerequisite": [
       ""
     ],
@@ -59759,7 +59759,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "NAU3335L",
+    "id": "NAU 3335L",
     "prerequisite": [
       "DL225 DL2225",
       "DL225L DL2225L",
@@ -59834,7 +59834,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "NAU4410L",
+    "id": "NAU 4410L",
     "prerequisite": [
       "NAU205 NAU2205",
       "$SKIP$Senior Standing:",
@@ -59907,7 +59907,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "NAU4430L",
+    "id": "NAU 4430L",
     "prerequisite": [
       "NAU320 NAU3320",
       "CRU350 CRU3350@ENG430 ENG4430"
@@ -60550,7 +60550,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "OCN1100L",
+    "id": "OCN 1100L",
     "prerequisite": [
       ""
     ],
@@ -60598,7 +60598,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "OCN1110L",
+    "id": "OCN 1110L",
     "prerequisite": [
       ""
     ],
@@ -60646,7 +60646,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "OCN2200L",
+    "id": "OCN 2200L",
     "prerequisite": [
       ""
     ],
@@ -60678,7 +60678,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "OCN2210L",
+    "id": "OCN 2210L",
     "prerequisite": [
       ""
     ],
@@ -60760,7 +60760,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "OCN3310L",
+    "id": "OCN 3310L",
     "prerequisite": [
       "OCN200 OCN2200",
       "OCN210 OCN2210"
@@ -60880,7 +60880,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "OCN3380L",
+    "id": "OCN 3380L",
     "prerequisite": [
       "OCN305 OCN3305"
     ],
@@ -62518,7 +62518,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "PHY1100L",
+    "id": "PHY 1100L",
     "prerequisite": [
       "MTH100 MTH1100"
     ],
@@ -62550,7 +62550,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "PHY1105L",
+    "id": "PHY 1105L",
     "prerequisite": [
       "PHY100 PHY1100",
       "PHY100L PHY1100L"
@@ -62583,7 +62583,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "PHY1120L",
+    "id": "PHY 1120L",
     "prerequisite": [
       ""
     ],
@@ -62615,7 +62615,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "PHY2200L",
+    "id": "PHY 2200L",
     "prerequisite": [
       "MTH210 MTH2210"
     ],
@@ -62648,7 +62648,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "PHY2205L",
+    "id": "PHY 2205L",
     "prerequisite": [
       "MTH211 MTH2211"
     ],
@@ -63398,7 +63398,7 @@
   },
   {
     "catalog": "2026-2028",
-    "id": "PLSC1120L",
+    "id": "PLSC 1120L",
     "prerequisite": [
       ""
     ],

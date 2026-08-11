@@ -47,7 +47,7 @@
       "tUnits": "18",
       "courses": [
         {
-          "id": "ENVE/CE 1112",
+          "id": "ENVE 1112",
           "color": "#F8E08E"
         },
         {
@@ -85,7 +85,7 @@
           "color": "#F8E08E"
         },
         {
-          "id": "MCRT 2221",
+          "id": "MCRO 2221",
           "color": "#CAC7A7"
         },
         {
@@ -111,7 +111,7 @@
       "tUnits": "15",
       "courses": [
         {
-          "id": "ENVE/CE 2251",
+          "id": "ENVE 2251",
           "color": "#F8E08E"
         },
         {
@@ -141,7 +141,7 @@
       "tUnits": "17",
       "courses": [
         {
-          "id": "ENVE/CE 3336",
+          "id": "ENVE 3336",
           "color": "#F8E08E"
         },
         {
@@ -175,7 +175,7 @@
       "tUnits": "18",
       "courses": [
         {
-          "id": "ENVE/CE 3337",
+          "id": "ENVE 3337",
           "color": "#F8E08E"
         },
         {

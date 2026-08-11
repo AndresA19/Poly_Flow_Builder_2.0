@@ -36,7 +36,6 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE 1A",
-          "customDisplayName": "Written Communication",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -55,14 +54,13 @@
           "color": "#CAC7A7"
         },
         {
-          "id": "MATH 1005",
+          "id": "MATH 1006",
           "color": "#CAC7A7"
         },
         {
           "id": null,
           "color": "#789F90",
           "customId": "GE 1C",
-          "customDisplayName": "Oral Communication",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -82,16 +80,15 @@
         },
         {
           "id": null,
-          "color": "#F8E08E",
+          "color": "#A4D65E",
           "customId": "Approved Elective",
           "customUnits": "3",
-          "customDesc": "See catalog for approved elective options."
+          "customDesc": "Choose an approved Dairy Science elective from the catalog. If a course is used to meet a Major or Support requirement, it cannot be double-counted as an Approved Elective."
         },
         {
           "id": null,
           "color": "#789F90",
           "customId": "GE 1B",
-          "customDisplayName": "Critical Thinking",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
@@ -99,7 +96,6 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         }
@@ -114,6 +110,48 @@
           "color": "#F8E08E"
         },
         {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved Dairy Science elective from the catalog. If a course is used to meet a Major or Support requirement, it cannot be double-counted as an Approved Elective."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ASCI 3340",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ASCI 3355",
+          "color": "#F8E08E"
+        },
+        {
           "id": "DSCI 3321",
           "color": "#F8E08E"
         },
@@ -121,7 +159,6 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
         },
@@ -129,17 +166,121 @@
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ASCI 3302",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ASCI 3363",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "DSCI 3330",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "DSCI 3344",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved Dairy Science elective from the catalog. If a course is used to meet a Major or Support requirement, it cannot be double-counted as an Approved Elective."
         },
         {
           "id": null,
           "color": "#789F90",
           "customId": "GE",
-          "customDisplayName": "",
           "customUnits": "3",
           "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "DSCI 4432",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Upper-Division DSCI Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved upper-division DSCI elective from the Dairy Science catalog."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved Dairy Science elective from the catalog. If a course is used to meet a Major or Support requirement, it cannot be double-counted as an Approved Elective."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "4",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "14",
+      "courses": [
+        {
+          "id": "DSCI 4422",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#F8E08E",
+          "customId": "ASCI 4477 or ASCI 4478 or ASCI 4479",
+          "customUnits": "2",
+          "customDesc": "Choose ASCI 4477, ASCI 4478, or ASCI 4479.",
+          "customDisplayName": "Senior Project"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Upper-Division DSCI Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved upper-division DSCI elective from the Dairy Science catalog."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved Dairy Science elective from the catalog. If a course is used to meet a Major or Support requirement, it cannot be double-counted as an Approved Elective."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "Choose an approved Dairy Science elective from the catalog. If a course is used to meet a Major or Support requirement, it cannot be double-counted as an Approved Elective."
         }
       ]
     }
@@ -148,6 +289,5 @@
   "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
   "publishedId": null,
   "importedId": null,
-  "lastUpdatedUTC": "2026-07-09T00:00:00.000Z"
+  "lastUpdatedUTC": "2026-08-11T00:00:00.000Z"
 }
-
