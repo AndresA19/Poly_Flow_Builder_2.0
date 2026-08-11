@@ -1,0 +1,296 @@
+{
+  "id": "11111111-1111-1111-1111-111111111111",
+  "ownerId": "11111111-1111-1111-1111-111111111111",
+  "name": "26-28.40ITPBSU.PKGITPU",
+  "programId": ["c72e16a4-93f8-45db-a521-87039b6d24ec"],
+  "startYear": "2026",
+  "unitTotal": "120",
+  "notes": "",
+  "termData": [
+    {
+      "tIndex": -1,
+      "tUnits": "0",
+      "courses": []
+    },
+    {
+      "tIndex": 1,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": "ITP 1100",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ITP 1125",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "MATH 1261 or MATH 1267 and MATH 1277",
+          "customUnits": "4",
+          "customDesc": "Choose MATH 1261, or complete both MATH 1267 and MATH 1277.",
+          "customDisplayName": "Calculus I or Business Calculus and Business Calculus Workshop"
+        },
+        {
+          "id": "PHYS 1121",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1A",
+          "customDisplayName": "Written Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 2,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ITP 1150",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ITP 2233",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "CHEM 1120",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#CAC7A7",
+          "customId": "STAT 1110 or STAT 1210",
+          "customUnits": "3",
+          "customDesc": "Choose STAT 1110 or STAT 1210.",
+          "customDisplayName": "Applied Statistical Concepts and Methods or Business Statistics I"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1C",
+          "customDisplayName": "Oral Communication",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 4,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ITP 2234",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "ITP 3330",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ITP 3371",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ECON 2001",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 1B",
+          "customDisplayName": "Critical Thinking",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 5,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ITP 3303",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ITP 3326",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ITP 3334",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "BUS 3391",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3A",
+          "customDisplayName": "Arts",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 7,
+      "tUnits": "17",
+      "courses": [
+        {
+          "id": "ITP 2241",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "ITP 4409",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "BUS 3346",
+          "color": "#CAC7A7"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 4A",
+          "customDisplayName": "American Institutions",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 6",
+          "customDisplayName": "Ethnic Studies",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "2-3",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    },
+    {
+      "tIndex": 8,
+      "tUnits": "15",
+      "courses": [
+        {
+          "id": "ITP 3341",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ITP 4408",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "ITP 4475",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 3B",
+          "customDisplayName": "Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE 5B",
+          "customDisplayName": "Life Science",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 10,
+      "tUnits": "16",
+      "courses": [
+        {
+          "id": "ITP 4411",
+          "color": "#F8E08E"
+        },
+        {
+          "id": "ITP 4498",
+          "color": "#A4D65E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3",
+          "customDesc": "See catalog for approved concentration elective options. Units in excess of the listed total apply toward free electives."
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3-4",
+          "customDesc": "See catalog for approved concentration elective options. Units in excess of the listed total apply toward free electives."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 3",
+          "customDisplayName": "Upper-Division Arts and Humanities",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        }
+      ]
+    },
+    {
+      "tIndex": 11,
+      "tUnits": "13",
+      "courses": [
+        {
+          "id": "ITP 4430",
+          "color": "#A4D65E"
+        },
+        {
+          "id": "ITP 4464",
+          "color": "#F8E08E"
+        },
+        {
+          "id": null,
+          "color": "#A4D65E",
+          "customId": "Approved Elective",
+          "customUnits": "3-4",
+          "customDesc": "See catalog for approved concentration elective options. Units in excess of the listed total apply toward free electives."
+        },
+        {
+          "id": null,
+          "color": "#789F90",
+          "customId": "GE UD 4",
+          "customDisplayName": "Upper-Division Social and Behavioral Sciences",
+          "customUnits": "3",
+          "customDesc": "GE Area 1: English Communication and Critical Thinking\r\nGE Area 2: Mathematics and Quantitative Reasoning\r\nGE Area 3: Arts and Humanities\r\nGE Area 4: Social and Behavioral Sciences\r\nGE Area 5: Physical and Life Sciences\r\nGE Area 6: Ethnic Studies.\r\n\r\nRefer to current catalog for course requirements."
+        },
+        {
+          "id": null,
+          "color": "#D4FFFE",
+          "customId": "Free Elective",
+          "customUnits": "0-2",
+          "customDesc": "If a GE course is used to satisfy a Major or Support requirement, additional units of Free Electives may be needed to complete the total units required for the degree."
+        }
+      ]
+    }
+  ],
+  "version": 7,
+  "hash": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "publishedId": null,
+  "importedId": null,
+  "lastUpdatedUTC": "2026-08-10T00:00:00.000Z"
+}

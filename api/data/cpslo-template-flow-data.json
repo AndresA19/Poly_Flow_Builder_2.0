@@ -833,6 +833,22 @@
             "dataLink": "liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
         },
         {
+            "id": "d1e2f3a4-5b6c-7d8e-9f0a-1b2c3d4e5f6g",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Immersive Experience Design",
+            "code": "26-28.48GRCBSU.IEDGRCU",
+            "dataLink": "liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "e1f2c3d4-5b6a-7c8d-9e0f-1a2b3c4d5e6f",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.48GRCBSU.ICSGRCU",
+            "dataLink": "liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
             "id": "ecd9b88f-ef41-4a2c-a76a-9c265b1c50db",
             "catalog": "2026-2028",
             "majorName": "Graphic Communication",
@@ -881,20 +897,68 @@
             "dataLink": "engineering/industrial-manufacturing-engineering/industrial-engineering-bs/industrial-engineering-bs_planofstudytext.pdf"
         },
         {
+            "id": "4a91d873-6c12-4b87-9a31-582c746e03fd",
+            "catalog": "2026-2028",
+            "majorName": "Industrial Technology and Packaging",
+            "concName": "Industrial Technology",
+            "code": "26-28.40ITPBSU.ITITPU",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/industrial-technology-packaging-bs/industrial-technology-packaging-bs_requirementstext.pdf"
+        },
+        {
+            "id": "c72e16a4-93f8-45db-a521-87039b6d24ec",
+            "catalog": "2026-2028",
+            "majorName": "Industrial Technology and Packaging",
+            "concName": "Packaging",
+            "code": "26-28.40ITPBSU.PKGITPU",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/industrial-technology-packaging-bs/industrial-technology-packaging-bs_requirementstext.pdf"
+        },
+        {
             "id": "090d243b-ee43-4a8a-bc0e-418a8e7923fd",
             "catalog": "2026-2028",
             "majorName": "Industrial Technology and Packaging",
-            "concName": "Not Applicable For This Major",
-            "code": "26-28.40ITPBSU",
+            "concName": "Concentration Not Yet Declared",
+            "code": "26-28.40ITPBSU.EMPH-",
             "dataLink": "business/undergraduate/industrial-technology-packaging-bs/industrial-technology-packaging-bs_planofstudytext.pdf"
         },
         {
-            "id": "1a9f0f9d-0e5e-4467-b5ca-7226c65c14b2",
+            "id": "f1e2c3d4-5b6a-7c8d-9e0f-1a2b3c4d5e6f",
             "catalog": "2026-2028",
             "majorName": "Interdisciplinary Studies",
-            "concName": "Not Applicable For This Major",
-            "code": "26-28.48ISBAU",
-            "dataLink": "liberal-arts/interdisciplinary-studies-liberal-arts/interdisciplinary-studies-ba/interdisciplinary-studies-ba_planofstudytext.pdf"
+            "concName": "Science, Technology, and Society",
+            "code": "26-28.48ISBAU.STSISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
+        },
+        {
+            "id": "7c41d4d2-33c8-4de7-a393-1df381237832",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Ethics, Law, and Social Justice",
+            "code": "26-28.48ISBAU.ELSJISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
+        },
+        {
+            "id": "efb2e149-5b9e-4279-bba7-2d920c87173d",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Global Citizenship and Social Sustainability",
+            "code": "26-28.48ISBAU.GCSSISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
+        },
+        {
+            "id": "84126f7e-3791-46bf-9664-af39e02cbac2",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Health and Society",
+            "code": "26-28.48ISBAU.HSOISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
+        },
+        {
+            "id": "ce58bab1-5e10-47cc-99da-f94c1f23a469",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Visual, Media, and Cultural Studies",
+            "code": "26-28.48ISBAU.VMCSISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
         },
         {
             "id": "ba68a53a-0e58-4672-a69f-ac620164f90a",
@@ -2387,6 +2451,22 @@
             "dataLink": "https://catalog.calpoly.edu/liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_requirementstext.pdf"
         },
         {
+            "id": "d1e2f3a4-5b6c-7d8e-9f0a-1b2c3d4e5f6g",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Immersive Experience Design",
+            "code": "26-28.48GRCBSU.IEDGRCU",
+            "dataLink": "liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "e1f2c3d4-5b6a-7c8d-9e0f-1a2b3c4d5e6f",
+            "catalog": "2026-2028",
+            "majorName": "Graphic Communication",
+            "concName": "Individualized Course of Study",
+            "code": "26-28.48GRCBSU.ICSGRCU",
+            "dataLink": "liberal-arts/graphic-communication/graphic-communication-bs/graphic-communication-bs_planofstudytext.pdf"
+        },
+        {
             "id": "ecd9b88f-ef41-4a2c-a76a-9c265b1c50db",
             "catalog": "2026-2028",
             "majorName": "Graphic Communication",
@@ -2435,20 +2515,68 @@
             "dataLink": "https://catalog.calpoly.edu/engineering/industrial-manufacturing-engineering/industrial-engineering-bs/industrial-engineering-bs_requirementstext.pdf"
         },
         {
-            "id": "090d243b-ee43-4a8a-bc0e-418a8e7923fd",
+            "id": "4a91d873-6c12-4b87-9a31-582c746e03fd",
             "catalog": "2026-2028",
             "majorName": "Industrial Technology and Packaging",
-            "concName": "Not Applicable For This Major",
-            "code": "26-28.40ITPBSU",
+            "concName": "Industrial Technology",
+            "code": "26-28.40ITPBSU.ITITPU",
             "dataLink": "https://catalog.calpoly.edu/business/undergraduate/industrial-technology-packaging-bs/industrial-technology-packaging-bs_requirementstext.pdf"
         },
         {
-            "id": "1a9f0f9d-0e5e-4467-b5ca-7226c65c14b2",
+            "id": "c72e16a4-93f8-45db-a521-87039b6d24ec",
+            "catalog": "2026-2028",
+            "majorName": "Industrial Technology and Packaging",
+            "concName": "Packaging",
+            "code": "26-28.40ITPBSU.PKGITPU",
+            "dataLink": "https://catalog.calpoly.edu/business/undergraduate/industrial-technology-packaging-bs/industrial-technology-packaging-bs_requirementstext.pdf"
+        },
+        {
+            "id": "090d243b-ee43-4a8a-bc0e-418a8e7923fd",
+            "catalog": "2026-2028",
+            "majorName": "Industrial Technology and Packaging",
+            "concName": "Concentration Not Yet Declared",
+            "code": "26-28.40ITPBSU.EMPH-",
+            "dataLink": "business/undergraduate/industrial-technology-packaging-bs/industrial-technology-packaging-bs_planofstudytext.pdf"
+        },
+        {
+            "id": "f1e2c3d4-5b6a-7c8d-9e0f-1a2b3c4d5e6f",
             "catalog": "2026-2028",
             "majorName": "Interdisciplinary Studies",
-            "concName": "Not Applicable For This Major",
-            "code": "26-28.48ISBAU",
-            "dataLink": "https://catalog.calpoly.edu/liberal-arts/interdisciplinary-studies-liberal-arts/interdisciplinary-studies-ba/interdisciplinary-studies-ba_requirementstext.pdf"
+            "concName": "Science, Technology, and Society",
+            "code": "26-28.48ISBAU.STSISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
+        },
+        {
+            "id": "7c41d4d2-33c8-4de7-a393-1df381237832",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Ethics, Law, and Social Justice",
+            "code": "26-28.48ISBAU.ELSJISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
+        },
+        {
+            "id": "efb2e149-5b9e-4279-bba7-2d920c87173d",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Global Citizenship and Social Sustainability",
+            "code": "26-28.48ISBAU.GCSSISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
+        },
+        {
+            "id": "84126f7e-3791-46bf-9664-af39e02cbac2",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Health and Society",
+            "code": "26-28.48ISBAU.HSOISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
+        },
+        {
+            "id": "ce58bab1-5e10-47cc-99da-f94c1f23a469",
+            "catalog": "2026-2028",
+            "majorName": "Interdisciplinary Studies",
+            "concName": "Visual, Media, and Cultural Studies",
+            "code": "26-28.48ISBAU.VMCSISU",
+            "dataLink": "liberal-arts/interdisciplinary-studies/interdisciplinary-studies-ba/"
         },
         {
             "id": "ba68a53a-0e58-4672-a69f-ac620164f90a",
