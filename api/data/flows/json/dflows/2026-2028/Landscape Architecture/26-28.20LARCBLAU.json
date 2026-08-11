@@ -219,7 +219,7 @@
           "color": "#A4D65E",
           "customId": "Designated Elective",
           "customUnits": "3-4",
-          "customDesc": "Choose from approved Designated Electives: ARCH 1121, CRP 1222, DATA 1000, SS 1120, STAT 1110, BIO 2215, BIO 2217, CM 2239, GEOL 2240, BOT 3311, BOT 3326, BRAE 3340, COMS 3316, ES 3360, GEOG 3325, NR 3310, NR 3349, or PLSC 3334."
+          "customDesc": "Check the current catalog for approved Designated Electives."
         }
       ]
     },
@@ -299,7 +299,7 @@
           "customId": "LA 4414 or LA 4415 or LA 4416 or LA 4417 or LA 4418",
           "customUnits": "3",
           "customDesc": "Choose LA 4414, LA 4415, LA 4416, LA 4417, or LA 4418.",
-          "customDisplayName": "Advanced Landscape Construction or Advanced Landscape Representation or Advanced Planting Design or Social and Behavioral Factors for Landscape Architecture or Contemporary Issues in Landscape Architecture"
+          "customDisplayName": "Advanced Landscape"
         },
         {
           "id": "LA 4462",

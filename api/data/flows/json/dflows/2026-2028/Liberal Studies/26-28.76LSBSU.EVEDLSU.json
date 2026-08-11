@@ -162,7 +162,7 @@
           "customId": "PHIL 2230 or PHIL 2231",
           "customUnits": "3",
           "customDesc": "Choose PHIL 2230 or PHIL 2231.",
-          "customDisplayName": "Philosophical Classics: Knowledge and Reality or Philosophical Classics: Ethics and Political Philosophy"
+          "customDisplayName": "Philosophical Classics"
         },
         {
           "id": null,
@@ -212,7 +212,7 @@
           "customId": "LS 4411 or LS 4412 or LS 4413",
           "customUnits": "3",
           "customDesc": "Choose LS 4411, LS 4412, or LS 4413.",
-          "customDisplayName": "Advanced History/Social Sciences Integration for the K-8 Classroom or Advanced Arts Integration for the K-8 Classroom or Advanced Science/Engineering Integration for the K-8 Classroom"
+          "customDisplayName": "Advanced History/Social Sciences Integration"
         },
         {
           "id": "EDUC 4427",
