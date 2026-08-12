@@ -10,9 +10,9 @@ Beta versions of the application are deployed on the [beta website](https://beta
 
 ## History
 
-Meant as a replacement to the now-gone PolyFlows (see a [Wayback Machine snapshot](https://web.archive.org/web/20191017041519/http://polyflows.com/)), PolyFlowBuilder was initially written by [@AGuyWhoIsBored](#maintainers) during the Summer of 2020. It is meant to be more up-to-date, more robust, more active, and aims to make course planning at Cal Poly SLO as efficient and productive as possible.
+Meant as a replacement to the now-gone PolyFlows (see a [Wayback Machine snapshot](https://web.archive.org/web/20191017041519/http://polyflows.com/)), PolyFlowBuilder was initially written by [@AGuyWhoIsBored](#maintainers) during the Summer of 2020. Then continued by [@thebrowniekng](#maintainers) during the summer of 2026. It is meant to be more up-to-date, more robust, more active, and aims to make course planning at Cal Poly SLO as efficient and productive as possible.
 
-PolyFlowBuilder was rewritten during the 2022-2023 academic year at Cal Poly as a senior project to allow the project to grow, scale, and to be more organized for future maintenance. See the final senior project report [here](https://digitalcommons.calpoly.edu/cpesp/344/). However, since Cal Poly changed from quarter to semester system, PolyFlowBuilder is officially rewritten again with the new classes.
+PolyFlowBuilder was rewritten during the 2022-2023 academic year at Cal Poly as a senior project to allow the project to grow, scale, and to be more organized for future maintenance. See the final senior project report [here](https://digitalcommons.calpoly.edu/cpesp/344/). However, since Cal Poly changed from quarter to semester system, PolyFlowBuilder is officially rewritten again in 2026 with the new semester classes.
 
 Since August 20, 2023, PolyFlowBuilder has been open source to ensure the vision of the project continues and does not become deprecated like its predecessor PolyFlows.
 
