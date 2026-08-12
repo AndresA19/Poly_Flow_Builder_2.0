@@ -12,14 +12,14 @@ Beta versions of the application are deployed on the [beta website](https://beta
 
 Meant as a replacement to the now-gone PolyFlows (see a [Wayback Machine snapshot](https://web.archive.org/web/20191017041519/http://polyflows.com/)), PolyFlowBuilder was initially written by [@AGuyWhoIsBored](#maintainers) during the Summer of 2020. It is meant to be more up-to-date, more robust, more active, and aims to make course planning at Cal Poly SLO as efficient and productive as possible.
 
-PolyFlowBuilder was rewritten during the 2022-2023 academic year at Cal Poly as a senior project to allow the project to grow, scale, and to be more organized for future maintenance. See the final senior project report [here](https://digitalcommons.calpoly.edu/cpesp/344/).
+PolyFlowBuilder was rewritten during the 2022-2023 academic year at Cal Poly as a senior project to allow the project to grow, scale, and to be more organized for future maintenance. See the final senior project report [here](https://digitalcommons.calpoly.edu/cpesp/344/). However, since Cal Poly changed from quarter to semester system, PolyFlowBuilder is officially rewritten again with the new classes.
 
 Since August 20, 2023, PolyFlowBuilder has been open source to ensure the vision of the project continues and does not become deprecated like its predecessor PolyFlows.
 
 ## Main Features
 
 - Can create flowcharts with a specified catalog year, starting year, major, and concentration (if applicable), and it will auto-populate with the respective flowchart (if it's available)
-- Default flowchart templates are available for the 2015-2017 catalog all the way up to the 2022-2026 catalog
+- Default flowchart templates are available for the 2026-2028
 - Drag-and-drop interface for managing individual courses on your flowchart
 - Each class contains information about its catalog description, unit count, and prerequisites (if any)
 - Can color your classes with specific and custom colors (designating major classes, support classes, GEs, etc...)
@@ -57,7 +57,6 @@ These components are likely to be separated into their own repositories in the f
 Some major features planned for the future of PolyFlowBuilder (in no particular order) are:
 
 - Multiple major/minor support
-- Quarter-to-Semester (Q2S) transition support
 - Flowchart Marketplace
 - Improved PDF Exports
 - More Advanced Validation Suites
@@ -99,3 +98,4 @@ For support with PolyFlowBuilder features, issues, concerns, or anything else re
 ## Maintainers
 
 - @AGuyWhoIsBored ([Bitbucket](https://bitbucket.org/AGuyWhoIsBored), [GitHub](https://github.com/AGuyWhoIsBored), [LinkedIn](https://linkedin.com/in/dapplegarth))
+- @thebrowniekng ([GitHub](https://github.com/AndresA19), [LinkedIn](www.linkedin.com/in/andres-arias-b3b93b3a4)
