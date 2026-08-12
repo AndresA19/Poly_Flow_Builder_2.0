@@ -98,4 +98,4 @@ For support with PolyFlowBuilder features, issues, concerns, or anything else re
 ## Maintainers
 
 - @AGuyWhoIsBored ([Bitbucket](https://bitbucket.org/AGuyWhoIsBored), [GitHub](https://github.com/AGuyWhoIsBored), [LinkedIn](https://linkedin.com/in/dapplegarth))
-- @thebrowniekng ([GitHub](https://github.com/AndresA19), [LinkedIn](www.linkedin.com/in/andres-arias-b3b93b3a4)
+- @thebrowniekng ([GitHub](https://github.com/AndresA19), [LinkedIn](www.linkedin.com/in/andres-arias-b3b93b3a4))
