@@ -24,7 +24,7 @@
           "customDesc": "Choose one of the listed introductory production courses."
         },
         {
-          "id": "TH 1231",
+          "id": "TH 2201",
           "color": "#F8E08E"
         },
         {
@@ -36,7 +36,7 @@
           "customDisplayName": "Theatre History I or Theatre History II"
         },
         {
-          "id": "TH 2202",
+          "id": "TH 2290",
           "color": "#F8E08E"
         },
         {
@@ -62,15 +62,15 @@
       "tUnits": "15",
       "courses": [
         {
-          "id": "TH 2020",
+          "id": "TH 2220",
           "color": "#F8E08E"
         },
         {
-          "id": "TH 2026",
+          "id": "TH 2225",
           "color": "#F8E08E"
         },
         {
-          "id": "TH 2206",
+          "id": "TH 2295",
           "color": "#F8E08E"
         },
         {
@@ -96,7 +96,7 @@
       "tUnits": "16",
       "courses": [
         {
-          "id": "TH 2220",
+          "id": "TH 2230",
           "color": "#F8E08E"
         },
         {
@@ -189,7 +189,7 @@
       "tUnits": "15",
       "courses": [
         {
-          "id": "TH 3315",
+          "id": "TH 3305",
           "color": "#F8E08E"
         },
         {
@@ -228,7 +228,7 @@
       "tUnits": "14",
       "courses": [
         {
-          "id": "ENGL 3310",
+          "id": "ENGL 3339",
           "color": "#F8E08E"
         },
         {
@@ -267,7 +267,7 @@
       "tUnits": "18",
       "courses": [
         {
-          "id": "TH 4446",
+          "id": "TH 4450",
           "color": "#F8E08E"
         },
         {

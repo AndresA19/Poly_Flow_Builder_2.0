@@ -17,7 +17,7 @@
       "tUnits": "16",
       "courses": [
         {
-          "id": "DATA/STAT 1000",
+          "id": "STAT 1000",
           "color": "#F8E08E"
         },
         {
@@ -25,7 +25,7 @@
           "color": "#F8E08E"
         },
         {
-          "id": "MATH/DATA 1264",
+          "id": "MATH 1264",
           "color": "#CAC7A7"
         },
         {
@@ -51,15 +51,15 @@
       "tUnits": "17",
       "courses": [
         {
-          "id": "DATA/STAT 1810",
+          "id": "STAT 1810",
           "color": "#F8E08E"
         },
         {
-          "id": "STAT 2620",
+          "id": "STAT 3520",
           "color": "#F8E08E"
         },
         {
-          "id": "MATH/DATA 1265",
+          "id": "MATH 1265",
           "color": "#CAC7A7"
         },
         {
@@ -93,11 +93,11 @@
       "tUnits": "16",
       "courses": [
         {
-          "id": "STAT 3340",
+          "id": "STAT 3540",
           "color": "#F8E08E"
         },
         {
-          "id": "DATA/STAT 3820",
+          "id": "STAT 3820",
           "color": "#F8E08E"
         },
         {
@@ -206,7 +206,7 @@
       "tUnits": "14",
       "courses": [
         {
-          "id": "STAT 4410",
+          "id": "STAT 4366",
           "color": "#F8E08E"
         },
         {
